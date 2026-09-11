@@ -1,0 +1,37 @@
+# Hướng dẫn làm việc trong repo
+
+## Đọc và xác định phạm vi
+
+Đọc `docs/channel-dna.md`, rồi `episode.md` của tập đang làm và những nguồn/bản nháp được nó trỏ tới. Đọc `docs/workflow.md` khi nhiệm vụ liên quan quy trình hoặc vòng sửa. Không nạp mọi bản nháp cũ, mọi nhận xét và mọi tài liệu vào nhiệm vụ viết.
+
+Chỉ làm phần việc người dùng giao. Review hoặc chẩn đoán không tự động cho phép sửa DNA, workflow hay bản thảo. Yêu cầu trong phiên làm việc hiện tại được ưu tiên; ghi nhận khi nó thay đổi một quyết định cũ.
+
+## Tác giả và trợ lý
+
+Người dùng là tác giả/chủ biên. Trợ lý hỗ trợ research, biên tập, viết và kiểm tra. Các vai trò trong workflow là các hoạt động, không phải yêu cầu tạo nhiều agent. Không tự tổ chức sub-agent hoặc vòng tự viết–tự chấm vô hạn.
+
+Các bước trung gian trong phạm vi được giao có thể làm chủ động. Chỉ hỏi khi một lựa chọn chưa rõ sẽ thực sự thay đổi hướng hoặc kết quả. Không biến mọi biểu mẫu thành cổng xin phép.
+
+## DNA và hướng kể
+
+Giữ định hướng trong DNA. Câu hỏi về con người phải được khảo sát bằng lịch sử cụ thể. Không gán một động cơ, một bản chất hoặc một chu kỳ tất yếu cho tất cả xã hội.
+
+Phản hồi về một đoạn văn không tự động là thay đổi luật chung. Đề xuất thay đổi DNA phải được chỉ rõ; không âm thầm viết lại định vị dựa trên suy luận của trợ lý.
+
+## Viết và nghiên cứu
+
+Không tuyên bố đã đọc nguồn khi chỉ thấy tiêu đề, tóm tắt hoặc trích đoạn. Ghi rõ mức tiếp cận và vị trí hỗ trợ kết luận quan trọng. Nguồn do AI tóm tắt hoặc video đối thủ nêu phải được kiểm tra trước khi coi là bằng chứng lịch sử.
+
+Có thể dùng truyền thuyết, văn bản cổ, giả thuyết và tái dựng có căn cứ theo quy ước trong workflow. Giữ rõ tư cách của từng loại chất liệu. Không bịa trích dẫn, nguồn, đối thoại hay trải nghiệm cá nhân rồi trình bày như sự kiện.
+
+Bản lời kể và ghi chú kiểm chứng là hai phần riêng. Không đưa mã nguồn, checklist hay lời giải thích quy trình vào lời dẫn.
+
+Viết một đoạn nhỏ nghĩa là một đoạn liên tục của tập; không nén cả tập thành số từ của đoạn. Không tự áp hạn mức từ hoặc tỷ lệ cảnh/giải thích.
+
+## Vòng sửa và bàn giao
+
+Trước khi sửa, xác định bản gốc, phạm vi, mục tiêu và những phần cần giữ trong hồ sơ tập. Lưu phản hồi nguyên văn ở revisions.md, tách khỏi diễn giải của trợ lý. Giữ phiên bản cũ; trạng thái bản được chủ kênh chấp nhận phải có bằng chứng phản hồi.
+
+Sau khi làm: cập nhật con trỏ bản hiện tại, việc vừa đổi, điểm chưa chắc và bước tiếp theo. Nếu một vòng sửa không đạt, quay lại bản phù hợp và đổi giả thuyết sửa; không tự thêm lớp harness.
+
+Commit theo phạm vi được giao, không force-push hay ghi đè công việc của người khác. Kiểm tra ref mới nhất trước khi cập nhật remote; nếu thay đổi đồng thời, bảo toàn chúng và xử lý lại.
