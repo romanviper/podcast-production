@@ -24,6 +24,8 @@ Không tuyên bố đã đọc nguồn khi chỉ thấy tiêu đề, tóm tắt 
 
 Có thể dùng truyền thuyết, văn bản cổ, giả thuyết và tái dựng có căn cứ theo quy ước trong workflow. Giữ rõ tư cách của từng loại chất liệu. Không bịa trích dẫn, nguồn, đối thoại hay trải nghiệm cá nhân rồi trình bày như sự kiện.
 
+Không đi thẳng từ đề tài, prompt hoặc danh sách facts sang prose. Trước khi viết một đoạn có chức năng kể chuyện, phải xác định được mô hình câu chuyện tối thiểu: trạng thái ban đầu, chủ thể/lực lượng liên quan, điều mỗi bên muốn hoặc đang cố làm, chuỗi nguyên nhân–hành động–hệ quả, thông tin mà điểm nhìn được phép biết, và điều gì thực sự thay đổi qua đoạn. Mục đích là chứng minh rằng có một câu chuyện để viết trước khi tối ưu câu chữ.
+
 Bản lời kể và ghi chú kiểm chứng là hai phần riêng. Không đưa mã nguồn, checklist hay lời giải thích quy trình vào lời dẫn.
 
 Viết một đoạn nhỏ nghĩa là một đoạn liên tục của tập; không nén cả tập thành số từ của đoạn. Không tự áp hạn mức từ hoặc tỷ lệ cảnh/giải thích.

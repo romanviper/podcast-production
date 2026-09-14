@@ -1,5 +1,21 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-14 — Story-solving trước prose generation
+
+Nguồn quyết định: phản hồi trực tiếp của chủ kênh sau khi quan sát lặp lại việc AI tạo văn bản có “hình dạng của đáp án” nhưng không thực sự giải bài toán kể chuyện.
+
+### Quyết định
+
+- Không đi thẳng từ prompt / facts / outline sang prose.
+- Trước prose phải có một causal/narrative model đủ rõ để chứng minh rằng phần sắp viết có câu chuyện thực sự.
+- Workflow phải phân biệt “dấu hiệu bề mặt của narrative” với cấu trúc narrative thật.
+- Khi model không giải được cấu trúc, quay lại nghiên cứu hoặc biên tập; không bổ sung thêm rule văn phong để ép output trông giống scene/story.
+- Đây là thay đổi workflow chung, không phải feedback cục bộ cho một draft.
+
+### Lý do
+
+LLM có thể sinh output phù hợp nhãn nhiệm vụ bằng pattern matching — ví dụ thêm nhân vật, chi tiết cảm giác, tension hoặc câu kết — mà không dựng trước quan hệ nhân quả, trạng thái và thông tin của câu chuyện. Với creative writing, việc thêm nhiều rule bề mặt có thể làm output compliant hơn mà không làm nó có nội dung hơn.
+
 ## 2026-09-11 — Khởi tạo nền tảng
 
 Nguồn quyết định: cuộc trao đổi trực tiếp với chủ kênh; không phải kết luận suy ra từ đối thủ.

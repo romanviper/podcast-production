@@ -59,9 +59,29 @@ Không bắt mỗi chặng chứa đủ cùng một bộ ô. Không yêu cầu m
 
 Cho chủ kênh thấy hướng kể khi cần lựa chọn có ý nghĩa: thay phạm vi, góc nhìn hoặc hướng kết. Trong nhiệm vụ đã được giao trọn gói, tiếp tục các bước trung gian bằng phán đoán tốt nhất và nêu giả định, không dừng xin phép từng bước.
 
+### Story-solving gate trước khi viết prose
+
+Không coi một outline, một tập facts hay một danh sách “scene / tension / hook” là bằng chứng rằng câu chuyện đã được giải.
+
+Trước khi chuyển sang lời kể, phần sắp viết phải có một mô hình tối thiểu đủ để trả lời:
+
+- Trạng thái ban đầu là gì?
+- Ai hoặc lực lượng nào đang tác động lên tình hình?
+- Họ muốn, sợ, tin hoặc đang cố làm điều gì ở mức bằng chứng cho phép?
+- Sự kiện nào gây ra sự kiện tiếp theo?
+- Điều gì thay đổi qua đoạn này và vì sao nó buộc câu chuyện đi tiếp?
+- Với điểm nhìn đã chọn, người kể/nhân vật biết gì, không biết gì, hiểu sai gì?
+- Đoạn này kết thúc ở một trạng thái khác ban đầu như thế nào?
+
+Không cần biến các câu trả lời thành prose đẹp hoặc biểu mẫu cứng. Chúng là cấu trúc trung gian để ngăn việc model nhảy thẳng từ nhãn nhiệm vụ sang văn bản “trông giống đáp án”.
+
+Nếu không thể dựng được causal/narrative model đủ rõ, quay lại nghiên cứu hoặc biên tập phạm vi. Không dùng giọng văn, chi tiết cảm giác, đối thoại, hook hay câu kết triết lý để che chỗ cấu trúc còn rỗng.
+
 ## 4. Viết lời kể
 
 Tạo drafts/v01.md. Đầu file có nhãn phạm vi: đoạn liên tục hay cả tập, mốc đầu/cuối, bản hồ sơ dựa vào, trạng thái.
+
+Prose là bước render từ mô hình câu chuyện đã có, không phải nơi model vừa tìm câu chuyện vừa giả lập hình dạng của một bản hoàn chỉnh. Khi draft bắt đầu nghe “đúng thể loại” nhưng không thể chỉ ra causal chain hoặc thay đổi trạng thái mà nó đang kể, dừng sinh prose và quay lại bước 3.
 
 Nếu cần kiểm tra giọng kể, chọn một đoạn liên tục đủ chứa chuyển động thật. Đừng nén toàn bộ tập vào một excerpt. Không tự gán độ dài 300–400 từ hoặc bất kỳ hạn mức chung nào.
 
