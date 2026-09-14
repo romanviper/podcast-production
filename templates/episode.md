@@ -25,7 +25,9 @@ Viết văn xuôi đủ để thấy sự chuyển động và quan hệ giữa 
 
 ## Những chặng cần phát triển
 
-Mô tả tự do hoặc dùng bảng nếu hữu ích: vị trí trong câu chuyện, người/dấu tích/biến cố để theo, sự thay đổi, giải thích cần thiết và nguồn/chất liệu. Không bắt mọi chặng có cùng cấu trúc.
+Mô tả tự do hoặc dùng bảng nếu hữu ích: chặng này đưa diễn biến lịch sử tiến lên, thay đổi cách người nghe hiểu lịch sử, hay cung cấp bối cảnh cần thiết? Nêu người/dấu tích/biến cố hoặc chất liệu thực hiện chức năng đó. Không bắt mọi chặng có cùng cấu trúc.
+
+Nối các quyết định quan trọng về chủ thể, bước ngoặt, điểm nhìn và mức triển khai với mã chất liệu, nguồn và vị trí trong research.md. Nêu giới hạn nếu chất liệu chỉ đủ giải thích ngắn hoặc quan hệ nhân quả còn chưa rõ. Khi viết thử làm thay đổi hướng kể, cập nhật phần này và ghi điều còn mở; không cần điền hồ sơ cho mọi câu.
 
 ## Nghiên cứu và điểm còn mở
 

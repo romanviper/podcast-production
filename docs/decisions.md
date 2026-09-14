@@ -1,5 +1,24 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-14 — Điều chỉnh bước viết và kiểm tra chất liệu sau đối chiếu cách làm của Paul M. M. Cooper
+
+Nguồn quyết định: chủ kênh yêu cầu thực hiện bốn thay đổi sau review repo tại `9b89acfb766679930125364967a5b2d18885b166`.
+
+### Phạm vi điều chỉnh
+
+- Giữ yêu cầu hiểu phần sắp viết và có căn cứ trước khi viết. Làm rõ quyết định “Story-solving trước prose generation” bên dưới: mô hình ban đầu có thể được kiểm tra và điều chỉnh qua bản nháp; viết không chỉ là diễn đạt một cấu trúc đã khóa xong.
+- Phân biệt diễn biến lịch sử, diễn tiến khám phá của người nghe và phần bối cảnh cần thiết. Không bắt mỗi đoạn chứa cùng một chuỗi nhân vật–mong muốn–hành động–hệ quả.
+- Nối các quyết định gánh câu chuyện với chất liệu, vị trí nguồn và giới hạn ngay trong hồ sơ tập hiện có. Điền đủ câu trả lời về cấu trúc chưa chứng minh nội dung có căn cứ.
+- Cho phép nghe thử từ đoạn liền mạch trong vòng viết/sửa; ghi phương thức kiểm tra, vị trí vấn đề và bài học có bằng chứng khi có. Không thêm cổng phê duyệt, hạn mức từ hoặc hệ thống chấm điểm.
+
+Nếu bản nháp làm thay đổi hướng kể hoặc bộc lộ nhu cầu nghiên cứu, cập nhật mạch truyện và nguồn liên quan, giữ rõ điều chưa giải quyết. Các thay đổi đáng kể vẫn theo phạm vi được chủ kênh giao.
+
+### Cơ sở và giới hạn
+
+Cooper mô tả việc nghiên cứu và viết đan xen trong [AMA năm 2024](https://www.reddit.com/r/IAmA/comments/1c8oa9h/im_paul_cooper_the_host_of_the_fall_of/). Trong [phỏng vấn Lessons from History](https://www.youtube.com/watch?v=iX9J1a0-tuA), ông nói về việc dùng phế tích để mở câu chuyện, lựa chọn bước chuyển và sửa lời khi thu âm.
+
+Các thay đổi trên là cách vận dụng được chủ kênh chọn cho cộng tác với AI, chưa phải quy trình đã được chứng minh hiệu quả bằng một tập hoàn chỉnh. Kiểm nghiệm trên bản viết thật và phản hồi cụ thể; không lấy việc tuân thủ tài liệu làm bằng chứng chất lượng. Giữ nguyên DNA và cơ chế lưu phiên bản, nguồn, phản hồi hiện có.
+
 ## 2026-09-14 — Story-solving trước prose generation
 
 Nguồn quyết định: phản hồi trực tiếp của chủ kênh sau khi quan sát lặp lại việc AI tạo văn bản có “hình dạng của đáp án” nhưng không thực sự giải bài toán kể chuyện.

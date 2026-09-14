@@ -24,7 +24,9 @@ Không tuyên bố đã đọc nguồn khi chỉ thấy tiêu đề, tóm tắt 
 
 Có thể dùng truyền thuyết, văn bản cổ, giả thuyết và tái dựng có căn cứ theo quy ước trong workflow. Giữ rõ tư cách của từng loại chất liệu. Không bịa trích dẫn, nguồn, đối thoại hay trải nghiệm cá nhân rồi trình bày như sự kiện.
 
-Không đi thẳng từ đề tài, prompt hoặc danh sách facts sang prose. Trước khi viết một đoạn có chức năng kể chuyện, phải xác định được mô hình câu chuyện tối thiểu: trạng thái ban đầu, chủ thể/lực lượng liên quan, điều mỗi bên muốn hoặc đang cố làm, chuỗi nguyên nhân–hành động–hệ quả, thông tin mà điểm nhìn được phép biết, và điều gì thực sự thay đổi qua đoạn. Mục đích là chứng minh rằng có một câu chuyện để viết trước khi tối ưu câu chữ.
+Không đi thẳng từ đề tài, prompt hoặc danh sách facts sang một bản lời kể được trình bày như đã giải xong câu chuyện. Trước khi viết, xác định chức năng và cơ sở của phần sắp viết: đưa diễn biến lịch sử tiến lên, thay đổi cách người nghe hiểu lịch sử, hoặc cung cấp bối cảnh cần thiết. Nối các quyết định quan trọng về chủ thể, bước ngoặt, điểm nhìn và mức triển khai với chất liệu, nguồn và giới hạn cụ thể. Không bắt mọi đoạn có nhân vật, mong muốn hay chuỗi hành động; không suy quan hệ nhân quả chỉ từ thứ tự sự kiện.
+
+Mô hình ban đầu đủ để viết thử trong phạm vi đã giao, không cần khóa mọi quyết định của cả tập. Bản nháp có thể làm lộ chỗ cần nghiên cứu hoặc biên tập lại; khi đó cập nhật mạch truyện và nguồn liên quan, ghi rõ điều chưa giải quyết. Không âm thầm đổi hướng hoặc dùng câu chữ để che thiếu hụt nội dung.
 
 Bản lời kể và ghi chú kiểm chứng là hai phần riêng. Không đưa mã nguồn, checklist hay lời giải thích quy trình vào lời dẫn.
 

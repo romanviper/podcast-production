@@ -1,6 +1,6 @@
 # Workflow biên tập v0.1
 
-Ngày: 2026-09-11.
+Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-14.
 Trạng thái: thiết kế ban đầu theo yêu cầu chủ kênh; chưa được kiểm nghiệm bằng một tập hoàn chỉnh.
 
 ## Kiến trúc: tài liệu ổn định, hồ sơ tập, phiên bản bản thảo
@@ -48,6 +48,8 @@ Tập trung vào bước ngoặt, lựa chọn và đời sống cụ thể. Đ�
 
 Trong episode.md, dựng một bản kể ngắn bằng văn xuôi về câu chuyện từ đầu tới cuối, với độ dài đủ để nhìn thấy chuyển động. Đây là cách kiểm tra quan hệ giữa các phần, không phải tóm toàn bộ mọi ý thành một giới hạn từ cố định.
 
+Khi nhiệm vụ chỉ là viết thử một đoạn, xác định mạch và căn cứ cho đoạn đó cùng vị trí dự kiến trong tập; ghi các phần chưa rõ là điều còn mở, không cần hoàn tất mạch toàn tập trước khi viết thử.
+
 Bổ sung các chặng theo nhu cầu:
 - Người nghe đang ở đâu, theo ai hoặc theo dấu tích nào?
 - Điều gì đang diễn ra và có ý nghĩa gì với người trong cuộc?
@@ -59,29 +61,25 @@ Không bắt mỗi chặng chứa đủ cùng một bộ ô. Không yêu cầu m
 
 Cho chủ kênh thấy hướng kể khi cần lựa chọn có ý nghĩa: thay phạm vi, góc nhìn hoặc hướng kết. Trong nhiệm vụ đã được giao trọn gói, tiếp tục các bước trung gian bằng phán đoán tốt nhất và nêu giả định, không dừng xin phép từng bước.
 
-### Story-solving gate trước khi viết prose
+### Hiểu phần sắp viết và căn cứ trước khi viết lời kể
 
-Không coi một outline, một tập facts hay một danh sách “scene / tension / hook” là bằng chứng rằng câu chuyện đã được giải.
+Không coi một outline, một tập facts hay danh sách “scene / tension / hook” là bằng chứng rằng câu chuyện đã được giải. Trong hồ sơ tập hiện có, nêu chức năng của phần sắp viết và chất liệu cụ thể thực hiện chức năng đó:
 
-Trước khi chuyển sang lời kể, phần sắp viết phải có một mô hình tối thiểu đủ để trả lời:
+- Đưa diễn biến lịch sử tiến lên: tình thế, chủ thể/lực lượng, hành động và hệ quả nào có căn cứ? Động cơ nào được biết, được suy luận hoặc còn chưa rõ?
+- Thay đổi cách người nghe hiểu lịch sử: dấu tích, lời chứng, truyền thuyết hoặc cách giải thích nào bổ sung, thách thức hay làm sáng tỏ điều đã kể?
+- Cung cấp bối cảnh cần thiết: người nghe cần hiểu gì để theo được chặng tiếp theo, và phần giải thích cần triển khai đến đâu?
 
-- Trạng thái ban đầu là gì?
-- Ai hoặc lực lượng nào đang tác động lên tình hình?
-- Họ muốn, sợ, tin hoặc đang cố làm điều gì ở mức bằng chứng cho phép?
-- Sự kiện nào gây ra sự kiện tiếp theo?
-- Điều gì thay đổi qua đoạn này và vì sao nó buộc câu chuyện đi tiếp?
-- Với điểm nhìn đã chọn, người kể/nhân vật biết gì, không biết gì, hiểu sai gì?
-- Đoạn này kết thúc ở một trạng thái khác ban đầu như thế nào?
+Một đoạn có thể làm nhiều việc trên. Không bắt mọi đoạn phải có nhân vật, mong muốn, hành động hay bước ngoặt riêng. Phân biệt thứ tự người nghe tiếp nhận thông tin với thứ tự sự kiện; việc hai sự kiện nối tiếp không tự chứng minh quan hệ nhân quả. Giữ rõ người kể và người đương thời biết gì, chưa biết gì hoặc hiểu sai gì ở mức tư liệu cho phép.
 
-Không cần biến các câu trả lời thành prose đẹp hoặc biểu mẫu cứng. Chúng là cấu trúc trung gian để ngăn việc model nhảy thẳng từ nhãn nhiệm vụ sang văn bản “trông giống đáp án”.
+Nối các quyết định gánh câu chuyện với chất liệu trong research.md và vị trí nguồn: vì sao theo chủ thể này, chọn bước ngoặt này hoặc dành mức triển khai này cho đoạn. Nêu chất liệu đủ để kể điều gì, chỉ đủ giải thích ngắn điều gì và còn thiếu gì. Truyền thuyết có thể cho thấy niềm tin mà không chứng minh sự kiện; khoảng trống nhân quả phải được giữ là chưa biết. Không cần lập hồ sơ cho mọi câu hoặc điền đủ một biểu mẫu.
 
-Nếu không thể dựng được causal/narrative model đủ rõ, quay lại nghiên cứu hoặc biên tập phạm vi. Không dùng giọng văn, chi tiết cảm giác, đối thoại, hook hay câu kết triết lý để che chỗ cấu trúc còn rỗng.
+Mô hình ban đầu là giả thuyết biên tập đủ rõ và có căn cứ cho phần sắp viết, không phải cam kết đã giải xong toàn tập. Có thể viết thử để kiểm tra cách kể trong phạm vi đã giao. Nếu chưa xác định được chức năng hoặc thiếu căn cứ cho nội dung chính, quay lại nghiên cứu hoặc điều chỉnh phạm vi; không dùng chi tiết cảm giác, đối thoại hay câu kết triết lý để che chỗ rỗng.
 
 ## 4. Viết lời kể
 
 Tạo drafts/v01.md. Đầu file có nhãn phạm vi: đoạn liên tục hay cả tập, mốc đầu/cuối, bản hồ sơ dựa vào, trạng thái.
 
-Prose là bước render từ mô hình câu chuyện đã có, không phải nơi model vừa tìm câu chuyện vừa giả lập hình dạng của một bản hoàn chỉnh. Khi draft bắt đầu nghe “đúng thể loại” nhưng không thể chỉ ra causal chain hoặc thay đổi trạng thái mà nó đang kể, dừng sinh prose và quay lại bước 3.
+Viết dựa trên hướng kể và chất liệu đã xác định, đồng thời dùng bản nháp để kiểm tra chúng. Nếu lúc viết phát hiện cần đổi điểm nhìn, thứ tự, mức triển khai hoặc bổ sung tư liệu, cập nhật mạch truyện và nguồn liên quan trong hồ sơ tập; giữ rõ giả thuyết nào đã đổi, điều gì còn chưa giải quyết. Thay đổi đáng kể về phạm vi, góc nhìn hoặc hướng kết vẫn theo quy định ở bước 3. Khi lời kể chỉ còn tạo cảm giác “đúng thể loại” mà thiếu nội dung có căn cứ hoặc chức năng rõ ràng, quay lại nghiên cứu hoặc biên tập phần đó.
 
 Nếu cần kiểm tra giọng kể, chọn một đoạn liên tục đủ chứa chuyển động thật. Đừng nén toàn bộ tập vào một excerpt. Không tự gán độ dài 300–400 từ hoặc bất kỳ hạn mức chung nào.
 
@@ -90,6 +88,8 @@ Hồ sơ dùng khi viết chỉ gồm DNA, hướng kể hiện tại, chất li
 Viết lời để nghe: diễn biến có thể hình dung, động cơ đúng mức bằng chứng, giải thích đến khi cần, khoảng lùi để cảm nhận. Tránh bình luận thay người nghe về ý nghĩa của từng chi tiết.
 
 Đặt ghi chú nguồn theo phần/đoạn ở research.md hoặc ghi chú riêng cuối bản nháp. Những hạn định lịch sử quan trọng phải hiện ra tự nhiên trong lời kể.
+
+Khi một đoạn đã đủ liền mạch, có thể đọc thành tiếng hoặc tạo bản đọc thử trong phạm vi và công cụ cho phép để kiểm tra nhịp, khả năng theo dõi và mong muốn nghe tiếp. Không cần chờ cả tập hoàn chỉnh hoặc thêm nhạc, hình ảnh. Ghi đúng phương thức đã kiểm tra và vị trí phát sinh vấn đề trong revisions.md; nếu chỉ đọc văn bản, không tuyên bố đã nghe thử. Việc này không tạo thêm cổng phê duyệt.
 
 ## 5. Sửa có mốc so sánh
 
@@ -106,7 +106,7 @@ So sánh trước/sau bằng đoạn cụ thể:
 - Vấn đề dự định sửa có giảm không?
 - Những gì đã tốt có bị mất không?
 - Có thêm hiểu lầm hoặc khẳng định lịch sử quá mức không?
-- Khi đọc/nghe liên tục, nhịp và hướng câu chuyện có còn rõ không?
+- Khi đọc/nghe liên tục, nhịp và hướng câu chuyện có còn rõ không? Ghi cách kiểm tra đã thực hiện, ai phản hồi nếu có, và vị trí mất phương hướng hoặc mất hứng thú.
 
 Cùng một trợ lý tự đánh giá chỉ cho kết luận tạm thời. Chỉ gắn “được chủ kênh chấp nhận” khi có phản hồi tương ứng; phân biệt chấp nhận đoạn, hướng kể và cả tập.
 
@@ -151,6 +151,8 @@ Tôn trọng sử liệu không có nghĩa chỉ kể những gì có hồ sơ t
 - Kết thúc phiên làm việc bằng trạng thái đủ cho người tiếp theo tiếp tục mà không cần đọc cả lịch sử chat.
 
 ## Học từ sản phẩm
+
+Khi một vòng sửa thực sự cho bài học, ghi ngắn trong revisions.md: dự đoán ban đầu, kết quả quan sát và giới hạn áp dụng. Phân biệt nhận xét của trợ lý với phản ứng của chủ kênh hoặc người nghe; chỉ ghi khi có bằng chứng cụ thể, không bắt mỗi vòng có bài học hay nâng một kết quả cục bộ thành luật chung.
 
 Sau một bản hoàn chỉnh, ghi điều đáng giữ và điều cần thử tiếp ở cấp tập. Sau xuất bản, nếu được giao và có quyền truy cập, xem retention, người xem quay lại, chuyển tiếp giữa tập và bình luận. Tách dữ liệu quan sát khỏi diễn giải; không suy retention từ lượt xem.
 
