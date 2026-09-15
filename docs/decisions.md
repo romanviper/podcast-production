@@ -1,5 +1,39 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-15 — Mở rộng narrative model: human trajectory và idea/system trajectory
+
+Nguồn quyết định: cuộc trao đổi trực tiếp với chủ kênh sau khi đối chiếu Fall of Civilizations, Defunctland (FastPass), một video Silk Road thiên information-narrative, cùng các kênh lịch sử/công nghệ gần chủ đề.
+
+### Quyết định
+
+- Không đồng nhất narrative với việc phải có một protagonist cá nhân được đặt tên.
+- Có ba dạng mạch kể hợp lệ ở cấp tập: human-centered, idea/system-centered và hybrid.
+- Human-centered story được gánh bởi mong muốn, lựa chọn, áp lực, xung đột và hậu quả của người/nhóm người.
+- Idea/system-centered story được gánh bởi một nhu cầu hoặc khát vọng rất người embodied trong công cụ/hệ thống, rồi phát triển qua thử nghiệm, tiến bộ, scale, trade-off, reversal và giới hạn còn lại.
+- Cảm xúc có thể đến từ attachment với con người, nhưng cũng có thể đến từ việc chứng kiến một khát vọng rất người va vào một giới hạn chưa thể xóa bỏ hoàn toàn.
+- Tầm quan trọng lịch sử của một công cụ không đủ để greenlight một tập. Cần tìm meaningful trajectory hoặc tension có sức sống sau khi bỏ facts thú vị và significance bề mặt.
+- Khi một nhu cầu nguyên thủy đã được công cụ giải quyết gần như trọn vẹn, không cưỡng ép bi kịch. Chỉ tiếp tục nếu research tìm được human story, contradiction, trade-off hoặc một câu hỏi khác đủ mạnh; nếu không có thể đổi góc hoặc bỏ đề tài.
+- Không dùng POV, sensory detail, scene, hook hay cinematic language như bằng chứng rằng selection đã trở thành narrative. Storytelling có thể chỉ là phương tiện vận chuyển information.
+- Với video, visual/audio có thể trực tiếp gánh evidence, causality, contrast, reveal, satire, metaphor và emotional turn. Không giả định transcript là toàn bộ narrative architecture; cũng không dùng visual để cứu một mạch kể chưa được giải.
+
+### Cơ sở biên tập
+
+FastPass cho thấy một system story vẫn có thể mang emotional arc mà không cần human protagonist mạnh: một lý tưởng tốt đẹp về việc giải phóng con người khỏi chờ đợi được phát triển qua nhiều thế hệ giải pháp, rồi cuối cùng va vào scarcity không thể biến mất. Cảm giác mất mát đến từ khoảng cách giữa promise và giới hạn thực tế, không chỉ từ số phận một nhân vật.
+
+Ngược lại, video Silk Road được xem trong cùng phiên dùng POV, danger và storytelling khá hiệu quả nhưng backbone chủ yếu vẫn là selection nhằm truyền đạt thông tin về Silk Road. Điều này làm rõ khác biệt giữa narrative techniques và narrative carrier.
+
+Fall of Civilizations vẫn là tham chiếu mạnh cho human experience và emotional depth; Defunctland cho thấy một đường khác, nơi idea/system trajectory và visual editing cùng tạo meaning. Repo không khóa một trong hai thành format duy nhất.
+
+### Tác động tới workflow
+
+- Bước phát triển đề tài hỏi thêm human desire/limit, dạng trajectory và tension còn sống.
+- Nghiên cứu tìm song song human trajectory và idea/system trajectory khi phù hợp.
+- Biên tập mạch truyện phải chỉ ra thứ đang thực sự thay đổi theo thời gian và tạo meaning.
+- Review phân biệt information curiosity với meaningful trajectory thay vì chỉ hỏi “có scene/nhân vật không”.
+- Production note ghi rõ beat nào narration gánh và beat nào visual/audio trực tiếp kể chuyện.
+
+Các nguyên tắc này là định hướng biên tập đã được chủ kênh đồng ý trong phiên trao đổi, nhưng hiệu quả sản xuất vẫn cần được kiểm nghiệm bằng tập thật. Không biến chúng thành checklist cứng hoặc yêu cầu mọi episode phải có unresolved existential problem.
+
 ## 2026-09-14 — Điều chỉnh bước viết và kiểm tra chất liệu sau đối chiếu cách làm của Paul M. M. Cooper
 
 Nguồn quyết định: chủ kênh yêu cầu thực hiện bốn thay đổi sau review repo tại `9b89acfb766679930125364967a5b2d18885b166`.

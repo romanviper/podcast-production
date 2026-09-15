@@ -1,10 +1,10 @@
 # Podcast Production
 
-Kho biên tập cho một kênh podcast lịch sử dài, giàu tính điện ảnh.
+Kho biên tập cho một kênh podcast/video lịch sử dài, giàu tính điện ảnh.
 
-**Con người là đối tượng kể chuyện. Công cụ, hệ thống và thiết chế là lăng kính để khám phá họ.**
+**Con người là đối tượng khám phá. Công cụ, hệ thống và thiết chế là lăng kính; mạch kể có thể đi qua một con người, một cộng đồng hoặc chính trajectory của một ý tưởng/hệ thống khi nó làm lộ ra khát vọng, lựa chọn và giới hạn của con người.**
 
-Chúng ta muốn khán giả quay lại vì điều họ hiểu thêm về con người qua từng câu chuyện, kể cả khi công cụ được kể thay đổi.
+Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận thêm về con người qua từng câu chuyện, kể cả khi công cụ được kể thay đổi.
 
 ## Bắt đầu ở đây
 
@@ -40,5 +40,6 @@ Ngôn ngữ kịch bản, thời lượng cụ thể, lịch phát hành và ng�
 - Chủ kênh giữ quyền quyết định định hướng và đánh giá trải nghiệm cuối cùng.
 - Trợ lý chủ động thực hiện phần việc đã giao; không cần xin phép lại cho các bước đọc, nghiên cứu, sửa và kiểm tra đã nằm trong phạm vi.
 - Giữ lại những gì đã tốt; bản mới không tự động trở thành bản tốt nhất.
-- Đánh giá trên trải nghiệm lời kể và độ trung thực với tư liệu.
+- Đánh giá trên trải nghiệm lời kể, giá trị cảm xúc/ý nghĩa và độ trung thực với tư liệu.
+- Không greenlight một đề tài chỉ vì nó quan trọng trong lịch sử; cần tìm được câu chuyện, trajectory hoặc tension đủ sức tồn tại vượt khỏi việc truyền đạt facts.
 - Chỉ bổ sung cơ chế quản lý khi một vấn đề thực tế cho thấy cần thiết.
