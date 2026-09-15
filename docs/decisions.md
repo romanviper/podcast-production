@@ -1,5 +1,36 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-15 — Cạnh tranh phải được đánh giá ở cấp lãnh thổ biên tập
+
+Nguồn quyết định: trao đổi trực tiếp với chủ kênh sau khi đối chiếu *Fall of Civilizations* với thị trường lịch sử rộng hơn và xem lại *How the Internet Was Stolen* của Then & Now.
+
+### Quyết định
+
+- Không đánh giá cơ hội thị trường chỉ bằng số lượng video về cùng chủ đề.
+- Đơn vị cạnh tranh hữu ích hơn là tổ hợp: **chủ đề × câu hỏi trung tâm × góc nhìn × đường cảm xúc × trải nghiệm kể chuyện**.
+- Một chủ đề rất đông nội dung vẫn có thể còn khoảng trống nếu cách tiêu thụ khác rõ rệt. Ngược lại, một chủ đề ít video chưa chắc là cơ hội nếu không có bằng chứng nhu cầu.
+- Khi một tác phẩm mạnh đã triển khai gần đúng câu hỏi trung tâm, góc nhìn và đường ý nghĩa dự kiến, không coi “kể hay hơn”, “nghiên cứu sâu hơn” hoặc “dựng điện ảnh hơn” là khác biệt đủ mạnh.
+- Trước khi đầu tư nghiên cứu sâu vào một tập, phải kiểm tra song song hai điều: có nhu cầu khán giả quanh vùng chủ đề/vấn đề và còn khoảng trống biên tập thực sự.
+- Khi lập danh sách ứng viên, không scope ngay về một trường hợp lịch sử chỉ vì nó dễ kể hoặc có nguồn tốt. Trước hết tìm một vấn đề/khát vọng/contradiction đáng kể, sau đó tìm những trường hợp lịch sử có thể hiện thân cho nó, rồi kiểm tra thị trường.
+- Chủ kênh hiện ưu tiên các công cụ, thiết chế và hệ thống cũ hơn để tránh cạnh tranh trực diện với nội dung giải thích/bình luận hiện đại đã quá đông, đồng thời giữ lợi thế nhập vai lịch sử và kể thiên âm thanh kiểu *Fall of Civilizations*.
+- Ưu tiên trên không đồng nghĩa “càng cổ càng tốt”; vẫn phải loại nếu nhu cầu yếu, tư liệu nghèo hoặc lãnh thổ biên tập đã bị khai thác rất mạnh.
+
+### Cơ sở biên tập
+
+*Fall of Civilizations* không thành công vì chọn những nền văn minh chưa ai từng nói tới. Nhiều nền văn minh trong loạt đã có lượng nội dung lịch sử rất lớn. Khoảng trống nằm ở lời hứa trải nghiệm: đưa người nghe vào một thế giới khi nó còn sống, cho họ cảm nhận sự vĩ đại của nó và đi cùng quá trình thế giới ấy biến mất. Đây là một cách tiêu thụ lịch sử khác đáng kể so với phần lớn video giải thích sự kiện.
+
+Ngược lại, Internet là ví dụ về một lãnh thổ đã bị khai thác sâu hơn ở cấp góc nhìn. *How the Internet Was Stolen* không chỉ cung cấp lịch sử Internet; tác phẩm tổ chức toàn bộ câu chuyện quanh lời hứa về tính mở, tự do và hợp tác rồi theo dõi cách quyền lực thương mại, độc quyền và giám sát biến dạng lời hứa đó. Một tập mới đi gần đúng đường này sẽ cạnh tranh trực tiếp về quan điểm, dù thay nhân vật, facts hoặc chất lượng văn chương.
+
+Do đó, nghiên cứu thị trường phải tìm các tác phẩm mạnh nhất và phân tích chúng đang “sở hữu” câu hỏi nào, không chỉ đếm kết quả tìm kiếm.
+
+### Tác động tới repo
+
+- Thêm `docs/market-research.md` làm tài liệu chuyên về nhu cầu, nguồn cung và lãnh thổ biên tập.
+- `templates/episode.md` có phần khảo sát thị trường trước nghiên cứu sâu, bao gồm tác phẩm cạnh tranh, câu hỏi/góc nhìn đã bị chiếm và khác biệt thật sự của tập.
+- README dẫn tới tài liệu này và coi khảo sát thị trường là một loại nhiệm vụ độc lập.
+
+Đây là tiêu chuẩn chọn đề tài, không phải yêu cầu mọi tập phải hoàn toàn chưa từng có tiền lệ. Mục tiêu là tránh đầu tư lớn vào một câu chuyện mà giá trị biên tập cốt lõi đã được một tác phẩm mạnh khai thác gần như trọn vẹn.
+
 ## 2026-09-15 — Mở rộng narrative model: human trajectory và idea/system trajectory
 
 Nguồn quyết định: cuộc trao đổi trực tiếp với chủ kênh sau khi đối chiếu Fall of Civilizations, Defunctland (FastPass), một video Silk Road thiên information-narrative, cùng các kênh lịch sử/công nghệ gần chủ đề.

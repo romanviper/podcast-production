@@ -1,6 +1,6 @@
 # <ID — Tên làm việc của tập>
 
-Trạng thái: ý tưởng / đang nghiên cứu / đang dựng câu chuyện / đang viết / đang sửa / chuẩn bị sản xuất.
+Trạng thái: ý tưởng / đang khảo sát thị trường / đang nghiên cứu / đang dựng câu chuyện / đang viết / đang sửa / chuẩn bị sản xuất.
 Chỉ giữ trạng thái phù hợp; đây là nhãn bàn giao, không phải cổng phê duyệt.
 
 ## Việc đang được giao
@@ -24,6 +24,22 @@ Chỉ giữ trạng thái phù hợp; đây là nhãn bàn giao, không phải c
 - Nếu bỏ tầm quan trọng lịch sử và facts thú vị, còn gì đủ sức giữ tập này?
 - Những điều có thể thách thức hướng nhìn ban đầu:
 - Ý tưởng giới thiệu tập với khán giả (chưa phải tiêu đề đã chốt):
+
+## Khảo sát thị trường và lãnh thổ biên tập
+
+Dùng [nguyên tắc nghiên cứu thị trường](../docs/market-research.md) khi nhiệm vụ là chọn đề tài hoặc khi chưa biết ý tưởng có đủ khác biệt để đầu tư sâu.
+
+- Bằng chứng nhu cầu quanh vùng chủ đề hoặc các vùng khán giả lân cận:
+- Những tác phẩm mạnh nhất và gần nhất đã tìm được:
+- Câu hỏi trung tâm/góc nhìn mà từng tác phẩm đã chiếm:
+- Đường cảm xúc hoặc trải nghiệm mà chúng đang bán:
+- Ý tưởng của tập này khác ở cấp câu hỏi/góc nhìn/trải nghiệm nào, không tính “kể hay hơn”:
+- Nếu bỏ khác biệt trên, có đang làm lại một tác phẩm đã tồn tại không?
+- Khoảng trống có phù hợp với podcast/video dài thiên âm thanh không?
+- Điều còn chưa biết về nhu cầu hoặc cạnh tranh:
+- Kết luận tạm thời: tiếp tục khảo sát / đáng nghiên cứu sâu / hạ ưu tiên / loại.
+
+Không coi ít kết quả tìm kiếm là bằng chứng có cơ hội. Không coi chủ đề đông là lý do loại nếu cách tiêu thụ và lãnh thổ biên tập còn khác biệt rõ.
 
 ## Bản kể ngắn về mạch truyện
 

@@ -15,6 +15,23 @@ Thay đổi một lớp không tự động kéo theo thay đổi hai lớp kia.
 
 Các vai trò research, biên tập, viết và kiểm chứng có thể do cùng một trợ lý thực hiện ở các thời điểm khác nhau. Chưa cần phần mềm điều phối, agent cố định, hệ thống chấm điểm hay CI.
 
+## 0. Khảo sát thị trường và lãnh thổ biên tập
+
+Khi nhiệm vụ là tìm hoặc so sánh đề tài, đọc [market-research.md](market-research.md) trước khi đầu tư nghiên cứu sâu.
+
+Không đánh giá cạnh tranh chỉ bằng số lượng video cùng chủ đề. Với mỗi ứng viên, cần kiểm tra đồng thời:
+
+- Có bằng chứng nhu cầu quanh vùng chủ đề, vấn đề hoặc kiểu trải nghiệm lân cận không?
+- Những tác phẩm mạnh nhất đã kể câu chuyện đó theo câu hỏi trung tâm và góc nhìn nào?
+- Đường cảm xúc/trải nghiệm nào đã được phục vụ tốt?
+- Ý tưởng của ta có khác ở cấp câu hỏi, quan điểm hoặc trải nghiệm, hay chỉ là lời hứa “kể hay hơn”?
+
+Nếu một tác phẩm mạnh đã triển khai gần đúng lãnh thổ biên tập dự kiến, đổi câu hỏi/góc nhìn hoặc hạ ưu tiên; không coi thêm facts, thêm chiều dài hay văn phong điện ảnh hơn là khác biệt đủ mạnh.
+
+Ưu tiên chiến lược hiện tại là các công cụ, thiết chế và hệ thống cũ hơn, nơi một vấn đề phổ quát có thể được trải nghiệm trong thế giới lịch sử rồi mới vọng tới hiện tại. Đây là ưu tiên tìm kiếm để giảm cạnh tranh trực diện với nội dung bình luận hiện đại và phù hợp với hướng kể dài thiên âm thanh; không phải quy tắc rằng đề tài càng cổ càng tốt.
+
+Chỉ khi khoảng trống thị trường và giá trị câu chuyện đều đủ hứa hẹn mới chuyển sang nghiên cứu sâu.
+
 ## 1. Phát triển đề tài
 
 Trong episode.md, viết ngắn gọn:
