@@ -10,6 +10,19 @@ Mỗi lượt chỉ giải **một câu hỏi biên tập chính**. Đầu ra c�
 
 Một ứng viên có thể bị loại ở bất kỳ lượt nào. Không cố cứu một ứng viên yếu bằng cách gắn thêm triết lý, nhân vật, bi kịch hoặc thị trường.
 
+## Điều phối bằng sub-agent
+
+Agent chính là điều phối viên, không phải người tự thực hiện toàn bộ chuỗi A–F trong cùng một ngữ cảnh.
+
+- Mỗi lượt A–F mặc định được giao cho một **sub-agent mới/sạch**.
+- Sub-agent chỉ nhận: mục tiêu của lượt hiện tại, đầu vào đã sống sót từ lượt trước và những tài liệu tối thiểu cần thiết.
+- Không đưa cho sub-agent toàn bộ checklist của các lượt sau; không yêu cầu nó tự dự đoán hoặc tối ưu những tiêu chí chưa đến lượt.
+- Agent chính chỉ hợp nhất, loại và chuyển giao; không tự bổ sung phần triết học, thị trường hoặc nguồn để cứu một đầu ra yếu.
+- Có thể dùng nhiều sub-agent song song trong cùng một lượt để mở rộng vùng tìm kiếm, nhưng tất cả phải cùng một trách nhiệm. Không để một sub-agent chạy từ premise đến market/research hoàn chỉnh.
+- Kết quả của lượt trước nên được nén về đúng phần lượt sau cần, để sub-agent mới không bị neo bởi toàn bộ quá trình suy luận cũ.
+
+Mục đích của việc dùng sub-agent không phải tăng số lượng agent, mà là **cô lập trách nhiệm và ngữ cảnh**. Nếu môi trường không hỗ trợ sub-agent, vẫn phải mô phỏng cách làm này bằng các lượt độc lập với ngữ cảnh tối thiểu.
+
 ## Lượt A — Chỉ tìm giá trị chú ý
 
 Câu hỏi duy nhất:
