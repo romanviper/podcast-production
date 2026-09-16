@@ -11,19 +11,25 @@ Chỉ giữ trạng thái phù hợp; đây là nhãn bàn giao, không phải c
 
 ## Câu chuyện muốn khám phá
 
-- Công cụ/hệ thống cụ thể:
+- Vấn đề con người hoặc câu hỏi triết học làm điểm xuất phát:
+- Vì sao vấn đề này có thể còn liên quan tới một người hiện đại sau khi câu chuyện lịch sử kết thúc?
+- Phần dư ý nghĩa dự kiến: người xem có thể mang gì về để nhìn lại chính đời sống của mình?
+- Công cụ/hệ thống/thiết chế được dùng làm lăng kính:
+- Vì sao lăng kính này làm vấn đề trên hiện ra tự nhiên hơn các lựa chọn khác?
 - Thời gian, địa bàn và những giới hạn:
-- Nhu cầu, khát vọng hoặc giới hạn của con người làm điểm xuất phát:
+- Nhu cầu, khát vọng hoặc giới hạn của con người làm điểm xuất phát lịch sử:
 - Biến đổi đáng kể trong đời sống/xã hội:
-- Câu hỏi người nghe muốn theo:
+- Câu hỏi người nghe muốn theo ở cấp câu chuyện bề mặt:
 - Dạng trajectory dự kiến: human-centered / idea-system-centered / hybrid / chưa rõ.
 - Human story có thể gánh câu chuyện, nếu có:
 - Idea/system arc có thể gánh câu chuyện, nếu có:
 - Thành tựu thực sự đã đạt được:
 - Giới hạn, contradiction, trade-off hoặc tension còn sống sau thành tựu, nếu có:
 - Nếu bỏ tầm quan trọng lịch sử và facts thú vị, còn gì đủ sức giữ tập này?
-- Những điều có thể thách thức hướng nhìn ban đầu:
+- Những điều có thể thách thức câu hỏi hoặc hướng nhìn ban đầu:
 - Ý tưởng giới thiệu tập với khán giả (chưa phải tiêu đề đã chốt):
+
+Câu hỏi triết học có thể được chọn sớm để định hướng tìm chuyện. Không khóa sẵn kết luận. Nếu nghiên cứu cho thấy câu chuyện thực sự nói về điều khác, cập nhật phần dư ý nghĩa và hướng kể thay vì ép bằng chứng quay về giả thuyết ban đầu.
 
 ## Khảo sát thị trường và lãnh thổ biên tập
 
@@ -32,8 +38,9 @@ Dùng [nguyên tắc nghiên cứu thị trường](../docs/market-research.md) 
 - Bằng chứng nhu cầu quanh vùng chủ đề hoặc các vùng khán giả lân cận:
 - Những tác phẩm mạnh nhất và gần nhất đã tìm được:
 - Câu hỏi trung tâm/góc nhìn mà từng tác phẩm đã chiếm:
+- Phần dư ý nghĩa mà các tác phẩm mạnh đang để lại cho khán giả, nếu xác định được:
 - Đường cảm xúc hoặc trải nghiệm mà chúng đang bán:
-- Ý tưởng của tập này khác ở cấp câu hỏi/góc nhìn/trải nghiệm nào, không tính “kể hay hơn”:
+- Ý tưởng của tập này khác ở cấp câu hỏi/góc nhìn/trải nghiệm/phần dư ý nghĩa nào, không tính “kể hay hơn”:
 - Nếu bỏ khác biệt trên, có đang làm lại một tác phẩm đã tồn tại không?
 - Khoảng trống có phù hợp với podcast/video dài thiên âm thanh không?
 - Điều còn chưa biết về nhu cầu hoặc cạnh tranh:
@@ -46,6 +53,8 @@ Không coi ít kết quả tìm kiếm là bằng chứng có cơ hội. Không 
 Viết văn xuôi đủ để thấy sự chuyển động và quan hệ giữa các phần. Chưa biết thì ghi chưa biết; không dùng kết luận trừu tượng để che chỗ thiếu diễn biến.
 
 Nếu mạch là human-centered, làm rõ điều con người muốn, lựa chọn, áp lực và hậu quả. Nếu mạch là idea/system-centered, làm rõ bài toán/lời hứa, các nỗ lực, bước tiến, biến chứng hoặc reversal, và giới hạn/ý nghĩa còn lại. Không bắt mọi tập theo cùng một cấu trúc.
+
+Trước khi khóa mạch cuối cùng, kiểm tra câu chuyện đã tạo ra phần dư ý nghĩa bằng chính material và diễn biến hay chưa. Không dùng một đoạn kết triết lý để bù cho việc toàn bộ thân bài chưa dẫn tới nó.
 
 ## Những chặng cần phát triển
 
@@ -61,6 +70,7 @@ Nối các quyết định quan trọng về chủ thể, bước ngoặt, đi�
 - Khoảng trống có thể thay đổi hướng kể:
 - Giả thuyết cần kiểm tra:
 - Chỗ đang có nguy cơ chỉ là information curiosity thay vì meaningful trajectory:
+- Chỗ đang có nguy cơ chỉ để lại kiến thức mà chưa tạo phần dư ý nghĩa:
 
 ## Các mốc bản thảo
 

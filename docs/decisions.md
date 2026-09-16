@@ -1,5 +1,32 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-16 — Phần dư ý nghĩa trở thành tiêu chí hàng đầu khi chọn đề tài
+
+Nguồn quyết định: trao đổi trực tiếp với chủ kênh sau khi đối chiếu nhiều video của Defunctland, đặc biệt các tập có hiệu suất vượt trội như *Disney's FastPass: A Complicated History* và *Disney Channel's Theme: A History Mystery*, với những tập có mức thực thi tương đương nhưng phần kết ít mở rộng sang câu hỏi phổ quát hơn.
+
+### Quyết định
+
+- Khả năng tạo **phần dư ý nghĩa** được đưa lên hàng đầu khi chọn ứng viên. Phần dư ý nghĩa là điều còn lại với người xem sau khi câu hỏi lịch sử bề mặt đã được trả lời và các facts chính đã được hiểu.
+- Kênh cần có dấu ấn triết học mạnh nhưng không nhất thiết nói thẳng thế giới quan của tác giả. Mỗi tập nên dùng một câu chuyện cụ thể để làm lộ ra một vấn đề con người có tính lâu dài: thời gian, ký ức, bất định, khan hiếm, tự do, thuộc về, bản sắc, ý nghĩa, sự ghi nhận, hạnh phúc, giới hạn hoặc những câu hỏi tương tự.
+- Không khóa danh tính kênh vào “lịch sử công cụ” theo nghĩa phải kể mọi công cụ đáng chú ý. Công cụ/hệ thống/thiết chế là **lăng kính**; con người và những vấn đề của việc làm người mới là đối tượng sâu hơn.
+- Lăng kính không phải vỏ bọc trung tính. Đặc tính của object quyết định hình dạng mà câu hỏi triết học có thể được cảm nhận. Vì vậy chọn object là quyết định biên tập cốt lõi, không phải bước đóng gói sau cùng.
+- Thứ tự phát triển ứng viên được đảo lại: **vấn đề con người → phần dư ý nghĩa → lăng kính → câu chuyện lịch sử → lãnh thổ thị trường**.
+- Có thể chọn sớm câu hỏi triết học để định hướng nghiên cứu, nhưng không được khóa sẵn kết luận rồi dùng lịch sử để chứng minh nó. Nghiên cứu phải có quyền thay đổi câu hỏi, trọng tâm và ý nghĩa cuối cùng.
+- Trước khi khóa mạch truyện cuối cùng, phải biết tác phẩm có thể để lại phần dư ý nghĩa nào và material lịch sử đã thực sự dẫn tới nó hay chưa. Không dùng một đoạn kết triết lý để bù cho thân bài chỉ truyền đạt thông tin.
+
+### Cơ sở biên tập
+
+Quan sát làm việc hiện tại cho thấy nhiều sản phẩm có thể duy trì chất lượng nghiên cứu, dựng và kể chuyện tương đương nhưng vẫn khác đáng kể về mức độ đọng lại. Một số tập mạnh nhất của Defunctland bắt đầu từ câu hỏi rất hẹp nhưng kết thúc bằng những vấn đề phổ quát hơn về thời gian hữu hạn, hạnh phúc, bản sắc, sự ghi nhận hoặc ký ức. Những tập khác vẫn được làm công phu nhưng khi câu hỏi bề mặt kết thúc, giá trị còn lại chủ yếu là kiến thức và hoài niệm trong phạm vi subject.
+
+Đây là giả thuyết biên tập quan trọng, chưa được coi là bằng chứng nhân quả rằng “kết luận triết học” tự nó làm tăng lượt xem. Hiệu suất còn phụ thuộc chủ đề, cách đóng gói, thời điểm, độ nhận diện và nhiều yếu tố khác. Tuy nhiên, phần dư ý nghĩa phù hợp với mục tiêu dài hạn của kênh ngay cả khi không dùng hiệu suất làm lý do duy nhất.
+
+### Tác động tới repo
+
+- `docs/channel-dna.md` thêm phần riêng về phần dư ý nghĩa, object như lăng kính và nguyên tắc câu hỏi triết học trước/kết luận để mở.
+- Bước chọn đề tài trong DNA ưu tiên vấn đề con người và phần dư ý nghĩa trước object.
+- `templates/episode.md` bắt đầu bằng vấn đề con người, phần dư ý nghĩa dự kiến và lý do chọn lăng kính; khảo sát thị trường cũng so sánh phần dư ý nghĩa mà các tác phẩm gần nhất đã tạo ra.
+- Không thay `AGENTS.md`; đây là định hướng biên tập và chọn đề tài, không phải thêm cơ chế điều phối agent.
+
 ## 2026-09-15 — Cạnh tranh phải được đánh giá ở cấp lãnh thổ biên tập
 
 Nguồn quyết định: trao đổi trực tiếp với chủ kênh sau khi đối chiếu *Fall of Civilizations* với thị trường lịch sử rộng hơn và xem lại *How the Internet Was Stolen* của Then & Now.
