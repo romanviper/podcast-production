@@ -1,0 +1,97 @@
+# Tìm ứng viên: chia nhỏ theo một trách nhiệm mỗi lượt
+
+Cập nhật: 2026-09-16.
+
+Mục tiêu của tài liệu này là tránh giao cho một writer cùng lúc quá nhiều trách nhiệm: tìm đề tài, tạo sức hút, tìm chiều sâu triết học, kiểm tra thị trường, kiểm tra nguồn và dựng câu chuyện. Khi các yêu cầu này bị gộp vào một lượt, AI dễ điền đủ các ô bằng những câu nghe hợp lý nhưng không thật sự tìm được một ý tưởng đáng quan tâm.
+
+## Nguyên tắc chung
+
+Mỗi lượt chỉ giải **một câu hỏi biên tập chính**. Đầu ra của lượt trước là đầu vào của lượt sau. Không yêu cầu một agent chứng minh mọi tiêu chí của ứng viên trong cùng một phản hồi.
+
+Một ứng viên có thể bị loại ở bất kỳ lượt nào. Không cố cứu một ứng viên yếu bằng cách gắn thêm triết lý, nhân vật, bi kịch hoặc thị trường.
+
+## Lượt A — Chỉ tìm giá trị chú ý
+
+Câu hỏi duy nhất:
+
+> Nếu chỉ có 2–3 câu để giới thiệu chuyện này cho một người chưa quan tâm, điều gì khiến họ tự nguyện muốn biết “rồi sao nữa?”
+
+Đầu ra chỉ cần một danh sách premise ngắn. Mỗi premise phải dựa trên một điều cụ thể: vật thể, sự kiện, nghịch lý, nỗ lực, thất bại, khoảng cách giữa ý định và kết quả, hoặc một điều quen thuộc có nguồn gốc/kết quả bất thường.
+
+Ở lượt này **không**:
+
+- giải thích “bản chất con người”;
+- tìm phần dư ý nghĩa;
+- khảo sát thị trường sâu;
+- đánh giá nguồn đầy đủ;
+- dựng outline;
+- cố chứng minh đề tài quan trọng.
+
+Không dùng những từ trừu tượng như căn tính, ý nghĩa sống, thuộc về, ký ức, giá trị sống... để thay cho lý do phải quan tâm. Premise phải tự có sức hút bằng chính điều đã xảy ra.
+
+Attention không đồng nghĩa với bi kịch. Một chủ đề đau buồn hoặc nghiêm trọng không tự động khiến người xem tò mò.
+
+## Lượt B — Chỉ kiểm tra sự tò mò và phát hiện
+
+Chỉ nhận những premise đã sống sót qua lượt A.
+
+Câu hỏi duy nhất:
+
+> Nếu theo câu chuyện này đến cùng, có một phát hiện, cơ chế, nghịch lý hoặc chuyển nghĩa nào mà người xem khó đoán được ngay từ premise không?
+
+Tìm khoảng cách giữa câu hỏi bề mặt và điều lịch sử thực sự làm lộ ra. Nếu chỉ đọc premise đã đoán được gần đúng kết luận, hạ ưu tiên.
+
+Đầu ra ngắn:
+
+- câu hỏi bề mặt;
+- điều chưa biết khiến ta muốn điều tra;
+- phát hiện hoặc chuyển nghĩa tiềm năng;
+- điều gì cần kiểm chứng thêm để biết discovery này có thật hay không.
+
+Chưa viết kết luận triết học.
+
+## Lượt C — Chỉ tìm phần dư ý nghĩa
+
+Chỉ làm sau khi đã có một discovery đủ thật ở lượt B.
+
+Câu hỏi duy nhất:
+
+> Sau khi câu hỏi bề mặt được giải đáp, phát hiện này có làm người xem nhìn lại điều gì trong chính đời sống con người không?
+
+Lúc này mới xác định vấn đề phổ quát và phần dư ý nghĩa có thể xuất hiện. Nó phải nảy ra từ discovery và material lịch sử, không được dán lên subject để làm nó có vẻ sâu sắc.
+
+Không khóa kết luận. Research sau đó vẫn có quyền thay đổi hoặc phá giả thuyết này.
+
+## Lượt D — Chỉ kiểm tra thị trường và lãnh thổ biên tập
+
+Chỉ khảo sát những ứng viên đã qua A–C.
+
+Câu hỏi duy nhất:
+
+> Có đủ nhu cầu quanh vùng câu chuyện này, và câu hỏi/góc nhìn/trải nghiệm mà ta định làm đã bị một tác phẩm mạnh chiếm gần hết chưa?
+
+Dùng `market-research.md`. Không quay lại sửa premise bằng cách “kể hay hơn” nếu lãnh thổ đã bị chiếm.
+
+## Lượt E — Chỉ kiểm tra khả năng mang câu chuyện
+
+Chỉ với ứng viên còn sống.
+
+Câu hỏi duy nhất:
+
+> Lịch sử có đủ người, sự kiện, vật chứng, nguồn và trải nghiệm đời sống để gánh câu chuyện này mà không phải bịa hoặc biến nó thành essay không?
+
+Đây mới là lúc kiểm tra sâu nguồn, nhân vật, điểm nhìn, mốc thời gian và material có thể dựng thành trải nghiệm.
+
+## Lượt F — Nghiên cứu sâu và dựng mạch
+
+Chỉ sau khi các cổng trên đều đủ hứa hẹn mới đầu tư research sâu, dựng causal model, trajectory, outline và viết thử.
+
+## Quy tắc bàn giao giữa các lượt
+
+Mỗi lượt chỉ chuyển tiếp những gì lượt sau cần. Không tạo một bảng khổng lồ trong đó mỗi ứng viên phải cùng lúc có hook, triết lý, thị trường, nguồn, POV, trajectory, ending và production plan.
+
+Thứ tự làm việc mặc định:
+
+**giá trị chú ý → sự tò mò/phát hiện → phần dư ý nghĩa → thị trường → khả năng mang câu chuyện → nghiên cứu sâu**.
+
+Đây là thứ tự làm việc để giảm tải và tránh AI điền checklist; không phải cấu trúc bắt buộc của video cuối cùng.
