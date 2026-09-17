@@ -1,5 +1,88 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-17 — Ý nghĩa là trọng tâm; storytelling lịch sử dẫn người xem tới ý nghĩa
+
+Nguồn: chủ kênh tiếp tục làm rõ trong cùng cuộc trao đổi về định hướng.
+
+### Nguyên văn của chủ kênh
+
+> ví dụ như các video lịch sử về nhân vật napoleon có thể kéo khán giả một chặng dài qua cuộc đời ông và cuối cùng kết thúc sự vĩ đại đó bằng sự tham lam và kiêu ngạo của ông, nhưng tôi muốn các video của tôi quá trình storytelling về câu chuyện chỉ là phương tiện để truyền tải thông điệp cuối hơn là so với tập trung vào chính câu chuyện lịch sử đó làm core của mỗi video
+
+### Định hướng được ghi nhận
+
+Vấn đề con người và điều tác giả muốn truyền tải là trọng tâm biên tập. Lịch sử cung cấp hành trình, chất liệu và trải nghiệm để người xem cảm nhận điều ấy. Vì vậy ý đồ chi phối việc chọn đề tài, phạm vi, diễn biến và cách tổ chức; không mặc định kể đầy đủ tiểu sử hoặc sự kiện là đích chính.
+
+Ví dụ Napoleon trong chỉ dẫn là ví dụ về quan hệ giữa hành trình kể và ý nghĩa. Không ghi thành kết luận lịch sử rằng mọi thất bại của Napoleon chỉ do tham lam hoặc kiêu ngạo; chưa nghiên cứu hay chọn Napoleon làm tập.
+
+### Diễn giải của trợ lý
+
+Thông điệp dự kiến có thể có từ sớm. “Thông điệp cuối” được hiểu là ý nghĩa tác phẩm hướng tới và hội tụ ở phần kết, cần được phát triển trong cả hành trình. Không suy rằng chủ kênh muốn một đoạn giảng đạo sau khi kể hết lịch sử, hoặc yêu cầu mọi câu chuyện phải chứng minh cùng một luận đề.
+
+Việc ưu tiên ý nghĩa vẫn giữ yêu cầu trung thực với bằng chứng: nghiên cứu có quyền điều chỉnh ý đồ, các khẳng định nhân quả và động cơ cần căn cứ. Lịch sử cụ thể còn quyết định ý nghĩa có thể được thể hiện ra sao; không xem mọi nhân vật/sự kiện là vật liệu hoán đổi tùy ý.
+
+### Thay đổi tài liệu
+
+- DNA nói rõ ưu tiên ở mục lời hứa/phần dư, và cho phép ý đồ hoặc thông điệp dự kiến từ sớm trong mục triết học.
+- Candidate discovery làm rõ rằng A nhận sẵn định hướng của tác giả, chỉ xử lý sức hút; C kiểm tra, làm sâu hoặc bác ý nghĩa dự kiến bằng discovery. Giữ thứ tự, nhiệm vụ riêng và agent riêng A–F.
+- Đây là sửa chỗ có nguy cơ bị hiểu thành “chọn chuyện trước rồi gắn ý nghĩa sau”; không kết luận đó là nguyên nhân duy nhất của các vòng sửa chưa đạt.
+- Không tạo đề tài mới, outline, draft hay thêm cổng phê duyệt. Chưa commit trong lượt này.
+
+
+## 2026-09-17 — Kính trọng lịch sử và đau buồn trước sự không hoàn hảo của con người
+
+Nguồn quyết định: chủ kênh trực tiếp làm rõ hướng kênh, tiếp nối mục về sự mong manh và nỗ lực không dừng lại.
+
+### Nguyên văn của chủ kênh
+
+> tôi muốn hướng kênh tới sự kính trọng tới lịch sử khi con người không ngừng tiến về phía trước nhưng nhấn mạnh, đi sâu hơn vào nỗi buồn về những vấn đề hiện sinh bị giới hạn bởi sinh học của con người như tham lam, đố kỵ,.. không bao giờ biến mất như một lời nguyền với con người để vừa cho thấy sự vĩ đại của khát khao tiến về những điều tốt đẹp của con người và vừa đau buồn cho sự không hoàn hảo của con người
+
+### Điều được ghi nhận làm định hướng
+
+- Giữ đồng thời sự kính trọng lịch sử, khát khao tiến tới điều tốt đẹp và nỗi buồn trước sự không hoàn hảo của con người.
+- Đi sâu hơn vào giới hạn ngay trong con người, với tham lam và đố kỵ là các ví dụ chủ kênh nêu; không chỉ tìm tai họa hoặc giới hạn bên ngoài.
+- Thành tựu và những cố gắng tiến về phía trước phải có trọng lượng thật để nỗi buồn có sức nặng. Đây là góc nhìn biên tập được yêu cầu, không phải khẳng định lịch sử mọi xã hội đều tiến theo một đường thẳng.
+
+### Diễn giải và giới hạn phát biểu của trợ lý
+
+Ngưỡng mộ và trắc ẩn cùng định hình giọng kể. Kính trọng người trong lịch sử không có nghĩa bỏ qua hành vi gây hại; đau buồn trước sự không hoàn hảo không yêu cầu phủ nhận khả năng thay đổi hoặc mọi thành quả của con người.
+
+Giữ “lời nguyền” như hình ảnh biểu đạt cảm thức. Không tự coi phát biểu “do sinh học” hoặc “không bao giờ biến mất” là kết luận khoa học đã được kiểm chứng. Khẳng định về cơ chế và tính bất biến cần nguồn phù hợp trong từng tập; phần nguyên văn ở trên vẫn được giữ đúng là quan điểm của chủ kênh.
+
+Một đối chiếu học thuật hẹp: [Henrich và Muthukrishna, The Origins and Psychology of Human Cooperation](https://www.annualreviews.org/content/journals/10.1146/annurev-psych-081920-042106). Đã đọc abstract và thông tin bài, chưa đọc toàn văn. Bài tổng quan khảo sát tương tác giữa tiến hóa di truyền và văn hóa trong hợp tác, cùng khác biệt qua lịch sử/xã hội. Không dùng nó để kết luận riêng rằng tham lam hoặc đố kỵ bất biến, hay sẽ biến mất. Việc ghi giới hạn khoa học không thay thế định hướng cảm xúc người dùng yêu cầu.
+
+### Phạm vi thay đổi
+
+Bổ sung ba đoạn vào mục trọng tâm cảm xúc của `channel-dna.md`; giữ nguyên các phần trước và ghi nhận các diễn giải là của trợ lý. Không sửa workflow, đề cử mới, outline hoặc bản lời kể. Chưa commit trong lượt này.
+
+
+
+## 2026-09-17 — Làm rõ trọng tâm cảm xúc khi chọn chuyện
+
+Nguồn: chỉ dẫn trực tiếp của chủ kênh sau khi đọc các diễn giải nhân văn trong `candidates/2026-09-17/premises-v03.md`.
+
+### Nguyên văn của chủ kênh
+
+> tôi thấy các giá trị nhân văn hơi cứng nhắc và gượng ép, tôi muốn lấy tiêu chí giống như nỗi buồn về sự mong manh của con người, trăn trở về sự tồn tại hoặc sự bất lực trong cố gắng truy cầu hạnh phúc, sự hoàn hảo, tốt đẹp nhưng gặp những giới hạn của thực tại ngăn cản như trong video fastpass hoặc disney theme của defunctland hoặc sự mong manh của nền văn minh trong các video của FoC , tất cả đều xoay quanh sự bất lực của con người nhưng vẫn cố gắng vượt lên dù nhiều lần trông giống như vô nghĩa nhưng vẫn không dừng lại
+
+### Phạm vi quyết định
+
+Chủ kênh muốn dùng trọng tâm cảm xúc này làm tiêu chí. Bổ sung mục làm rõ tương ứng trong `channel-dna.md`; giữ các định hướng khác và workflow A–F. Không suy từ phản hồi rằng đã chọn một tập, duyệt một premise mới hoặc muốn mọi tập phải có kết buồn.
+
+### Diễn giải của trợ lý
+
+Lượt v03 đã dịch phần nhân văn thành những giá trị nên được bảo vệ: tự chủ trong giao dịch, tôn trọng tri thức và tiếng nói cư dân. Các giá trị đó chưa diễn tả trải nghiệm mà chủ kênh đang tìm: đồng cảm với khát vọng có thật, chứng kiến cố gắng và thành quả rồi cảm nhận giới hạn, sự mong manh, cùng việc tiếp tục sống và làm.
+
+Trọng tâm này định hướng lựa chọn chất liệu; không phải luận đề “mọi nỗ lực vô nghĩa” cần chứng minh. Các tham chiếu là những tác phẩm cụ thể có sắc thái riêng, không phải một khuôn nội dung áp vào mọi lịch sử. Không đồng nhất giới hạn thực tại với mọi vấn đề kỹ thuật chưa sửa hoặc mọi xung đột do lựa chọn quyền lực.
+
+### Tác động
+
+- DNA thêm mục “Trọng tâm cảm xúc: sự mong manh và nỗ lực không dừng lại”.
+- Hai hướng v03 cần được xem lại theo tiêu chí được làm rõ; không tự đổi lời kết để tuyên bố đã phù hợp.
+- Không thêm rubric chấm điểm, cổng phê duyệt, template hoặc sửa cơ chế phân công A–F.
+- Chưa commit hoặc xuất bản thay đổi trong lượt này.
+
+
+
 ## 2026-09-16 — Phần dư ý nghĩa trở thành tiêu chí hàng đầu khi chọn đề tài
 
 Nguồn quyết định: trao đổi trực tiếp với chủ kênh sau khi đối chiếu nhiều video của Defunctland, đặc biệt các tập có hiệu suất vượt trội như *Disney's FastPass: A Complicated History* và *Disney Channel's Theme: A History Mystery*, với những tập có mức thực thi tương đương nhưng phần kết ít mở rộng sang câu hỏi phổ quát hơn.

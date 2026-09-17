@@ -1,12 +1,14 @@
 # DNA của kênh
 
-Ngày ghi nhận: 2026-09-11. Cập nhật: 2026-09-16.
+Ngày ghi nhận: 2026-09-11. Cập nhật: 2026-09-17.
 Cơ sở: cuộc trao đổi với chủ kênh về podcast-production.
 Trạng thái: định hướng kênh đã được chủ kênh yêu cầu ghi vào repo. Các diễn giải biên tập dưới đây được phân biệt với quyết định còn mở.
 
 ## Lời hứa với khán giả
 
 Khán giả hiểu thêm về con người thông qua lịch sử những công cụ, hệ thống và thiết chế họ ứng dụng. Giá trị đó trở lại qua nhiều tập, để sự gắn bó với kênh vượt khỏi hứng thú với một loại công cụ.
+
+Chủ kênh làm rõ ngày 17/09/2026: **vấn đề con người và ý nghĩa muốn truyền tải là trọng tâm của mỗi video; storytelling lịch sử là phương tiện đưa người xem qua một trải nghiệm để cảm được ý nghĩa ấy.** Điều này dẫn việc chọn đề tài, phạm vi, chất liệu và cách tổ chức tác phẩm. Không mặc định phải kể trọn đời một nhân vật hoặc toàn bộ một sự kiện để hoàn thành mục tiêu tập.
 
 Chủ kênh mô tả mục tiêu:
 
@@ -25,6 +27,25 @@ Nếu phần dư chủ yếu là “tôi biết thêm một câu chuyện thú v
 Phần dư ý nghĩa không đồng nghĩa phải có một bài học đạo đức, một câu triết lý ở cuối hoặc một kết luận bi quan. Nó có thể là một câu hỏi mới, một cảm giác mất mát, kinh ngạc, biết ơn, bất an, khiêm nhường, đồng cảm hoặc một cách nhìn mới về điều vốn được coi là hiển nhiên.
 
 Không gắn phần dư ý nghĩa vào sau khi đã chọn xong đề tài. Khả năng tạo ra nó là một tiêu chí hàng đầu ngay từ bước chọn ứng viên.
+
+“Phần dư” mô tả điều còn ở lại với người xem. Ý nghĩa đó phải định hướng toàn tác phẩm từ đầu, được phát triển qua hành trình kể chuyện; phần kết làm nó hội tụ. Không hiểu “thông điệp cuối” là chỉ thêm lời bình triết học ở cuối một câu chuyện đã kể xong.
+
+## Trọng tâm cảm xúc: sự mong manh và nỗ lực không dừng lại
+
+Chủ kênh làm rõ ngày 17/09/2026: ưu tiên nỗi buồn trước sự mong manh của con người và nền văn minh, trăn trở về tồn tại, về việc truy cầu hạnh phúc, sự hoàn hảo hoặc điều tốt đẹp nhưng gặp giới hạn của thực tại. Con người vẫn tiếp tục cố gắng, kể cả khi nỗ lực nhiều lần trông như vô nghĩa. Đây là tiêu chí cảm xúc chủ kênh muốn dùng để chọn và phát triển câu chuyện; xem nguyên văn trong `docs/decisions.md`.
+
+Diễn giải làm việc của trợ lý: cần khiến người nghe hiểu và quan tâm tới điều người trong lịch sử muốn đạt được, công sức họ bỏ ra, những gì họ thực sự làm được và điều vẫn vượt khỏi khả năng kiểm soát. Từ đó mới có sức nặng cho sự bất lực và việc tiếp tục. Phần dư hướng tới sự trắc ẩn trước thân phận con người, cùng trân trọng những cố gắng hữu hạn ấy. Một lời khuyên về công bằng, phẩm giá hoặc quyền được lắng nghe tự nó chưa đáp ứng trọng tâm cảm xúc vừa được làm rõ.
+
+Đây là cách chọn câu hỏi và trải nghiệm cần tìm trong chất liệu. Không coi “mọi cố gắng đều vô nghĩa” là kết luận của chủ kênh; giữ đúng sắc thái **trông như vô nghĩa nhưng vẫn tiếp tục**. Thành tựu, niềm vui, sự biết ơn và ý nghĩa có thật vẫn cần hiện diện nếu nguồn cho thấy. Không bắt mọi tập phải kết thúc thất bại hoặc theo cùng một chu kỳ.
+
+Giới hạn phải được thể hiện qua người, hành động và diễn biến có căn cứ. Phân biệt điều chưa giải quyết, điều do lựa chọn/bất công cụ thể với giới hạn mà con người trong câu chuyện gặp phải; không cần chứng minh mọi phương án tưởng tượng đều sẽ thất bại. Không biến tổn hại có người gây ra thành định mệnh chung; không biến sự kiên trì thành lời ca ngợi mọi quyết định cố chấp. Nếu đề tài chưa chứa trải nghiệm này, đánh giá lại lựa chọn thay vì gắn thêm một thông điệp buồn.
+
+Chủ kênh tiếp tục làm rõ ngày 17/09/2026: kênh cần mang **sự kính trọng đối với lịch sử và khát khao của con người tiến tới điều tốt đẹp**, đồng thời đi sâu vào nỗi buồn trước sự không hoàn hảo ngay trong con người. Tham lam, đố kỵ và những giới hạn liên quan tới sinh học được chủ kênh nêu như những điều dai dẳng, như một “lời nguyền”. Cần giữ đồng thời sự vĩ đại của nỗ lực và sự đau buồn vì những giới hạn ấy; xem nguyên văn trong `docs/decisions.md`.
+
+Diễn giải biên tập của trợ lý: giọng kể có sự ngưỡng mộ, trắc ẩn và khiêm nhường trước người trong lịch sử. Những thành quả tốt đẹp cần được hiểu như thành quả thật, với công sức và giá trị đã tạo ra; sự không hoàn hảo vẫn cần được nhìn thẳng. Khảo sát cả giới hạn bên ngoài lẫn những động cơ, nhu cầu và xung đột bên trong con người làm khát vọng trở nên mong manh. Không đứng ở hiện tại để coi người xưa ngu ngốc vì chưa giải được điều ta đã biết; sự kính trọng cũng không xóa trách nhiệm của những người gây tổn hại.
+
+“Lời nguyền” có thể diễn tả cảm thức nghệ thuật của kênh. Khẳng định thực chứng về nguồn gốc sinh học, tính bất biến hoặc việc một hành vi “không bao giờ biến mất” cần căn cứ riêng; không tự chuyển hình ảnh ấy thành kết luận di truyền tất định. Khả năng hợp tác, chăm sóc, học hỏi và thay đổi cũng cần được kể khi có trong chất liệu. Nghiên cứu phải còn khả năng làm rõ hoặc điều chỉnh cách giải thích về sinh học, hoàn cảnh và thiết chế trong từng câu chuyện.
+
 
 ## Đối tượng và phạm vi
 
@@ -80,13 +101,13 @@ Một tool có thể được xem như nỗ lực của con người để thư�
 
 Nếu research không tìm thấy phần dư ý nghĩa, tension hoặc human story đủ mạnh, không bịa một nghịch lý triết học để cứu đề tài. Có thể đổi góc nhìn, đổi lăng kính, thu hẹp phạm vi hoặc bỏ đề tài.
 
-## Câu hỏi triết học trước, kết luận để mở
+## Ý đồ triết học trước, nghiên cứu được quyền điều chỉnh
 
-Có thể chọn sớm một câu hỏi lớn về con người vì nó giúp định hướng tìm tư liệu và quyết định vì sao câu chuyện đáng kể. Nhưng không được khóa sẵn câu trả lời rồi dùng lịch sử để minh họa hoặc chứng minh nó.
+Có thể bắt đầu từ một vấn đề con người, một trực giác hoặc thông điệp dự kiến của tác giả để chọn lịch sử cần tìm hiểu và trải nghiệm muốn tạo ra. Đây là ý đồ biên tập có thể phát triển, không phải khẳng định lịch sử được miễn kiểm chứng. Không bịa diễn biến, gán động cơ hoặc bỏ qua bằng chứng quan trọng để làm thông điệp có vẻ đúng.
 
 Ví dụ có thể bước vào lịch sử bảo hiểm với câu hỏi “con người làm gì khi phải sống với những tai họa không thể đoán trước?”, nhưng không được mặc định trước rằng lịch sử phải chứng minh con người không thể kiểm soát bất định.
 
-Nghiên cứu phải có quyền làm câu hỏi sâu hơn, đổi trọng tâm hoặc phá giả thuyết ban đầu. Trước khi khóa mạch truyện cuối cùng, biên tập viên phải biết tác phẩm có thể để lại phần dư ý nghĩa nào; nhưng phần dư đó phải nảy ra từ câu chuyện và bằng chứng, không phải được dán lên câu chuyện từ trước.
+Nghiên cứu phải có quyền làm ý đồ sâu hơn, đổi trọng tâm hoặc phá giả thuyết ban đầu. Thông điệp dự kiến được phát triển và kiểm tra qua chất liệu; trước khi khóa mạch, cần biết những lựa chọn kể chuyện nào thực sự khiến người xem trải nghiệm được ý nghĩa ấy. Tầm quan trọng của thông điệp không thay thế căn cứ lịch sử, và tính chính xác của facts chưa tự chứng minh tác phẩm đã truyền được điều tác giả muốn nói.
 
 ## Hành trình lịch sử cần khám phá
 

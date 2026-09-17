@@ -6,6 +6,7 @@ Chỉ điền phần của lượt đang được giao. Không tự mở rộng 
 
 - Mục tiêu duy nhất:
 - Đầu vào được phép dùng:
+- Định hướng con người/cảm xúc nhận từ DNA hoặc brief; ý đồ dự kiến nếu có (chưa phải kết luận cần chứng minh):
 - Điều cố ý chưa làm ở lượt này:
 
 ## Kết quả
@@ -22,7 +23,7 @@ Chỉ điền phần của lượt đang được giao. Không tự mở rộng 
 - Điều cần kiểm chứng thêm:
 
 ### Nếu là Lượt C — phần dư ý nghĩa
-- Vấn đề con người xuất hiện từ discovery:
+- Discovery làm rõ, điều chỉnh hoặc bác bỏ vấn đề con người/ý nghĩa dự kiến như thế nào:
 - Phần dư ý nghĩa dự kiến:
 - Vì sao đây không chỉ là triết lý gắn thêm:
 

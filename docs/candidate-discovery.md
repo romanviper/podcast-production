@@ -1,12 +1,14 @@
 # Tìm ứng viên: chia nhỏ theo một trách nhiệm mỗi lượt
 
-Cập nhật: 2026-09-16.
+Cập nhật: 2026-09-17.
 
 Mục tiêu của tài liệu này là tránh giao cho một writer cùng lúc quá nhiều trách nhiệm: tìm đề tài, tạo sức hút, tìm chiều sâu triết học, kiểm tra thị trường, kiểm tra nguồn và dựng câu chuyện. Khi các yêu cầu này bị gộp vào một lượt, AI dễ điền đủ các ô bằng những câu nghe hợp lý nhưng không thật sự tìm được một ý tưởng đáng quan tâm.
 
 ## Nguyên tắc chung
 
 Mỗi lượt chỉ giải **một câu hỏi biên tập chính**. Đầu ra của lượt trước là đầu vào của lượt sau. Không yêu cầu một agent chứng minh mọi tiêu chí của ứng viên trong cùng một phản hồi.
+
+Các lượt cùng nhận định hướng con người và cảm xúc đã được chủ kênh xác định trong DNA. Khi có ý đồ/thông điệp dự kiến cho một lần tìm, đưa nó vào brief như phạm vi cần khám phá, chưa phải kết luận phải chứng minh. Việc tách A–F cô lập trách nhiệm kiểm tra; không yêu cầu chọn object hoặc trivia trước rồi mới nghĩ tới lý do làm tác phẩm.
 
 Một ứng viên có thể bị loại ở bất kỳ lượt nào. Không cố cứu một ứng viên yếu bằng cách gắn thêm triết lý, nhân vật, bi kịch hoặc thị trường.
 
@@ -30,6 +32,8 @@ Câu hỏi duy nhất:
 > Nếu chỉ có 2–3 câu để giới thiệu chuyện này cho một người chưa quan tâm, điều gì khiến họ tự nguyện muốn biết “rồi sao nữa?”
 
 Đầu ra chỉ cần một danh sách premise ngắn. Mỗi premise phải dựa trên một điều cụ thể: vật thể, sự kiện, nghịch lý, nỗ lực, thất bại, khoảng cách giữa ý định và kết quả, hoặc một điều quen thuộc có nguồn gốc/kết quả bất thường.
+
+Agent A tìm sức hút trong phạm vi định hướng được giao; không phải tự giải hoặc chứng minh ý nghĩa dự kiến. Một sự việc gây chú ý vẫn cần là ứng viên có liên quan tới điều tác giả muốn khám phá, không chỉ một fact lạ độc lập.
 
 Ở lượt này **không**:
 
@@ -71,7 +75,7 @@ Câu hỏi duy nhất:
 
 > Sau khi câu hỏi bề mặt được giải đáp, phát hiện này có làm người xem nhìn lại điều gì trong chính đời sống con người không?
 
-Lúc này mới xác định vấn đề phổ quát và phần dư ý nghĩa có thể xuất hiện. Nó phải nảy ra từ discovery và material lịch sử, không được dán lên subject để làm nó có vẻ sâu sắc.
+Lượt này kiểm tra cụ thể, làm sâu, điều chỉnh hoặc bác bỏ ý nghĩa dự kiến bằng discovery và material lịch sử; có thể tìm ra ý nghĩa khác nếu nguồn dẫn tới đó. Cần chỉ rõ chất liệu nào gánh được hướng ý nghĩa. Không dán một thông điệp lên subject chỉ để làm nó có vẻ sâu sắc.
 
 Không khóa kết luận. Research sau đó vẫn có quyền thay đổi hoặc phá giả thuyết này.
 
