@@ -1,4 +1,4 @@
-# Workflow biên tập v0.2
+# Workflow biên tập v0.3
 
 Ngày cập nhật: 2026-09-18.
 
@@ -15,110 +15,160 @@ topic → facts → narrative → meaning
 Mô hình mới:
 
 ```
-human limitation → historical struggle → object/lens → story → meaning
+human limitation
++ historical anomaly
+        ↓
+historical struggle
+        ↓
+object / system / civilization lens
+        ↓
+story
+        ↓
+meaning
 ```
 
-DNA kênh quyết định câu hỏi trước khi research quyết định chất liệu.
+Human struggle tạo chiều sâu. Historical anomaly tạo lý do để người xem quan tâm.
+
+Không để abstract philosophy trở thành điểm bắt đầu.
 
 ## Candidate discovery
 
-Không giao một agent làm toàn bộ chuỗi tìm ý tưởng.
+Agent chính chỉ điều phối.
 
-Agent chính chỉ điều phối. Mỗi pass dùng sub-agent độc lập với ngữ cảnh tối thiểu.
+Mỗi pass dùng sub-agent độc lập với context tối thiểu.
 
-Mục tiêu là giảm việc AI điền checklist bằng cách cô lập từng trách nhiệm.
+Mục tiêu là tránh AI tạo danh sách facts để chứng minh một ý tưởng có sẵn.
 
-## Pass 0 — Human limitation discovery
+## Pass 0 — Human struggle + historical anomaly discovery
 
 Câu hỏi:
 
-> Giới hạn nào của con người đang được câu chuyện này đối diện?
+> Con người đang cố vượt qua giới hạn nào, và điều gì trong lịch sử khiến cuộc đấu tranh này trở nên đáng kể?
 
-Output:
+Output bắt buộc:
 
 - human limitation;
-- vì sao giới hạn này phổ quát;
-- vì sao con người luôn muốn vượt qua nó.
+- historical anomaly;
+- tại sao anomaly tạo ra tò mò;
+- câu hỏi chưa được giải đáp.
 
-Không tìm object, hook, market hoặc outline.
+Không chấp nhận output chỉ có theme trừu tượng.
 
 ## Pass 1 — Historical attempts
 
-Câu hỏi:
-
-> Những lần nào trong lịch sử con người đã cố giải quyết giới hạn này?
+Tìm các lần con người cố giải quyết giới hạn đó.
 
 Output:
 
 - attempt;
-- con người tham gia;
-- thành tựu;
-- thất bại hoặc giới hạn;
-- hệ quả.
+- người tham gia;
+- thành tựu thật sự;
+- đánh đổi;
+- giới hạn mới xuất hiện.
 
 ## Pass 2 — Attention test
 
-Chỉ sau khi territory tồn tại.
+Attention phải xuất hiện trước meaning.
 
 Câu hỏi:
 
-> Nếu giới thiệu câu chuyện trong 2–3 câu, điều gì khiến người lạ muốn biết tiếp?
+> Tại sao một người chưa biết gì về chủ đề này muốn nghe tiếp ngay bây giờ?
 
-Attention phải đến từ:
+Nguồn attention:
 
+- anomaly;
 - nghịch lý;
 - vật thể bất thường;
-- tương phản;
 - tham vọng lớn;
 - thành tựu khó tin;
 - thất bại bất ngờ.
 
-Không dùng triết lý để tạo hook.
+Không dùng triết học để tạo hook.
 
 ## Pass 3 — Discovery
 
-Câu hỏi:
+Xác định khoảng cách giữa:
 
-> Nếu người xem biết premise ban đầu, họ vẫn chưa biết điều gì?
-
-Tìm khoảng cách giữa câu hỏi bề mặt và ý nghĩa cuối cùng.
+- điều người xem tưởng họ biết;
+- điều lịch sử thực sự cho thấy.
 
 ## Pass 4 — Story viability
 
 Kiểm tra:
 
-- có con người không;
-- có lựa chọn không;
-- có xung đột không;
-- có progression không;
-- có thể kể bằng cảnh cụ thể không.
+- con người;
+- lựa chọn;
+- xung đột;
+- progression;
+- cảnh cụ thể.
 
 ## Pass 5 — Market
 
-Chỉ kiểm tra sau khi câu chuyện sống sót.
+Market chỉ xác nhận sau khi câu chuyện tồn tại.
 
-Không dùng thị trường để cứu premise yếu.
+Không dùng market để cứu premise yếu.
+
+## Progressive Displacement Emotional DNA
+
+Không kể:
+
+```
+vấn đề → giải pháp → thất bại
+```
+
+Mà:
+
+```
+giới hạn tầng 1
+↓
+con người tạo giải pháp
+↓
+giải pháp thành công thật sự
+↓
+thành công mở ra giới hạn tầng 2
+↓
+con người tiếp tục
+```
+
+Ví dụ:
+
+Chữ viết:
+
+- giới hạn: ký ức biến mất;
+- giải pháp: ghi lại;
+- giới hạn mới: ai kiểm soát thứ được ghi lại.
+
+Internet:
+
+- giới hạn: khó tiếp cận thông tin;
+- giải pháp: mọi người đều có thông tin;
+- giới hạn mới: làm sao biết thông tin nào đáng tin.
+
+AI:
+
+- giới hạn: năng lực nhận thức sinh học;
+- giải pháp: mở rộng trí tuệ;
+- giới hạn mới: giá trị con người nằm ở đâu.
 
 ## Premise review
 
-Không hỏi:
+Bảy câu hỏi bắt buộc:
 
-"Ý tưởng có sâu sắc không?"
-
-Hỏi:
-
-1. Tôi có muốn biết chuyện này sau 2 câu không?
-2. Nó đại diện cho cuộc đấu tranh nào của con người?
-3. Thành tựu nào thật sự gây kinh ngạc?
-4. Giới hạn mới nào xuất hiện sau thành công?
-5. Người xem còn mang câu hỏi gì về đời mình?
+1. Nếu bỏ toàn bộ triết lý, premise còn khiến tôi tò mò không?
+2. Historical anomaly cụ thể là gì?
+3. Người xem biết điều gì trước khi xem?
+4. Sau khi xem họ phát hiện điều gì bất ngờ?
+5. Thành tựu nào khiến họ thật sự kinh ngạc?
+6. Giới hạn mới nào xuất hiện?
+7. Candidate phù hợp micro, meso hay macro scale?
 
 ## Nguyên tắc cấm
 
 Không:
 
-- chọn object rồi ép triết học vào;
+- biến human struggle thành danh sách chủ đề triết học;
+- chọn vấn đề lớn rồi tìm facts minh họa;
+- bắt đầu từ conclusion;
 - chọn tragedy chỉ vì cảm động;
-- chọn vấn đề lớn nhưng thiếu discovery;
-- viết outline trước khi biết human struggle;
-- tạo kết luận triết học rồi tìm facts để chứng minh.
+- coi thất bại là bằng chứng mọi tiến bộ vô nghĩa;
+- ép mọi episode thành format Defunctland.
