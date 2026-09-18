@@ -1,38 +1,86 @@
-# Tìm ứng viên: Human Struggle First
+# Tìm ứng viên: Human Struggle + Historical Anomaly First
 
 Cập nhật: 2026-09-18.
 
 ## Nguyên tắc kiến trúc
 
-Pipeline không bắt đầu bằng object, công cụ hoặc một premise hoàn chỉnh.
+Pipeline không bắt đầu bằng object, công cụ hoặc premise hoàn chỉnh.
 
-Sai lầm cũ:
+Mô hình cũ:
 
 ```
 object → facts → narrative → meaning
 ```
 
-Kiến trúc mới:
+Mô hình mới:
 
 ```
-human limitation → historical struggle → object/lens → story → meaning
+human limitation
++ historical anomaly
+        ↓
+historical struggle
+        ↓
+object / system / civilization lens
+        ↓
+story
+        ↓
+meaning
 ```
 
-Một candidate không phải là một câu chuyện hoàn chỉnh.
+Human struggle là chiều sâu của câu chuyện, nhưng không đủ để tạo sự chú ý.
 
-Candidate là một vùng đấu tranh của con người (human struggle territory).
+Một candidate chỉ được tiếp tục khi có cả:
+
+- human struggle: giới hạn phổ quát của con người;
+- historical anomaly: một điều cụ thể trong lịch sử khiến người ngoài cuộc lập tức muốn hỏi "điều gì đã xảy ra ở đây?".
+
+Không bắt đầu từ abstract theme rồi tìm facts minh họa.
+
+## Candidate scale
+
+Candidate có thể tồn tại ở ba cấp độ:
+
+### Micro — Object / Event
+
+Một vật thể, phát minh hoặc sự kiện nhỏ mở ra một câu chuyện lớn hơn.
 
 Ví dụ:
 
-- cuộc chiến chống lại sự quên lãng;
-- cuộc chiến chống lại bệnh tật;
-- cuộc chiến chống lại khoảng cách;
-- cuộc chiến chống lại sự khan hiếm;
-- cuộc chiến tìm kiếm ý nghĩa;
-- cuộc chiến xây dựng trật tự;
-- cuộc chiến mở rộng nhận thức.
+- một hệ thống cụ thể;
+- một vật thể;
+- một quyết định;
+- một khoảnh khắc lịch sử.
 
-Object, nhân vật, sự kiện và giai đoạn lịch sử chỉ được tìm sau khi xác định struggle.
+Câu hỏi:
+
+"Điều nhỏ bé này tiết lộ cuộc đấu tranh lớn nào của con người?"
+
+### Meso — System / Institution / Idea
+
+Một hệ thống tồn tại qua nhiều thế hệ và thay đổi cách con người sống.
+
+Ví dụ:
+
+- chữ viết;
+- tiền;
+- điện;
+- ngân hàng;
+- thương mại;
+- Internet.
+
+Câu chuyện xoay quanh sự hình thành, mở rộng, thành công và giới hạn mới của hệ thống.
+
+### Macro — Civilization / World
+
+Một thế giới lịch sử hoàn chỉnh được tái dựng.
+
+Ví dụ:
+
+- Sumer;
+- Maya;
+- Rome.
+
+Không tìm một premise đơn lẻ. Mục tiêu là tái dựng một thế giới nơi nhiều human struggle cùng xuất hiện.
 
 ## Điều phối agent
 
@@ -45,24 +93,62 @@ Mỗi pass là một nhiệm vụ độc lập:
 - chỉ trả output nhỏ của pass đó;
 - không tối ưu tiêu chí của các pass phía sau.
 
-Mục tiêu là cô lập suy luận, không tạo checklist lớn để AI điền.
-
 ---
 
-## Pass 0 — Human limitation discovery
+## Pass 0 — Human struggle + historical anomaly discovery
 
 Câu hỏi:
 
-> Giới hạn nào của con người đang được câu chuyện này đối diện?
+> Con người đang cố vượt qua giới hạn nào, và điều gì trong lịch sử khiến cuộc đấu tranh này trở nên đáng kể?
 
-Output:
+Output bắt buộc:
 
 - human limitation;
-- vì sao giới hạn này phổ quát;
-- vì sao con người luôn muốn vượt qua nó.
+- historical anomaly;
+- tại sao anomaly tạo ra tò mò;
+- những câu hỏi chưa được giải đáp.
 
-Không tìm premise cụ thể.
-Không tìm object.
+Không chỉ trả về:
+
+- "tìm kiếm ý nghĩa";
+- "chống lại sự quên lãng";
+- "vượt qua bệnh tật".
+
+Những khái niệm này chỉ là điểm bắt đầu để tìm anomaly, không phải premise.
+
+Không tìm philosophy trước.
+
+---
+
+## Attention trước Meaning
+
+Thứ tự kiểm tra bắt buộc:
+
+1. Attention:
+
+> Tại sao tôi phải quan tâm ngay bây giờ?
+
+2. Curiosity:
+
+> Tôi muốn biết chuyện gì đã xảy ra?
+
+3. Discovery:
+
+> Tôi phát hiện điều gì mà ban đầu chưa biết?
+
+4. Meaning:
+
+> Điều này nói gì về con người?
+
+Không dùng các khái niệm:
+
+- bản chất con người;
+- ý nghĩa cuộc sống;
+- căn tính;
+- giá trị sống;
+- triết lý;
+
+để thay thế cho hook.
 
 ---
 
@@ -78,13 +164,11 @@ Output:
 - người tham gia;
 - thành tựu;
 - thất bại hoặc đánh đổi;
-- hệ quả mới.
+- giới hạn mới xuất hiện.
 
 ---
 
 ## Pass 2 — Attention test
-
-Chỉ thực hiện sau khi có territory.
 
 Câu hỏi:
 
@@ -99,8 +183,6 @@ Attention phải đến từ:
 - thất bại bất ngờ;
 - thành tựu khó tin.
 
-Không dùng triết lý hoặc ý nghĩa cuộc sống để tạo hook.
-
 ---
 
 ## Pass 3 — Discovery
@@ -109,26 +191,17 @@ Câu hỏi:
 
 > Nếu người xem biết premise ban đầu, họ vẫn chưa biết điều gì?
 
-Tìm khoảng cách giữa:
-
-- câu hỏi bề mặt;
-- phát hiện sâu hơn.
-
-Không viết kết luận triết học trước khi có discovery.
-
 ---
 
 ## Pass 4 — Story viability
 
 Kiểm tra:
 
-- có đủ con người không?
-- có lựa chọn không?
-- có xung đột không?
-- có progression không?
-- có thể kể bằng cảnh cụ thể không?
-
-Nếu thiếu, không cứu bằng cách thêm philosophy.
+- có đủ con người không;
+- có lựa chọn không;
+- có xung đột không;
+- có progression không;
+- có thể kể bằng cảnh cụ thể không.
 
 ---
 
@@ -148,11 +221,13 @@ Không hỏi:
 
 Hỏi:
 
-1. Tôi có muốn biết chuyện này sau 2 câu mô tả không?
-2. Nó đại diện cho cuộc đấu tranh nào của con người?
-3. Thành tựu nào thật sự gây kinh ngạc?
-4. Giới hạn mới nào xuất hiện sau thành công?
-5. Người xem còn mang theo câu hỏi nào về chính đời mình?
+1. Nếu bỏ toàn bộ triết lý, premise còn khiến tôi tò mò không?
+2. Historical anomaly cụ thể là gì?
+3. Người xem biết điều gì trước khi xem?
+4. Sau khi xem họ phát hiện điều gì bất ngờ?
+5. Thành tựu nào khiến họ thật sự kinh ngạc?
+6. Giới hạn mới nào xuất hiện?
+7. Candidate này phù hợp micro, meso hay macro scale?
 
 Không:
 
