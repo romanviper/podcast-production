@@ -1,114 +1,163 @@
-# Tìm ứng viên: chia nhỏ theo một trách nhiệm mỗi lượt
+# Tìm ứng viên: Human Struggle First
 
-Cập nhật: 2026-09-17.
+Cập nhật: 2026-09-18.
 
-Mục tiêu của tài liệu này là tránh giao cho một writer cùng lúc quá nhiều trách nhiệm: tìm đề tài, tạo sức hút, tìm chiều sâu triết học, kiểm tra thị trường, kiểm tra nguồn và dựng câu chuyện. Khi các yêu cầu này bị gộp vào một lượt, AI dễ điền đủ các ô bằng những câu nghe hợp lý nhưng không thật sự tìm được một ý tưởng đáng quan tâm.
+## Nguyên tắc kiến trúc
 
-## Nguyên tắc chung
+Pipeline không bắt đầu bằng object, công cụ hoặc một premise hoàn chỉnh.
 
-Mỗi lượt chỉ giải **một câu hỏi biên tập chính**. Đầu ra của lượt trước là đầu vào của lượt sau. Không yêu cầu một agent chứng minh mọi tiêu chí của ứng viên trong cùng một phản hồi.
+Sai lầm cũ:
 
-Các lượt cùng nhận định hướng con người và cảm xúc đã được chủ kênh xác định trong DNA. Khi có ý đồ/thông điệp dự kiến cho một lần tìm, đưa nó vào brief như phạm vi cần khám phá, chưa phải kết luận phải chứng minh. Việc tách A–F cô lập trách nhiệm kiểm tra; không yêu cầu chọn object hoặc trivia trước rồi mới nghĩ tới lý do làm tác phẩm.
+```
+object → facts → narrative → meaning
+```
 
-Một ứng viên có thể bị loại ở bất kỳ lượt nào. Không cố cứu một ứng viên yếu bằng cách gắn thêm triết lý, nhân vật, bi kịch hoặc thị trường.
+Kiến trúc mới:
 
-## Điều phối bằng sub-agent
+```
+human limitation → historical struggle → object/lens → story → meaning
+```
 
-Agent chính là điều phối viên, không phải người tự thực hiện toàn bộ chuỗi A–F trong cùng một ngữ cảnh.
+Một candidate không phải là một câu chuyện hoàn chỉnh.
 
-- Mỗi lượt A–F mặc định được giao cho một **sub-agent mới/sạch**.
-- Sub-agent chỉ nhận: mục tiêu của lượt hiện tại, đầu vào đã sống sót từ lượt trước và những tài liệu tối thiểu cần thiết.
-- Không đưa cho sub-agent toàn bộ checklist của các lượt sau; không yêu cầu nó tự dự đoán hoặc tối ưu những tiêu chí chưa đến lượt.
-- Agent chính chỉ hợp nhất, loại và chuyển giao; không tự bổ sung phần triết học, thị trường hoặc nguồn để cứu một đầu ra yếu.
-- Có thể dùng nhiều sub-agent song song trong cùng một lượt để mở rộng vùng tìm kiếm, nhưng tất cả phải cùng một trách nhiệm. Không để một sub-agent chạy từ premise đến market/research hoàn chỉnh.
-- Kết quả của lượt trước nên được nén về đúng phần lượt sau cần, để sub-agent mới không bị neo bởi toàn bộ quá trình suy luận cũ.
+Candidate là một vùng đấu tranh của con người (human struggle territory).
 
-Mục đích của việc dùng sub-agent không phải tăng số lượng agent, mà là **cô lập trách nhiệm và ngữ cảnh**. Nếu môi trường không hỗ trợ sub-agent, vẫn phải mô phỏng cách làm này bằng các lượt độc lập với ngữ cảnh tối thiểu.
+Ví dụ:
 
-## Lượt A — Chỉ tìm giá trị chú ý
+- cuộc chiến chống lại sự quên lãng;
+- cuộc chiến chống lại bệnh tật;
+- cuộc chiến chống lại khoảng cách;
+- cuộc chiến chống lại sự khan hiếm;
+- cuộc chiến tìm kiếm ý nghĩa;
+- cuộc chiến xây dựng trật tự;
+- cuộc chiến mở rộng nhận thức.
 
-Câu hỏi duy nhất:
+Object, nhân vật, sự kiện và giai đoạn lịch sử chỉ được tìm sau khi xác định struggle.
 
-> Nếu chỉ có 2–3 câu để giới thiệu chuyện này cho một người chưa quan tâm, điều gì khiến họ tự nguyện muốn biết “rồi sao nữa?”
+## Điều phối agent
 
-Đầu ra chỉ cần một danh sách premise ngắn. Mỗi premise phải dựa trên một điều cụ thể: vật thể, sự kiện, nghịch lý, nỗ lực, thất bại, khoảng cách giữa ý định và kết quả, hoặc một điều quen thuộc có nguồn gốc/kết quả bất thường.
+Agent chính không tự hoàn thành toàn bộ pipeline.
 
-Agent A tìm sức hút trong phạm vi định hướng được giao; không phải tự giải hoặc chứng minh ý nghĩa dự kiến. Một sự việc gây chú ý vẫn cần là ứng viên có liên quan tới điều tác giả muốn khám phá, không chỉ một fact lạ độc lập.
+Mỗi pass là một nhiệm vụ độc lập:
 
-Ở lượt này **không**:
+- sub-agent mới/sạch;
+- chỉ nhận đầu vào cần thiết;
+- chỉ trả output nhỏ của pass đó;
+- không tối ưu tiêu chí của các pass phía sau.
 
-- giải thích “bản chất con người”;
-- tìm phần dư ý nghĩa;
-- khảo sát thị trường sâu;
-- đánh giá nguồn đầy đủ;
-- dựng outline;
-- cố chứng minh đề tài quan trọng.
+Mục tiêu là cô lập suy luận, không tạo checklist lớn để AI điền.
 
-Không dùng những từ trừu tượng như căn tính, ý nghĩa sống, thuộc về, ký ức, giá trị sống... để thay cho lý do phải quan tâm. Premise phải tự có sức hút bằng chính điều đã xảy ra.
+---
 
-Attention không đồng nghĩa với bi kịch. Một chủ đề đau buồn hoặc nghiêm trọng không tự động khiến người xem tò mò.
+## Pass 0 — Human limitation discovery
 
-## Lượt B — Chỉ kiểm tra sự tò mò và phát hiện
+Câu hỏi:
 
-Chỉ nhận những premise đã sống sót qua lượt A.
+> Giới hạn nào của con người đang được câu chuyện này đối diện?
 
-Câu hỏi duy nhất:
+Output:
 
-> Nếu theo câu chuyện này đến cùng, có một phát hiện, cơ chế, nghịch lý hoặc chuyển nghĩa nào mà người xem khó đoán được ngay từ premise không?
+- human limitation;
+- vì sao giới hạn này phổ quát;
+- vì sao con người luôn muốn vượt qua nó.
 
-Tìm khoảng cách giữa câu hỏi bề mặt và điều lịch sử thực sự làm lộ ra. Nếu chỉ đọc premise đã đoán được gần đúng kết luận, hạ ưu tiên.
+Không tìm premise cụ thể.
+Không tìm object.
 
-Đầu ra ngắn:
+---
+
+## Pass 1 — Historical attempts
+
+Câu hỏi:
+
+> Những lần nào trong lịch sử con người đã cố giải quyết giới hạn này?
+
+Output:
+
+- attempt;
+- người tham gia;
+- thành tựu;
+- thất bại hoặc đánh đổi;
+- hệ quả mới.
+
+---
+
+## Pass 2 — Attention test
+
+Chỉ thực hiện sau khi có territory.
+
+Câu hỏi:
+
+> Nếu giới thiệu câu chuyện trong 2–3 câu, điều gì khiến người xa lạ muốn biết tiếp?
+
+Attention phải đến từ:
+
+- nghịch lý;
+- vật thể kỳ lạ;
+- tương phản;
+- tham vọng khổng lồ;
+- thất bại bất ngờ;
+- thành tựu khó tin.
+
+Không dùng triết lý hoặc ý nghĩa cuộc sống để tạo hook.
+
+---
+
+## Pass 3 — Discovery
+
+Câu hỏi:
+
+> Nếu người xem biết premise ban đầu, họ vẫn chưa biết điều gì?
+
+Tìm khoảng cách giữa:
 
 - câu hỏi bề mặt;
-- điều chưa biết khiến ta muốn điều tra;
-- phát hiện hoặc chuyển nghĩa tiềm năng;
-- điều gì cần kiểm chứng thêm để biết discovery này có thật hay không.
+- phát hiện sâu hơn.
 
-Chưa viết kết luận triết học.
+Không viết kết luận triết học trước khi có discovery.
 
-## Lượt C — Chỉ tìm phần dư ý nghĩa
+---
 
-Chỉ làm sau khi đã có một discovery đủ thật ở lượt B.
+## Pass 4 — Story viability
 
-Câu hỏi duy nhất:
+Kiểm tra:
 
-> Sau khi câu hỏi bề mặt được giải đáp, phát hiện này có làm người xem nhìn lại điều gì trong chính đời sống con người không?
+- có đủ con người không?
+- có lựa chọn không?
+- có xung đột không?
+- có progression không?
+- có thể kể bằng cảnh cụ thể không?
 
-Lượt này kiểm tra cụ thể, làm sâu, điều chỉnh hoặc bác bỏ ý nghĩa dự kiến bằng discovery và material lịch sử; có thể tìm ra ý nghĩa khác nếu nguồn dẫn tới đó. Cần chỉ rõ chất liệu nào gánh được hướng ý nghĩa. Không dán một thông điệp lên subject chỉ để làm nó có vẻ sâu sắc.
+Nếu thiếu, không cứu bằng cách thêm philosophy.
 
-Không khóa kết luận. Research sau đó vẫn có quyền thay đổi hoặc phá giả thuyết này.
+---
 
-## Lượt D — Chỉ kiểm tra thị trường và lãnh thổ biên tập
+## Pass 5 — Market
 
-Chỉ khảo sát những ứng viên đã qua A–C.
+Chỉ thực hiện sau khi premise sống sót.
 
-Câu hỏi duy nhất:
+Không dùng thị trường để cứu một ý tưởng yếu.
 
-> Có đủ nhu cầu quanh vùng câu chuyện này, và câu hỏi/góc nhìn/trải nghiệm mà ta định làm đã bị một tác phẩm mạnh chiếm gần hết chưa?
+---
 
-Dùng `market-research.md`. Không quay lại sửa premise bằng cách “kể hay hơn” nếu lãnh thổ đã bị chiếm.
+## Review premise
 
-## Lượt E — Chỉ kiểm tra khả năng mang câu chuyện
+Không hỏi:
 
-Chỉ với ứng viên còn sống.
+"Ý tưởng này có sâu sắc không?"
 
-Câu hỏi duy nhất:
+Hỏi:
 
-> Lịch sử có đủ người, sự kiện, vật chứng, nguồn và trải nghiệm đời sống để gánh câu chuyện này mà không phải bịa hoặc biến nó thành essay không?
+1. Tôi có muốn biết chuyện này sau 2 câu mô tả không?
+2. Nó đại diện cho cuộc đấu tranh nào của con người?
+3. Thành tựu nào thật sự gây kinh ngạc?
+4. Giới hạn mới nào xuất hiện sau thành công?
+5. Người xem còn mang theo câu hỏi nào về chính đời mình?
 
-Đây mới là lúc kiểm tra sâu nguồn, nhân vật, điểm nhìn, mốc thời gian và material có thể dựng thành trải nghiệm.
+Không:
 
-## Lượt F — Nghiên cứu sâu và dựng mạch
-
-Chỉ sau khi các cổng trên đều đủ hứa hẹn mới đầu tư research sâu, dựng causal model, trajectory, outline và viết thử.
-
-## Quy tắc bàn giao giữa các lượt
-
-Mỗi lượt chỉ chuyển tiếp những gì lượt sau cần. Không tạo một bảng khổng lồ trong đó mỗi ứng viên phải cùng lúc có hook, triết lý, thị trường, nguồn, POV, trajectory, ending và production plan.
-
-Thứ tự làm việc mặc định:
-
-**giá trị chú ý → sự tò mò/phát hiện → phần dư ý nghĩa → thị trường → khả năng mang câu chuyện → nghiên cứu sâu**.
-
-Đây là thứ tự làm việc để giảm tải và tránh AI điền checklist; không phải cấu trúc bắt buộc của video cuối cùng.
+- chọn object rồi ép triết học vào;
+- chọn tragedy chỉ vì cảm động;
+- chọn vấn đề lớn nhưng thiếu discovery;
+- viết outline trước khi biết human struggle;
+- tạo kết luận rồi tìm facts để chứng minh.
