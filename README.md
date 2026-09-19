@@ -32,7 +32,7 @@ Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận
 
 Chưa có tập nào được chọn hay bản nháp nào được chấp nhận. Không tạo thư mục trống hoặc điền hồ sơ giả để hoàn tất quy trình.
 
-Hồ sơ hiện tại: [lượt chọn ngày 17/09/2026](candidates/2026-09-17/README.md). Hai hướng v03 đã được rút khỏi ưu tiên; các bản cũ được lưu để đối chiếu.
+Hồ sơ hiện tại: [lượt thử mô hình và phản hồi ngày 19/09/2026](candidates/2026-09-19/README.md). Schokland được chủ kênh đánh giá rất tốt ở cấp premise; bốn tiền đề còn lại tương đối yếu. Chưa chọn tập sản xuất. [Hồ sơ ngày 17/09/2026](candidates/2026-09-17/README.md) và các bản cũ được giữ để đối chiếu.
 
 ## Cách giao việc
 
