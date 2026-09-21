@@ -30,9 +30,9 @@ Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận
 | `episodes/<id>-<slug>/revisions.md` | Phản hồi nguyên văn, mốc cần giữ và kết quả sửa |
 | `episodes/<id>-<slug>/production.md` | Chỉ tạo khi cần: âm thanh, hình ảnh, quyền sử dụng và bản phát hành |
 
-Chưa có tập nào được chọn hay bản nháp nào được chấp nhận. Không tạo thư mục trống hoặc điền hồ sơ giả để hoàn tất quy trình.
+Đang phát triển [tập Schokland](episodes/schokland/episode.md). Mốc review hiện tại là [đoạn mẫu tiếng Việt v05](episodes/schokland/drafts/vi-v05-sample.md): chủ kênh xác nhận cải thiện đáng kể nhưng vẫn cần sửa, chưa duyệt bản cuối. [Phản hồi và lịch sử sửa](episodes/schokland/revisions.md) giữ điểm tiếp tục; [nguồn và ghi chú bản v05](episodes/schokland/working/2026-09-21-v05-review-notes.md) nằm riêng với lời kể.
 
-Hồ sơ hiện tại: [lượt chọn ngày 17/09/2026](candidates/2026-09-17/README.md). Hai hướng v03 đã được rút khỏi ưu tiên; các bản cũ được lưu để đối chiếu.
+Hồ sơ chọn đề tài trước đó: [lượt chọn ngày 17/09/2026](candidates/2026-09-17/README.md). Hai hướng v03 đã được rút khỏi ưu tiên; các bản cũ được lưu để đối chiếu. Công việc Schokland có [review premise](research/schokland-review-2026-09-19/review.md), [nghiên cứu cách biên tập podcast](research/history-podcast-editorial-2026-09-21/report.md) và [kế hoạch kịch bản tiếng Việt](research/schokland-vietnamese-script-plan-2026-09-21.md).
 
 ## Cách giao việc
 
@@ -44,7 +44,7 @@ Mọi lượt nhận trước định hướng của chủ kênh trong DNA. A t�
 
 Bắt đầu một tập bằng cách chép [episode.md](templates/episode.md) sau khi ứng viên đã qua đủ các lượt cần thiết và bổ sung chất liệu thật. Dùng [market-research.md](docs/market-research.md) khi đến lượt khảo sát thị trường; dùng [research.md](templates/research.md) khi nghiên cứu; dùng [revisions.md](templates/revisions.md) khi có phản hồi hoặc vòng sửa.
 
-Ngôn ngữ kịch bản, thời lượng cụ thể, lịch phát hành và ngân sách chưa được chốt. Ngôn ngữ tài liệu làm việc ban đầu là tiếng Việt. Khảo sát thị trường trước đó dùng tiếng Anh; đó chưa phải quyết định ngôn ngữ xuất bản.
+Với Schokland, ưu tiên hiện tại là kịch bản tiếng Việt để chủ kênh review. Bản tiếng Anh, thu âm và mức độ hình ảnh được xử lý sau; thời lượng, lịch phát hành và ngân sách chưa được chốt. Theo dõi phạm vi hiện hành trong hồ sơ tập.
 
 ## Nguyên tắc vận hành
 
