@@ -32,7 +32,7 @@ Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận
 
 Chưa có tập nào được chọn hay bản nháp nào được chấp nhận. Không tạo thư mục trống hoặc điền hồ sơ giả để hoàn tất quy trình.
 
-Hồ sơ hiện tại: [lượt thử mô hình và phản hồi ngày 19/09/2026](candidates/2026-09-19/README.md). Schokland được chủ kênh đánh giá rất tốt ở cấp premise; bốn tiền đề còn lại tương đối yếu. Chưa chọn tập sản xuất. [Hồ sơ ngày 17/09/2026](candidates/2026-09-17/README.md) và các bản cũ được giữ để đối chiếu.
+Hồ sơ hiện tại: [research khả năng dựng Schokland thành podcast, 21/09/2026](candidates/schokland/README.md). Kết quả đề xuất phát triển tiếp, đã có chất liệu đời sống và tái định cư; chưa thử lời kể hoặc chọn tập sản xuất. Tiếp nối [lượt thử mô hình và phản hồi ngày 19/09/2026](candidates/2026-09-19/README.md), khi Schokland được chủ kênh đánh giá rất tốt ở cấp premise. [Hồ sơ ngày 17/09/2026](candidates/2026-09-17/README.md) và các bản cũ được giữ để đối chiếu.
 
 ## Cách giao việc
 

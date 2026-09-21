@@ -25,5 +25,7 @@ Ba sub-agent riêng tìm cửa vào ở các vùng cá nhân/công cuộc, hệ 
 
 ## Điểm tiếp nối
 
+Ngày 21/09/2026: đã tiếp tục [research khả năng dựng Schokland thành podcast](../schokland/README.md) theo yêu cầu chủ kênh. Đề xuất phát triển tiếp dựa trên chất liệu đời sống và tái định cư; chưa có outline, lời kể được duyệt hay quyết định sản xuất. Các giới hạn lịch sử làm thay đổi cách diễn giải premise được ghi tại hồ sơ mới.
+
 Giữ Schokland làm mốc đối chiếu sức hút, chuyển biến và sức nặng cảm xúc. Khi được giao tiếp tục, kiểm tra chất liệu đời sống và chuyển biến đủ gánh câu chuyện; không tự suy việc đánh giá premise tốt thành lệnh sản xuất.
 Hồ sơ cũ: [17/09/2026](../2026-09-17/README.md).
