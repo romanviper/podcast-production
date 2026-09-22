@@ -2,6 +2,12 @@
 
 Trạng thái ngày 22/09/2026, sau R11: đã đọc commit R10 `dc4d4085696681cbb2a6a5e39f0d105ea47b0654` và viết [V13 — mở đầu nối vào cuộc di dời và dựng xóm](drafts/vi-v13-opening-and-relocation.md). Đây là đoạn liên tục từ cảng hiện tại, qua chuyến thăm 1858, tới Brunnepe năm 1859. V13 là bản thử mới nhất để review; mốc chất lượng vẫn là V05/V06. Chưa có phần mở hoặc bản toàn tập được chủ kênh chọn.
 
+## Story Architecture experiment
+
+Trên nhánh `experiment/story-architecture-split`, Story Architect đã được chạy độc lập và đầu ra hiện hành là [story map v01](working/2026-09-22-story-map-v01.md). Trong experiment này, file đó là nguồn quyết định về trajectory, thứ tự reveal, causal dependency, explanation budget và protected assets cho phạm vi mở đầu → đời sống 1858 → di dời 1859 → dựng Brunnepe. V13 chỉ còn là một draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture.
+
+Bước kế tiếp của kiến trúc là Beat & Evidence Curator: gom evidence đúng cho các beat đã khóa mà không tự đổi trajectory. Chưa có narrative draft mới được viết từ story map này.
+
 ## Việc đang được giao
 
 R12 giao chuẩn bị master prompt và resource để writer từ provider khác viết một bản mới. [Bộ bàn giao v13-provider](handoff/v13-provider/README.md) gồm prompt, brief/chuẩn đối chiếu, nguyên văn V05/V06 và hồ sơ chất liệu chọn lọc. Đầu ra được giao là mở đầu nối vào di dời và dựng nơi ở tại Brunnepe, kế thừa phạm vi đang phát triển; không áp độ dài. Bộ nguồn chốt tại `6b8f85d`. Chưa có lời kể v13-provider; V13 hiện có vẫn giữ nguyên trạng thái thử nghiệm.
