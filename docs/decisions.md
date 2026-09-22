@@ -1,5 +1,23 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-22 — Feedback phải cải thiện lời kể, không chỉ hoàn thành thao tác sửa
+
+### Nguyên văn của chủ kênh
+
+> tôi feedback bằng ngôn ngữ tự nhiên nhưng chất lượng draft suy giảm sau mỗi vòng feedback và viết lại
+
+> bạn hãy viết thêm rule cho agent để giải quyết vấn đề này và để các vòng feedback thật sự có hiệu quả cải thiện thay vì chỉ thực thi một cách chống chế
+
+### Thay đổi theo yêu cầu
+
+Làm rõ trách nhiệm tiếp nhận feedback trong AGENTS.md và thay mục 5 của workflow bằng cách sửa có căn cứ: chọn bản nền theo chất lượng, xác định nguyên nhân trong đoạn, giữ phẩm chất đã có, đọc kết quả trước lời giải thích và chỉ chuyển bản nền khi có bằng chứng tiến bộ. Không buộc chủ kênh viết đặc tả; không coi feedback mới là hủy những mục tiêu trước.
+
+### Cơ sở và giới hạn
+
+Chuỗi Schokland v09–v12 cùng phản hồi R06, R08, R09 cho thấy việc tăng đặt vấn đề/mở đầu đã không giữ được chất kể và hình ảnh được chủ kênh ghi nhận ở v05/v06. Xem [revisions](../episodes/schokland/revisions.md) và [đối chiếu R09](../episodes/schokland/working/2026-09-22-writer-benchmark.md). V05/v06 là đoạn giữa, chưa phải phần mở được duyệt.
+
+Diễn giải của trợ lý: vòng sửa dễ kiểm tra thành phần được thêm thay vì tác dụng của lời kể. Quy tắc mới làm rõ việc bác bản sửa và giữ bản nền; đây là biện pháp cần kiểm nghiệm trên các bản viết tiếp, chưa phải bằng chứng chất lượng đã tăng. Lượt này chỉ sửa hướng dẫn và ghi quyết định, không tạo bản thảo hoặc đổi trạng thái duyệt.
+
 ## 2026-09-17 — Ý nghĩa là trọng tâm; storytelling lịch sử dẫn người xem tới ý nghĩa
 
 Nguồn: chủ kênh tiếp tục làm rõ trong cùng cuộc trao đổi về định hướng.

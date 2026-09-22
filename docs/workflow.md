@@ -1,6 +1,6 @@
 # Workflow biên tập v0.1
 
-Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-15.
+Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-22.
 Trạng thái: thiết kế ban đầu theo yêu cầu chủ kênh; chưa được kiểm nghiệm bằng một tập hoàn chỉnh.
 
 ## Kiến trúc: tài liệu ổn định, hồ sơ tập, phiên bản bản thảo
@@ -145,27 +145,43 @@ Nếu một beat dự kiến được hình ảnh/âm thanh gánh phần meaning
 
 Khi một đoạn đã đủ liền mạch, có thể đọc thành tiếng hoặc tạo bản đọc thử trong phạm vi và công cụ cho phép để kiểm tra nhịp, khả năng theo dõi và mong muốn nghe tiếp. Không cần chờ cả tập hoàn chỉnh hoặc thêm nhạc, hình ảnh. Ghi đúng phương thức đã kiểm tra và vị trí phát sinh vấn đề trong revisions.md; nếu chỉ đọc văn bản, không tuyên bố đã nghe thử. Việc này không tạo thêm cổng phê duyệt.
 
-## 5. Sửa có mốc so sánh
+## 5. Sửa theo hiệu quả của lời kể
 
-Trước vòng sửa:
-- Chỉ rõ file và commit làm bản gốc.
-- Trỏ bản được chủ kênh chấp nhận gần nhất, nếu có; nếu chưa có, ghi chưa có.
-- Chép phản hồi nguyên văn, rồi mới diễn giải vấn đề.
-- Chọn mục tiêu sửa và phạm vi đủ để xử lý nó.
-- Chỉ rõ những đoạn/đặc tính cần giữ và bằng chứng vì sao chúng có giá trị.
+### Hiểu feedback và chọn bản nền
 
-Sau đó tạo phiên bản mới, ví dụ drafts/v02.md. Không ghi đè bản đã được review. Một sửa đổi lớn vẫn được phép khi cần, nhưng cần nói rõ phần nào thay đổi và vì sao sửa cục bộ không đủ.
+Lưu nguyên văn feedback trong revisions.md, tách khỏi diễn giải của trợ lý. Nhận xét như “khô”, “rời rạc”, “chưa thấy đáng quan tâm” mô tả trải nghiệm cần cải thiện; không tự chuyển chúng thành lệnh thêm một thành phần. Chỉ dẫn cụ thể của chủ kênh vẫn phải được tôn trọng. Ví dụ minh họa của chủ kênh không tự trở thành câu chữ bắt buộc hoặc dữ kiện lịch sử.
 
-So sánh trước/sau bằng đoạn cụ thể:
-- Vấn đề dự định sửa có giảm không?
-- Những gì đã tốt có bị mất không?
-- Có thêm hiểu lầm hoặc khẳng định lịch sử quá mức không?
-- Mạch hiện tại đang được giữ bởi information curiosity hay một trajectory có meaning? Điều đó có phù hợp với ý đồ tập không?
-- Khi đọc/nghe liên tục, nhịp và hướng câu chuyện có còn rõ không? Ghi cách kiểm tra đã thực hiện, ai phản hồi nếu có, và vị trí mất phương hướng hoặc mất hứng thú.
+Chọn bản nền bằng đường dẫn và commit, dựa vào chất lượng còn hữu ích cho phần đang sửa, không dựa vào số phiên bản mới nhất. Trỏ riêng bản đã được chủ kênh chọn, nếu có. Xác định những phẩm chất cần giữ bằng đoạn cụ thể và phản hồi liên quan; phân biệt chủ kênh đã đánh giá với nhận định của trợ lý. Giữ tác dụng của chi tiết, không bắt giữ nguyên mọi câu, cảnh hoặc lỗi của bản cũ.
 
-Cùng một trợ lý tự đánh giá chỉ cho kết luận tạm thời. Chỉ gắn “được chủ kênh chấp nhận” khi có phản hồi tương ứng; phân biệt chấp nhận đoạn, hướng kể và cả tập.
+Feedback mới không xóa các mục tiêu trước đó. Nếu chủ kênh đổi hướng, ghi rõ điều được thay thế. Không bắt chủ kênh nhắc lại toàn bộ yêu cầu hoặc duyệt cách diễn giải mỗi lượt; chỉ hỏi khi sự mơ hồ thực sự làm thay đổi hướng kể.
 
-Nếu kết quả kém hoặc chưa rõ, giữ bản mới như thử nghiệm và quay con trỏ về mốc phù hợp. Khi các lần sửa tiếp tục không giải quyết được vấn đề, dừng giả thuyết sửa hiện tại, đối chiếu hai phiên bản và chẩn đoán lại. Không tự mở vòng tối ưu vô hạn hoặc thêm luật chung để hợp thức hóa bản mới.
+### Chọn cách sửa có thể kiểm tra
+
+Ghi ngắn trong hồ sơ vòng sửa hiện có: đoạn nào gây trải nghiệm bị phàn nàn, giả thuyết vì sao, sẽ thay đổi gì và dấu hiệu trong lời kể cho thấy cách sửa có tác dụng. Đây là quyết định biên tập có thể bác bỏ, không phải bài giải thích ý đồ dài hoặc biểu mẫu mới.
+
+Ví dụ: “chưa quan tâm” có thể do lời kể nêu kết luận trước khi cho thấy điều đang bị đe dọa; “rời rạc” có thể do đoạn sau đổi đối tượng mà chưa phát triển điều đoạn trước mở ra. Phải kiểm tra trên bản thảo, không mặc định những nguyên nhân này đúng cho mọi trường hợp.
+
+Thêm câu hỏi chưa chứng minh có sức kéo; thêm tên người chưa tạo một tuyến người; thêm tính từ chưa tạo không gian. Chọn cách sửa ở thứ tự tiết lộ, quan hệ giữa các phần, điểm nhìn, mức triển khai hoặc chất liệu khi vấn đề nằm ở đó. Không cấm câu hỏi, nhân vật hay giải thích; yêu cầu chúng thực hiện được chức năng trong đoạn.
+
+Sửa trong phạm vi đủ giải quyết nguyên nhân. Không mặc định viết lại toàn bộ; cũng không giữ cấu trúc hỏng chỉ để sửa ít. Nếu phải thay lớn, nêu vì sao sửa cục bộ không đủ. Không tự áp hạn mức từ hoặc nhồi mọi yêu cầu vào phần đang sửa. Thiếu chất liệu thì nghiên cứu phần thiếu trong phạm vi được giao hoặc ghi giới hạn, không bịa để tăng sức kể.
+
+### Đọc kết quả trước lời giải thích
+
+Tạo phiên bản mới, không ghi đè bản đã review. Đọc lời kể liên tục trước khi dùng ghi chú ý đồ hoặc tự chấm của writer làm căn cứ. Khi giao người/agent khác review, cho đọc bản thảo và mục tiêu trước, nhận xét ban đầu rồi mới đối chiếu lý do sửa; không gọi tự đọc lại là đánh giá độc lập.
+
+So sánh cùng chức năng và phạm vi đủ thấy tác dụng của sửa đổi, gồm chỗ nối bị ảnh hưởng. Với mở đầu, đọc cả phần triển khai tiếp theo nếu đã có; nếu chỉ viết phần mở, ghi rõ chưa kiểm tra được khả năng nối tiếp. Không chấm đoạn giữa như mở đầu hoặc lấy một câu gây tò mò làm bằng chứng cả đoạn đã hay hơn.
+
+Dẫn đoạn trước/sau để trả lời: vấn đề có giảm không, chi tiết/diễn biến nào tạo ra thay đổi, phẩm chất nào được giữ hoặc mất? Kiểm tra người nghe có thể hiểu/hình dung gì từ chính lời kể và điều gì khiến họ theo tiếp. Việc đã thêm/bớt thành phần, đủ checklist hoặc có nguồn đúng chưa chứng minh trải nghiệm tốt hơn. Nếu dùng đối thủ làm mốc, đối chiếu cách đoạn của họ vận hành, không chỉ đếm thành phần giống nhau.
+
+Kiểm tra cả sai lệch lịch sử, nhịp khi đọc liên tục và sự phù hợp giữa lời hứa với hướng kể của tập. Ghi đúng cách kiểm tra thực tế; không suy ra phản ứng khán giả, retention hay chất lượng âm thanh từ tự đọc văn bản.
+
+### Chọn bản để tiếp tục
+
+Chỉ chuyển bản nền khi có bằng chứng cụ thể rằng vấn đề đã giảm và không làm suy giảm đáng kể các phẩm chất cần giữ. Không lấy một điểm mới tốt hơn để che việc sức kể tổng thể đi xuống. Nếu có đánh đổi chưa giải quyết, ghi rõ; bản mới vẫn là thử nghiệm, không tự thay mốc tốt. Khi chủ kênh chủ động chọn một đánh đổi, ghi lựa chọn đó.
+
+Phân biệt bản mới nhất, bản nền đang dùng và bản được chủ kênh chọn trong episode.md. Tự review chỉ cho kết luận tạm thời; chỉ ghi được chủ kênh chấp nhận khi có phản hồi tương ứng, phân biệt chấp nhận đoạn, hướng kể và cả tập. Bàn giao ngắn phần tiến bộ, phần giảm/chưa chắc và quyết định giữ hay thay bản nền, với dẫn chứng đủ kiểm tra.
+
+Nếu cách sửa không hiệu quả, giữ thử nghiệm và quay lại bản nền phù hợp. Đối chiếu kết quả để đổi giả thuyết hoặc tìm đúng chất liệu thiếu trước lần thử tiếp; không lặp lại cùng cách sửa dưới tên mới, mở vòng vô hạn hoặc thêm luật chung để hợp thức hóa thất bại. Ghi kết quả vào hồ sơ hiện có; không tạo hệ thống chấm điểm hay báo cáo riêng cho mỗi bước.
 
 ## 6. Hoàn thiện cả tập và chuyển sang sản xuất
 

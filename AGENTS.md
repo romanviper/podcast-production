@@ -48,8 +48,12 @@ Viết một đoạn nhỏ nghĩa là một đoạn liên tục của tập; kh�
 
 ## Vòng sửa và bàn giao
 
-Trước khi sửa, xác định bản gốc, phạm vi, mục tiêu và những phần cần giữ trong hồ sơ tập. Lưu phản hồi nguyên văn ở revisions.md, tách khỏi diễn giải của trợ lý. Giữ phiên bản cũ; trạng thái bản được chủ kênh chấp nhận phải có bằng chứng phản hồi.
+Feedback bằng ngôn ngữ tự nhiên là đầu vào hợp lệ. Agent chịu trách nhiệm chuyển cảm nhận của chủ kênh thành quyết định biên tập có căn cứ; không yêu cầu chủ kênh viết đặc tả hoặc nhắc lại mọi phẩm chất cần giữ. Feedback mới bổ sung mục tiêu hiện có, trừ khi chủ kênh thực sự đổi hướng.
 
-Sau khi làm: cập nhật con trỏ bản hiện tại, việc vừa đổi, điểm chưa chắc và bước tiếp theo. Nếu một vòng sửa không đạt, quay lại bản phù hợp và đổi giả thuyết sửa; không tự thêm lớp harness.
+Thực hiện vòng sửa theo mục 5 của `docs/workflow.md`: chọn bản nền có lý do; lưu nguyên văn feedback riêng với diễn giải; chỉ ra chỗ gây vấn đề, cách sửa dự kiến và phẩm chất cần giữ. Không coi thêm câu hỏi, nhân vật, hình ảnh hay lời giải thích ý nghĩa là bằng chứng đã giải quyết feedback.
+
+Đọc lời kể và so sánh trải nghiệm trước/sau trước khi dùng ghi chú ý đồ để kết luận. Bản mới chỉ thay bản nền khi có bằng chứng cụ thể về tiến bộ và không làm suy giảm đáng kể phẩm chất cần giữ; nếu chưa rõ, lưu là thử nghiệm và giữ bản nền. Không dùng việc hoàn thành thao tác sửa hoặc lời tự chấm làm bằng chứng chất lượng.
+
+Giữ phiên bản cũ; phân biệt bản mới nhất, bản nền để viết tiếp và bản được chủ kênh chọn. Tự review chỉ cho kết luận tạm thời. Bàn giao ngắn việc đã tốt hơn, phần giảm/chưa giải quyết và bản được dùng tiếp. Nếu giả thuyết sửa thất bại, đổi cách xử lý; không tự thêm luật hoặc lặp vô hạn.
 
 Commit theo phạm vi được giao, không force-push hay ghi đè công việc của người khác. Kiểm tra ref mới nhất trước khi cập nhật remote; nếu thay đổi đồng thời, bảo toàn chúng và xử lý lại.
