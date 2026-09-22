@@ -30,7 +30,7 @@ Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận
 | `episodes/<id>-<slug>/revisions.md` | Phản hồi nguyên văn, mốc cần giữ và kết quả sửa |
 | `episodes/<id>-<slug>/production.md` | Chỉ tạo khi cần: âm thanh, hình ảnh, quyền sử dụng và bản phát hành |
 
-Đang phát triển [tập Schokland](episodes/schokland/episode.md). Mốc review hiện tại là [đoạn mẫu tiếng Việt v05](episodes/schokland/drafts/vi-v05-sample.md): chủ kênh xác nhận cải thiện đáng kể nhưng vẫn cần sửa, chưa duyệt bản cuối. [Phản hồi và lịch sử sửa](episodes/schokland/revisions.md) giữ điểm tiếp tục; [nguồn và ghi chú bản v05](episodes/schokland/working/2026-09-21-v05-review-notes.md) nằm riêng với lời kể.
+Đang phát triển [tập Schokland](episodes/schokland/episode.md). Bản đề xuất để đọc tiếp là [đoạn mẫu tiếng Việt v08](episodes/schokland/drafts/vi-v08-sample.md), sau ba vòng từ v05 ngày 22/09/2026. [V05](episodes/schokland/drafts/vi-v05-sample.md) vẫn là mốc chủ kênh đã phản hồi tích cực có điều kiện; chưa có bản được duyệt cuối. [Review và đối chiếu các chương trình](episodes/schokland/working/2026-09-22-benchmark-and-review.md), [kiểm nguồn v08](episodes/schokland/working/2026-09-22-v08-source-check.md) và [lịch sử sửa](episodes/schokland/revisions.md) giữ căn cứ và điểm tiếp tục.
 
 Hồ sơ chọn đề tài trước đó: [lượt chọn ngày 17/09/2026](candidates/2026-09-17/README.md). Hai hướng v03 đã được rút khỏi ưu tiên; các bản cũ được lưu để đối chiếu. Công việc Schokland có [review premise](research/schokland-review-2026-09-19/review.md), [nghiên cứu cách biên tập podcast](research/history-podcast-editorial-2026-09-21/report.md) và [kế hoạch kịch bản tiếng Việt](research/schokland-vietnamese-script-plan-2026-09-21.md).
 

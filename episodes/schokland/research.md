@@ -1,6 +1,6 @@
 # Nghiên cứu — Schokland
 
-Ngày kiểm tra: 21/09/2026. Phạm vi: chất liệu cho một đoạn mẫu tiếng Việt về di dời và dựng tiếp đời sống. Hồ sơ đang cập nhật; không phải toàn bộ research cho tập.
+Ngày kiểm tra: 21/09/2026; bổ sung R04 ngày 22/09/2026. Phạm vi: chất liệu cho một đoạn mẫu tiếng Việt về di dời và dựng tiếp đời sống. Hồ sơ đang cập nhật; không phải toàn bộ research cho tập.
 
 ## Nguồn điều phối đã đọc
 
@@ -90,3 +90,11 @@ Ngày 21/09/2026, sau phản hồi về mở đầu mơ hồ và ít hình ảnh
 - Không ghép tuyến này thành cảnh cư dân chở vật liệu năm 1859; không thêm tiếng chân, thời tiết hoặc cử chỉ. Những đánh giá xã hội, tôn giáo và tâm lý trong bài mang cái nhìn của khách thăm; không chuyển thành tiếng nói của cư dân.
 
 Vòng này mở rộng phần nền trong mẫu để người nghe có một địa điểm cụ thể trước việc rời đi. Các nguồn mới không thay cho nghiên cứu đời sống hậu di dời hoặc toàn tập.
+
+## Bổ sung R04 — 22/09/2026
+
+[Đối chiếu V08](working/2026-09-22-v08-source-check.md) ghi các nguồn đã mở lại và căn cứ theo mười đoạn. [Benchmark và review](working/2026-09-22-benchmark-and-review.md) ghi riêng tác phẩm đối chiếu, mức tiếp cận và ba vòng viết/đọc.
+
+Chất liệu được đưa thêm vào mẫu: cảng còn hoạt động qua người thăm 1858 (S07); kích thước thường gặp của nhà Brunnepe (S04/H01); một trường hợp nhận tiền ứng trước để tháo/xây nhà rồi rời đảo (Eva Bape, H01, *Nummer 8*, chú thích 4). H01 đã có trong báo cáo nhà ở; không đánh số thành nguồn mới. Chưa đọc sổ công văn gốc mà bài dẫn.
+
+Các sửa phạm vi sau đối chiếu: quyền sở hữu hai nhà không tự chứng minh nơi thầy giáo sống; thời hạn thông báo không phải lịch thực hiện của mọi hộ; vật liệu, nghề và nội thất của nhóm không được gán hết cho Eva. Các nguồn khác vẫn giữ trạng thái truy cập đã ghi trước đây.

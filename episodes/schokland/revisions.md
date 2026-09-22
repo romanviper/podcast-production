@@ -65,3 +65,25 @@ Chưa có bản được chủ kênh duyệt ở vòng R02.
 Chủ kênh xác nhận v05 cải thiện đáng kể so với bản trước, đồng thời còn cần sửa; đây chưa phải phê duyệt bản cuối. Giữ nguyên lời kể v05 trong lượt lưu mốc này. Lưu cùng các bản trước, nghiên cứu, kiểm chứng và phản hồi để vòng sau tiếp tục từ đúng căn cứ.
 
 Bước tiếp theo: chờ phản hồi cụ thể của chủ kênh về v05, rồi tạo phiên bản sửa mới; không tự viết thêm trong lượt commit/push. Phạm vi vẫn là kịch bản tiếng Việt. Không lên lịch chạy tự động.
+
+## R04 — 22/09/2026 — review v05 bằng tác phẩm đối chiếu và tự chạy vòng sửa
+
+### Nguyên văn của chủ kênh
+
+“checkout repo podcast-production, tiếp tục review bản draft v05 và tiếp tục tự xây dựng các vòng lặp cải thiện để viết những bản draft mới, hãy lấy ví dụ từ các kênh cùng niche để làm tiêu chuẩn đầu ra cho bản draft ”
+
+### Phạm vi và mốc
+
+Yêu cầu hiện tại cho phép tiếp tục viết; thay trạng thái chờ ở R03. Bản gốc là v05 tại `692fbf1b13cacf745362449fe1776bde4b33ea8c`. Giữ nguyên v01–v05. Làm trên nhánh `episode/schokland-v05-review`; tiếp tục đoạn mẫu tiếng Việt, chưa viết toàn tập.
+
+Giữ tình thế rõ ở đầu, không gian có căn cứ và việc dựng tiếp đời sống. Đây là lựa chọn biên tập dựa trên phản hồi R02–R03; chủ kênh chưa yêu cầu giữ nguyên câu cụ thể nào. [Review và chuẩn đối chiếu](working/2026-09-22-benchmark-and-review.md) phân biệt đoạn tham chiếu đã đọc với đề xuất áp dụng. Cùng một trợ lý lần lượt nghiên cứu, viết và đọc lại; không gọi đó là kiểm duyệt độc lập.
+
+### Kết quả ba lượt
+
+1. **[V06](drafts/vi-v06-sample.md):** thử nối thông báo, thu xếp đất và chuyển vật liệu; thêm cảng đang hoạt động. Sau khi đọc, còn nhiều câu tổng kết lặp ý. Giữ như thử nghiệm.
+2. **[V07](drafts/vi-v07-sample.md):** bỏ lời bình, tổ chức điểm nhìn cảng → đường nối xóm; thêm kích thước nhà. Đọc lại thấy phần thu xếp/dựng vẫn vội, có câu suy quyền sở hữu thành nơi thầy giáo ở. Chưa chọn.
+3. **[V08](drafts/vi-v08-sample.md):** triển khai một trường hợp trong nhóm hộ, Eva Bape, bằng khoản ứng trước và thời điểm rời đi có nguồn; giữ riêng người đó với các đặc điểm chung của nhà/xóm. Sửa suy diễn ở v07, giới hạn nhóm nhà, bỏ các câu diễn nghĩa lặp trong lượt chốt. Đọc lại bản sau sửa và [kiểm nguồn](working/2026-09-22-v08-source-check.md).
+
+Chuẩn tham chiếu: FoC tập 6 (không gian/thông tin tiến lên), Throughline *Two Miles Down The Road* (bối cảnh phục vụ việc đang làm), HISTORY This Week EP 419 (chi tiết được hiểu lại sau diễn biến). Mức tiếp cận và locator nằm trong báo cáo, không tự nhận đã xem/nghe toàn bộ các tập.
+
+**Bàn giao:** đề xuất v08 để đọc tiếp; giữ nguyên v01–v05. Đây là đánh giá của trợ lý. Chủ kênh chưa đọc v06/v07/v08 trong lượt này; không có bản mới nào được chấp nhận. Không sửa DNA, workflow hoặc định vị kênh. Chưa thu/nghe audio. Dư âm và khả năng gắn bó với người trong cuộc còn là điểm cần đánh giá; không tuyên bố mẫu đã ngang các chương trình tham chiếu.
