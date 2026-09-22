@@ -257,3 +257,19 @@ Sau lần tự đọc đầu, cắt giải thích lặp ở đoạn phân lô/t�
 V13 khôi phục được phần kể đã bị để ngoài các mở đầu trước. Những đoạn dựng nhà vẫn có tính lược thuật; tuyến sau năm 1859 chưa được viết. Không kết luận đã ngang đối thủ hoặc đã giải quyết toàn bộ vấn đề writer. Giữ V13 là thử nghiệm tích hợp để review; mốc phẩm chất V05/V06 vẫn có hiệu lực, chưa có bản được chủ kênh chọn.
 
 Cách kiểm: cùng trợ lý tự đọc văn bản và mở lại nguồn; không có reviewer độc lập, bản thu hoặc dữ liệu khán giả. Căn cứ và giới hạn mới ở phần R11 của [research.md](research.md).
+
+## R12 — 22/09/2026 — bàn giao writer từ provider khác
+
+### Nguyên văn của chủ kênh
+
+> giúp tôi viết 1 master prompt và cần đính kèm những file resource nào trong repo để writer từ provider khác có thể viết được bản draft v13 mới luôn
+
+### Quyết định và đầu ra
+
+Kiểm tra nhánh mới nhất tại `6b8f85d092d18534229db355fe48834faac3fb2c`, đã có V13. Giữ bản ấy nguyên trạng; đặt đầu ra bên provider khác là **v13-provider**, phương án độc lập, chưa được viết trong lượt đóng gói này.
+
+[Bộ bàn giao](handoff/v13-provider/README.md) cung cấp một master prompt và ba resource: brief/chuẩn podcast, nguyên văn V05/V06, hồ sơ chất liệu lịch sử có nguồn và giới hạn. Chọn phạm vi mở đầu nối vào di dời và dựng nơi ở tại Brunnepe; lấy V05 làm nền phẩm chất, V06 làm mốc bổ sung. Giữ quan hệ không gian, chuyển động nhà–vật liệu–nhà khác và đời sống trong bản nộp; writer được đổi câu chữ, thứ tự, mức triển khai. Điểm vào ưu tiên là cảng trên cạn, có quyền chọn tình thế có nguồn khác nếu dẫn cùng hướng kể tốt hơn. Không áp số từ hoặc biến phần mở thành toàn bộ bản nộp.
+
+Tuyển chọn nguồn gốc khó khăn, đời sống, vật liệu, phân lô và công dụng nhà; giữ sửa nguồn hợp lệ của các vòng sau. Chuẩn đối thủ có tác phẩm, vị trí đoạn và cơ chế quan sát; không nhận đó là metric của đối thủ hoặc bằng chứng retention. Các nguyên bản nguồn web không được sao chép toàn văn vào gói. Không bàn giao toàn bộ lịch sử thất bại; chuyển bài học R10/R11 thành quyết định viết và tự biên tập trong prompt.
+
+Đã kiểm bản sao V05/V06 không đổi, mã nguồn được giải thích, các resource cần thiết có sẵn trong gói và archive khớp nội dung. Manifest ghi commit cùng dấu kiểm tra các resource gốc. Gói chưa được chạy thử với provider khác; không kết luận nó đã cải thiện chất lượng bản thảo. Không sửa draft, DNA hoặc workflow.

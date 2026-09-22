@@ -1,0 +1,126 @@
+{
+  "repository": "romanviper/podcast-production",
+  "branch": "episode/schokland-v05-review",
+  "source_commit": "6b8f85d092d18534229db355fe48834faac3fb2c",
+  "created": "2026-09-22",
+  "target_output": "Schokland v13-provider — opening through relocation and rebuilding at Brunnepe",
+  "prompt": "MASTER-PROMPT.md",
+  "attach": [
+    "01-BRIEF-VA-MOC-CHAT-LUONG.md",
+    "02-V05-V06.md",
+    "03-HO-SO-TU-LIEU.md"
+  ],
+  "resources": [
+    {
+      "path": "docs/channel-dna.md",
+      "sha256": "5891618af92e404d22df219f5ac26e9d8a2a595d22215da36087def97e0b2267",
+      "git_blob": "51abc5be86cc189452cf6060eae1f686660062c3",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/episode.md",
+      "sha256": "3074a41a8b1a6eaef07e143f4334d348221b4b3c21de18dfe12bfe623cf0f025",
+      "git_blob": "9558265966dde403628e301350c9d37248bf0ee4",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/revisions.md",
+      "sha256": "044650856a980840ace7ba7ebc866d78b8cac896139adb1a33d4ddf2aeec97f1",
+      "git_blob": "f00bb2b424d2030f911ae1fabbe24d02eb6a2b02",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/drafts/vi-v05-sample.md",
+      "sha256": "925e8de5f54d9af4a0c31f7c8f19f712e09869b3f25cb0e01f5cc47c7891466c",
+      "git_blob": "244c45ba0f5c1d29558d97a9e08392d75113bdeb",
+      "treatment": "verbatim"
+    },
+    {
+      "path": "episodes/schokland/drafts/vi-v06-sample.md",
+      "sha256": "a4055b922750378039fa2af9872b18fc690f463959a9e032e243839c9c8b8622",
+      "git_blob": "f183847ce4352bfdda20c03ff060323b8dfa6be5",
+      "treatment": "verbatim"
+    },
+    {
+      "path": "episodes/schokland/research.md",
+      "sha256": "4acc9f51dede6d78c923efdd06165ac9ad8593382315fd0957b1f6e91a5d56a2",
+      "git_blob": "cb233c130528db43a1b72d47e8598c161042447b",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/working/2026-09-21-houses-research.md",
+      "sha256": "f8ebec626658e0f8eedc09968a9d6429da3be36d892c326fc2f647225771058b",
+      "git_blob": "33550b08207c4967f3d0cab6c9ffa3fdef053be1",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/working/2026-09-21-life-research.md",
+      "sha256": "efe5ffc868dffca2d3cedeac9ce91558ed07c0c53da6043419e72a310d41f4c6",
+      "git_blob": "a95e4afd43c382142f56e8e971458cd939d4e088",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/working/2026-09-21-spatial-material.md",
+      "sha256": "a56aaa3435efc93ab4c13c8619d09ba3f26de39d4c76182b575a06bb868b2f16",
+      "git_blob": "1e250c8673e42ce0c84f66bdac5023117042a796",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/working/2026-09-22-v08-source-check.md",
+      "sha256": "ff833c1febbae88bc83f37cfbb475f6e3c2ce87f81d484e6f8540940a5cde636",
+      "git_blob": "fa756da11ff504a77a58b7e3b470ce63bd79a8e8",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/working/2026-09-22-writer-benchmark.md",
+      "sha256": "38d96dd09ef3f5b361c6863bd1c261f245a59b368a504b26bbd3b776f37c50cd",
+      "git_blob": "3fabbe5a3e62c147494547362000f5afddaaa9cc",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "episodes/schokland/working/2026-09-22-editorial-decision-audit.md",
+      "sha256": "9b29b353c0f269258e7f48121cc6dfcc28a9b1bbe478ac4c379dff63178143bc",
+      "git_blob": "1042eb7aeb75325b0b989ca248ada94feccbdd33",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "docs/workflow.md",
+      "sha256": "f5fcb849adf66a1296a9c5e18c3d0d03caf75fc7849f926e8a491edf69f789e2",
+      "git_blob": "a1591ba16bb542510b961354d94131e41ba9285b",
+      "treatment": "selected and synthesized"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "fcba4b541c5342e21efbe3a515aee2021e04d84d1a893cb7fff868228e387359",
+      "git_blob": "1d6450c96bdc56c5159fd5f8f5fa39e3f13f9936",
+      "treatment": "selected and synthesized"
+    }
+  ],
+  "packet_files": [
+    {
+      "name": "MASTER-PROMPT.md",
+      "sha256": "bf575c289dde6f28c364abe80a671c43dbe1e732d976187e120b94a2bc05f284",
+      "bytes": 7419
+    },
+    {
+      "name": "01-BRIEF-VA-MOC-CHAT-LUONG.md",
+      "sha256": "f5b3e1a9477d539745fd41c0df76a39ce2aa7cea8cbb8c87bd335a48b9809b07",
+      "bytes": 11486
+    },
+    {
+      "name": "02-V05-V06.md",
+      "sha256": "5526d7b4d1c8f9658a726f5cee19d9af7797ee48a6d9c722218a114b439b2f3b",
+      "bytes": 8624
+    },
+    {
+      "name": "03-HO-SO-TU-LIEU.md",
+      "sha256": "36e038f84464db68d251ff681b838efe9420e12600495c31a7142dbdef4b7a53",
+      "bytes": 17332
+    },
+    {
+      "name": "README.md",
+      "sha256": "77395c4a3878c7f6f6ee7a2dcaaecc887c1ec5d92c5a828d353f9e4ccca1381b",
+      "bytes": 5353
+    }
+  ]
+}

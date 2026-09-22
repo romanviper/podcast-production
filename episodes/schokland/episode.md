@@ -4,7 +4,9 @@ Trạng thái ngày 22/09/2026, sau R11: đã đọc commit R10 `dc4d4085696681c
 
 ## Việc đang được giao
 
-R11 giao kiểm tra commit mới và viết V13, tiếp sau yêu cầu làm rõ quy tắc xử lý feedback. Quy tắc đã được cập nhật trong AGENTS.md và workflow mục 5; bằng chứng chất lượng phải nằm trong bản viết. Nguyên văn, lựa chọn trước khi viết và đối chiếu sau sửa ở [revisions.md](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13).
+R12 giao chuẩn bị master prompt và resource để writer từ provider khác viết một bản mới. [Bộ bàn giao v13-provider](handoff/v13-provider/README.md) gồm prompt, brief/chuẩn đối chiếu, nguyên văn V05/V06 và hồ sơ chất liệu chọn lọc. Đầu ra được giao là mở đầu nối vào di dời và dựng nơi ở tại Brunnepe, kế thừa phạm vi đang phát triển; không áp độ dài. Bộ nguồn chốt tại `6b8f85d`. Chưa có lời kể v13-provider; V13 hiện có vẫn giữ nguyên trạng thái thử nghiệm.
+
+R11 đã giao kiểm tra commit mới và viết V13, tiếp sau yêu cầu làm rõ quy tắc xử lý feedback. Quy tắc đã được cập nhật trong AGENTS.md và workflow mục 5; bằng chứng chất lượng phải nằm trong bản viết. Nguyên văn, lựa chọn trước khi viết và đối chiếu sau sửa ở [revisions.md](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13).
 
 Nền viết V13 là V05 tại `dc4d408`, giữ công dụng không gian/vật liệu của V06 và sửa nguồn hợp lệ về sau. Điểm vào cảng trên cạn của V12 dẫn vào cảng còn hoạt động năm 1858. Gò cư trú và lối ván đặt trước thông báo; thầy Legebeke xuất hiện trong chuyến thăm rồi tiếp tục bằng việc chia đất và hoàn tất giấy bán đất. Nhà → cấu kiện → thuyền → nhà gạch với gỗ tái dùng → lối chung/giếng → cửa gác đưa lưới là phần kể thực tế của V13.
 
