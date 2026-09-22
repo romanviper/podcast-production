@@ -4,9 +4,9 @@ Trạng thái ngày 22/09/2026, sau R11: đã đọc commit R10 `dc4d4085696681c
 
 ## Story Architecture experiment
 
-Trên nhánh `experiment/story-architecture-split`, Story Architect đã được chạy độc lập và đầu ra hiện hành là [story map v01](working/2026-09-22-story-map-v01.md). Trong experiment này, file đó là nguồn quyết định về trajectory, thứ tự reveal, causal dependency, explanation budget và protected assets cho phạm vi mở đầu → đời sống 1858 → di dời 1859 → dựng Brunnepe. V13 chỉ còn là một draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture.
+Trên nhánh `experiment/story-architecture-split`, Story Architect đã được chạy độc lập. [Story map v02](working/2026-09-22-story-map-v02.md) là architecture hiện hành; [v01](working/2026-09-22-story-map-v01.md) được giữ để đối chiếu lịch sử sửa. V02 khóa trajectory, temporal/causal dependency, explanation budget và protected functions cho phạm vi mở đầu → đời sống 1858 → quyết định di dời → Brunnepe.
 
-Bước kế tiếp của kiến trúc là Beat & Evidence Curator: gom evidence đúng cho các beat đã khóa mà không tự đổi trajectory. Chưa có narrative draft mới được viết từ story map này.
+Full story map là artifact nội bộ và **không được chuyển cho Narrative Writer**. Beat & Evidence Curator đọc v02, kiểm causal floor/evidence rồi tạo một `writer-facing route` đã lọc. V13 chỉ còn là draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture. Chưa có narrative draft mới được viết từ v02.
 
 ## Việc đang được giao
 
