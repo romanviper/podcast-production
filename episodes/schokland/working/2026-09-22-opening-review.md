@@ -2,6 +2,8 @@
 
 Ngày 22/09/2026. Bản bị nhận xét: [v08](../drafts/vi-v08-sample.md), tại commit `3682d9c796ebb79285270fa57a20ef7cb4c28145`. Phản hồi đầy đủ lưu ở R05 trong [revisions.md](../revisions.md).
 
+**Cập nhật sau R06:** chủ kênh nhận xét chất lượng giảm mạnh do giữ khuôn đoạn ngắn và chồng thêm yêu cầu. V10 không còn là bản mở đề xuất. Nội dung dưới đây giữ nguyên lập luận tự review ở R05 để đối chiếu với kết quả thực tế; xem [R06 và chẩn đoán mới](../revisions.md). Việc đáp ứng từng mục đã bị đánh đồng với chất lượng chung của lời kể.
+
 ## Chẩn đoán và phạm vi
 
 V08 cho biết ai phải làm gì, nhưng chưa cho người nghe biết tác giả đang khảo sát vấn đề nào và vì sao đáng theo dõi. Chuẩn review R04 đã kiểm định hướng sự kiện, bỏ sót lý do quan tâm. Vấn đề không phải bản thảo có ngày tháng, mà là ngày tháng đang làm công việc của một lập luận chưa được viết ra.

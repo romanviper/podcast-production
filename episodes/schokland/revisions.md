@@ -120,3 +120,45 @@ V08 là đoạn giữa tập nhưng đang bị đánh giá ở chức năng thu 
 - Đọc lại và đối chiếu nguồn theo đoạn; sửa chốt câu mở cho tự nhiên, bỏ một lời tổng kết lặp sau thông báo, giữ mốc chuyển nghề ở quy mô quá trình thay vì ép thành trình tự sau khi đảo hình thành. Cùng một trợ lý viết và đọc, chưa nghe audio hoặc thử với khán giả.
 
 **Bàn giao:** v10 là bản mở đề xuất để chủ kênh đọc; chưa được chấp nhận. V08 giữ vai trò tư liệu bản giữa tập, không còn được ghi là phần mở đạt yêu cầu. Khi phát triển thân tập phải xử lý phần cảng/lối ván và thông báo bị trùng giữa hai bản. 1942 vẫn là lớp của premise toàn tập cần nghiên cứu tiếp, chưa ghép vào phần mở này.
+
+## R06 — 22/09/2026 — chất lượng giảm khi chồng yêu cầu trong đoạn ngắn
+
+### Nguyên văn của chủ kênh
+
+> tôi thấy chất lượng đi xuống, việc cố gắng giữ nguyên độ dài và cố gắng đặt vấn đề và đi kèm các yêu cầu của các bản trước khiến chất lượng chung đi xuống mạnh
+
+### Chẩn đoán sau khi đọc lại
+
+Đọc lại v05, v08, v10 và hồ sơ tự review: trợ lý đã coi việc đáp ứng từng góp ý là bằng chứng bản mới tốt hơn. V10 lần lượt đi qua đặt vấn đề, câu hỏi, cơ chế than bùn, quá trình hình thành đảo, sinh kế suy giảm, thông báo di dời và cảnh khách thăm. Những phần này có căn cứ riêng nhưng chưa tạo thành một mạch kể đủ sức kéo người nghe.
+
+Không có yêu cầu của chủ kênh phải giữ độ dài. V05/v08/v10 lần lượt có 601/635/428 đơn vị cách trắng; đây không phải số từ ngôn ngữ học hoặc thời lượng đọc, và ba bản không cùng chức năng. Số đếm không chứng minh bản nào hay hơn. Nó cho thấy v10 còn bị thu ngắn trong lúc thêm nhiều chức năng, phù hợp với biểu hiện nén mà chủ kênh chỉ ra. Không cần một hạn mức được viết thành luật mới có thể mắc lỗi giữ hình dáng đoạn mẫu ngắn.
+
+Hai đoạn đầu v10 nói về ý nghĩa ở mức khái quát; phần sau tóm qua nhiều biến đổi; cảnh cảng/lối ván được giữ làm cầu nối nhưng khiến lời kể quay lại trước cuộc di dời khi chưa có một chuyển động dẫn tới đó. Thêm câu hỏi và giải thích đã chiếm chỗ mà chưa tạo thêm trải nghiệm tương xứng. Đây là lỗi phán đoán và tổ chức bản thảo của trợ lý, không phải bằng chứng các yêu cầu của chủ kênh vốn không thể cùng tồn tại.
+
+### Điều chỉnh ở hồ sơ tập
+
+V10 được ghi là vòng sửa không đạt theo phản hồi hiện tại, không còn là bản mở đề xuất. Giữ nguyên các bản để đối chiếu; v05 vẫn chỉ là mốc được nhận xét tích cực có điều kiện, không trở thành khuôn cho phần mở.
+
+Lần viết tiếp cần tổ chức lại phần kể từ mục đích của nó và chất liệu có thể triển khai, được quyền thay độ dài, trật tự, mức giải thích, chọn hoặc bỏ các cảnh cũ. Định vị chủ đề rõ, kể có sức sống và trung thực với tư liệu vẫn là mục đích; các thủ pháp cụ thể đã thử không trở thành nghĩa vụ phải xuất hiện trong mọi bản. Không mặc định giải pháp là viết dài hơn, thêm hook hoặc thêm một bộ tiêu chí.
+
+Lượt phản hồi này xác định lại lỗi và trạng thái bản thảo; chưa tạo v11 hoặc sửa DNA/workflow. Yêu cầu tự chủ phát triển bản thảo ở R04 vẫn còn, nhưng v10 không được dùng tiếp như cấu trúc cần bảo toàn.
+
+## R07 — 22/09/2026 — tìm cách mở từ tác phẩm sát đề tài
+
+### Nguyên văn của chủ kênh
+
+> vấn đề trị thủy rất nổi tiếng tại Hà Lan, tôi nghĩ bạn nên tham khảo những cách đặt vấn đề trong các câu chuyện, podcast nổi tiếng khác tôi không nghĩ là viết đoạn mở này lại gây khó khăn đến vậy cho 1 vấn đề rất nổi tiếng và nhiều tài liệu tham khảo
+
+### Thực hiện
+
+Yêu cầu này đến trong lúc ghi nhận R06; tiếp tục nhiệm vụ nghiên cứu và viết. Đọc phần mở và phần bối cảnh liên quan của ba transcript trên website chính chương trình: Practical Engineering về waterworks, Sea Change về quan hệ Hà Lan với nước, Living on Earth về ngập và thích ứng. Có thêm đoạn chỉ mục transcript 99% Invisible, ghi đúng mức tiếp cận. Chưa nghe hoặc xem các tập. [Đối chiếu cụ thể](working/2026-09-22-dutch-water-openings.md) giữ locator và điều mỗi tác phẩm thực sự làm.
+
+Các ví dụ sát đề tài có điểm tựa rõ: vị trí vùng đất thấp, giá trị của công trình đối với đời sống, năng lực đã đạt được và hậu quả khi bảo vệ thất bại. V10 đã thay những điều cụ thể ấy bằng nhận định khái quát rồi chuyển quá nhanh sang riêng Schokland. Lần mới mở từ bài toán quốc gia, dùng địa thế và công việc điều tiết nước để làm rõ ý nghĩa trước khi thu hẹp vào đảo.
+
+### Bản mới
+
+[V11](drafts/vi-v11-opening.md) được viết từ cấu trúc mới, không giữ đoạn khách thăm ở kết hoặc cơ chế than bùn trong phần mở. Triển khai việc tạo/giữ đất, dùng trận lụt 1953 cho quy mô hậu quả, chuyển rõ về thời kỳ trước các công trình hiện đại để tới cộng đồng Schokland và cuộc rời đi. Bản mở dừng ở nhu cầu dựng tiếp đời sống, chưa viết thay toàn thân tập.
+
+Đối chiếu địa hình và số tử vong với PBL; đối chiếu hệ thống thoát nước bằng gió với UNESCO Kinderdijk. Đọc văn bản sau khi lưu, sửa “diện tích Hà Lan” thành “đất đai ở Hà Lan” để đúng phạm vi land surface. Giữ rõ mốc trợ giúp ngoài đảo có từ trước thế kỷ mười chín, hạn thông báo khác lịch thực hiện của từng hộ, năm 1953 khác bối cảnh di dời 1859.
+
+V11 là bản thử đề xuất để đọc, chưa được chủ kênh chấp nhận. V10 vẫn là vòng sửa không đạt; thêm nguồn tham chiếu hoặc thay độ dài không tự chứng minh v11 tốt hơn. Không sửa DNA/workflow hoặc thêm bộ tiêu chí mới.

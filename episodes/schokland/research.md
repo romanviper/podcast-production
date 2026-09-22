@@ -113,3 +113,22 @@ Ngày 22/09/2026, mở lại S06 và đọc mục History, trang PDF 2/trang in 
 - Giới hạn: trang giải thích cảnh quan và quản lý nước, không phải hồ sơ đời sống cư dân thế kỷ mười chín. Không dùng phần biến đổi khí hậu hiện tại để kể nguyên nhân di dời năm 1859; không coi cơ chế than bùn là nguyên nhân duy nhất của mọi mất đất.
 
 [Hồ sơ phần mở](working/2026-09-22-opening-review.md) ghi phép đối chiếu với tác phẩm, các bản thử, bản đồ chứng cứ và giới hạn của v10. “Công sức nhiều đời tạo dựng đời sống, rồi phải rời nơi ấy” là cách đặt vấn đề của tác giả; câu hỏi về cái có thể mang theo chưa phải kết luận về bản sắc của mọi người rời đảo.
+
+## Bổ sung R07 — tham chiếu sát đề tài trị thủy Hà Lan
+
+[Đối chiếu phần mở](working/2026-09-22-dutch-water-openings.md) ghi ba transcript chính thức đã đọc: Practical Engineering, Sea Change và Living on Earth. Các đoạn 99% Invisible đọc qua chỉ mục được ghi riêng, không nhận là đã đọc toàn trang hoặc nghe audio. Dùng để học cách định vị vấn đề; số liệu đưa vào script được đối chiếu nguồn theo từng claim.
+
+### S09 — PBL, Low probabilities, large consequences
+
+- URL: https://themasites.pbl.nl/o/flood-risks/
+- Đối chiếu định nghĩa: https://www.pbl.nl/en/correction-wording-flood-risks-for-the-netherlands-in-ipcc-report
+- Tiếp cận ngày 22/09/2026: đọc phần mở và các mục chính của trang tương tác qua văn bản, đọc bản đính chính về diện tích. Không thao tác mô phỏng/bản đồ tương tác.
+- Dùng: tỷ lệ đất dưới mực biển; tổng quan trận lụt 1953 và phát triển công trình bảo vệ sau đó. Locator: hai đoạn mở dưới tiêu đề chính; bản đính chính tách diện tích dưới mực biển khỏi vùng có nguy cơ ngập.
+- Giới hạn: trang còn dùng mốc kế hoạch/ngân sách và dân số cũ. Không lấy các số đó làm hiện trạng 2026, không gán phần trăm địa hình hiện nay cho Hà Lan năm 1859 hoặc riêng Schokland.
+
+### S10 — UNESCO, Mill Network at Kinderdijk-Elshout
+
+- URL: https://whc.unesco.org/en/list/818/
+- Tiếp cận ngày 22/09/2026: đọc mô tả tiếng Anh, Brief synthesis, các tiêu chí và Authenticity; không đọc hồ sơ đề cử gốc.
+- Dùng: công việc tháo nước phục vụ canh tác/cư trú từ thời Trung cổ, quan hệ kênh–đê–máy bơm và các cối bơm gió. Locator: Brief synthesis, tiêu chí iv.
+- Giới hạn: đây là hệ thống ở Kinderdijk, không phải bằng chứng Schokland có cùng cấu hình hoặc cùng loại cối bơm. Không biến mọi cối xay gió Hà Lan thành máy bơm nước.
