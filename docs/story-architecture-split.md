@@ -15,6 +15,8 @@ Giả thuyết của nhánh này: **không cố prompt một writer cân bằng 
 
 Story Architect chịu trách nhiệm giải bài toán trí tuệ và dramatic progression. Narrative Writer không được giải lại bài toán đó trong prose; nhiệm vụ của writer là làm các beat xảy ra bằng con người, vật thể, không gian, hành động và hệ quả.
 
+**Full story map là artifact nội bộ. Writer không được đọc trực tiếp story map.** Beat & Evidence Curator phải tạo một writer-facing route đã lọc để ngăn editorial reasoning prime prose trở lại mode essay/explainer.
+
 ## Kiến trúc
 
 ```
@@ -76,11 +78,16 @@ Curator biến từng beat đã khóa thành một packet nhỏ:
 
 Curator không thay story map và không viết paragraph mẫu.
 
-Đầu ra: `beat-packet.md`.
+Đầu ra gồm hai lớp:
+
+- `beat-packet.md`: artifact nội bộ cho Curator/Reviewer, có thể giữ reasoning, confidence và evidence mapping.
+- `writer-route.md`: artifact đã lọc dành riêng cho Narrative Writer.
+
+Writer route chỉ giữ start state, observable change/end state, evidence/material được phép dùng, minimum fact cần biết, confidence/limits và do-not-imply boundaries. Không chuyển story function, thematic meaning, why-listener-continues reasoning, symbolic interpretation hoặc các câu mẫu “đừng viết thế này”.
 
 ### 3. Narrative Writer — sở hữu trải nghiệm nghe
 
-Writer nhận architecture đã giải xong. Writer quyết định:
+Writer nhận **writer-facing route đã được Curator lọc**, không nhận full story map hoặc internal beat packet. Writer quyết định:
 
 - câu văn;
 - nhịp;
@@ -115,9 +122,11 @@ Revision Writer nhận:
 
 - draft nền;
 - review đã chốt;
-- danh sách protected assets;
-- story map;
-- chỉ beat/evidence packet liên quan tới phạm vi sửa.
+- protected functions/assets liên quan;
+- writer-facing route của phần cần sửa;
+- chỉ evidence packet/source material cần cho phạm vi sửa.
+
+Revision Writer không nhận full story map trừ khi vai trò của nó được đổi thành Architect trong một lượt riêng.
 
 Không nhận toàn bộ lịch sử feedback nếu không cần. Mục tiêu là sửa nguyên nhân đã chẩn đoán, không sinh một tác phẩm mới.
 
@@ -127,15 +136,11 @@ Không nhận toàn bộ lịch sử feedback nếu không cần. Mục tiêu l�
 
 ### Architecture must not leak into narration
 
-Một function trong story map như:
+Nguyên tắc chính không phải “đưa reasoning cho writer rồi cấm paraphrase”, mà là **information firewall**: writer không thấy reasoning đó ngay từ đầu.
 
-> Establish that Schokland was still a functioning community shortly before evacuation.
+Story function, thematic interpretation, symbolic labels, causal-design rationale và các câu mẫu “đừng nói X” ở lại trong artifact nội bộ. Curator chỉ chuyển evidence và state change đủ để writer làm beat **xảy ra**.
 
-không được biến thành narration kiểu:
-
-> Đây không phải một cộng đồng đã ngừng hoạt động để chờ bị xóa khỏi bản đồ.
-
-Writer phải làm function ấy **xảy ra** bằng evidence: cảng còn hoạt động, lưới/thuyền cần sửa, trường học cần mái/máng nước, giường tủ trên gác, v.v.
+Ví dụ: thay vì gửi “Establish that Schokland was still a functioning community shortly before evacuation”, writer route chỉ nên cung cấp material có thể kể như cảng còn hoạt động, lối đi đang được dùng, trường học, nhu cầu sửa thuyền/lưới, cùng giới hạn nguồn.
 
 ### Compress explanation, not experience
 
@@ -172,7 +177,7 @@ Mỗi agent mặc định mở context sạch.
 
 Story Architect có thể đọc DNA, episode state, research, owner feedback và quality benchmarks.
 
-Narrative Writer **không cần** đọc toàn bộ revision history, workflow diagnostics hoặc thất bại của các writer trước. Nó nhận story map + beat packet + style/quality anchors cần thiết.
+Narrative Writer **không đọc** full story map, internal beat packet, toàn bộ revision history, workflow diagnostics hoặc thất bại của các writer trước. Nó nhận writer-facing route + style/quality anchors đã lọc + source extracts thật sự cần thiết.
 
 Narrative Reviewer không đọc self-evaluation của writer trước lần đọc đầu.
 
