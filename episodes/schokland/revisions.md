@@ -178,3 +178,21 @@ V11 được ghi là vòng thử không đạt: phần mở tiếp tục lan man
 Đối chiếu hướng dẫn của Museum Schokland, UNESCO và Canon van Kampen; kiểm lại phạm vi công trình phục dựng, niên đại 1858/1859/1942 và vị trí cảng. Không dùng những chi tiết phóng đại trong ví dụ làm dữ kiện lịch sử. [Ghi chú ngắn](working/2026-09-22-v12-opening-note.md) lưu căn cứ và quyết định kể.
 
 Đã đọc lại bản viết và đối chiếu nguồn, chưa nghe bản thu hoặc thử với khán giả. V12 là bản đề xuất mới, chưa được chủ kênh chọn. Giữ nguyên lời kể v01–v11; chỉ cập nhật trạng thái hồ sơ. Không sửa DNA/workflow và không tạo một bộ tiêu chí chung từ hai ví dụ này.
+
+## R09 — 22/09/2026 — tiêu chuẩn từ podcast cùng niche và giữ chất kể
+
+### Nguyên văn của chủ kênh
+
+> tôi cần có những tiêu chuẩn cứng từ các đối thủ podcast cùng niche, và cảm nhận của tôi là nó rất khô khan mất toàn bộ tính kể chuyện và giàu hình ảnh từ những bản v5 v6, giống như việc cố gắng đặt vấn đề ở phần mở đầu đã bóp chết toàn bộ những metric khác về chất lượng của writer
+
+### Đối chiếu và kết quả
+
+Đọc lại v05, v06, v12, DNA, workflow và các hồ sơ benchmark trước. Đối chiếu các phần mở cụ thể của Fall of Civilizations tập 6/tập 8, HISTORY This Week EP 419; dùng thêm 99% Invisible, Making Up Ground, cho chức năng dựng điều bất thường trong một chuyện tạo đất. [Bộ chuẩn và review](working/2026-09-22-writer-benchmark.md) ghi đúng mức tiếp cận, mốc transcript/trang và sáu tiêu chuẩn đạt/không đạt.
+
+Chẩn đoán: v05/v06 cho người nghe theo quan hệ không gian và sự biến đổi của vật liệu/nơi ở. V12 giữ một hình ảnh và một câu hỏi nhưng tóm qua các hành động gánh sức nặng. Lần tham khảo R07 còn nhầm gần đề tài với gần trải nghiệm nghe; các nguồn giải thích trị thủy không đủ để làm chuẩn chất văn cho podcast lịch sử.
+
+V12 không được giữ làm mốc chất lượng. V05/v06 trở thành mốc bảo toàn những phẩm chất được chủ kênh nhắc, không phải lời kể được duyệt toàn bộ hoặc cấu trúc mở phải sao chép. Giữ cả các sửa về phạm vi nguồn đã có; không phục hồi suy diễn chỉ vì nó nằm trong bản cũ.
+
+Tiêu chuẩn mới là quyết định biên tập của dự án, không gán cho đối thủ như quy định chính thức. Chấm một đoạn liên tục đủ cho thấy câu chuyện bắt đầu; ghi bằng chứng theo tiêu chí, không dùng điểm tổng cho phép hook bù cho mất chất kể. Không áp hạn mức từ/giây hoặc bắt từng đoạn có đủ các phẩm chất.
+
+Lượt này hoàn thành benchmark và chẩn đoán đã áp dụng, không viết v13. Giữ nguyên các draft, DNA và workflow. Chưa nghe bản thu, chưa đo phản ứng khán giả. Yêu cầu phát triển bản thảo tiếp tục còn hiệu lực; lần viết tiếp dựa vào mốc chất lượng và đối chiếu cụ thể của R09.

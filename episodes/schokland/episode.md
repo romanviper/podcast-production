@@ -1,20 +1,22 @@
 # Schokland — hồ sơ tập
 
-Trạng thái ngày 22/09/2026, sau R08: chủ kênh nhận xét phần mở vẫn lan man và đưa hai ví dụ để làm rõ sức hút của một cảnh bất thường hoặc cuộc đảo ngược. [V12](drafts/vi-v12-opening.md) là bản đề xuất mới, đi từ bến cảng trên cạn; [ghi chú và nguồn](working/2026-09-22-v12-opening-note.md). V10/v11 là các vòng sửa không đạt. Chưa có phần mở được chủ kênh chọn; v05 vẫn chỉ là mốc nhận xét tích cực có điều kiện.
+Trạng thái ngày 22/09/2026, sau R09: chủ kênh yêu cầu tiêu chuẩn cứng từ podcast cùng niche và nhận xét các bản mới đã mất chất kể, hình ảnh từng có ở v05/v06. Đã lập [bộ chuẩn và đối chiếu trực tiếp](working/2026-09-22-writer-benchmark.md). V12 là vòng thử không đạt, không làm nền mặc định cho lần viết tiếp. V05/v06 là mốc giữ phẩm chất cụ thể; chưa có phần mở hoặc bản toàn tập được chọn. Lượt này không tạo v13.
 
 ## Việc đang được giao
 
-Ưu tiên sau R08: phần mở tạo ra một điều khiến người nghe muốn khám phá, rồi thân bài mới triển khai lời giải. Hai ví dụ của chủ kênh làm rõ chức năng này, không yêu cầu sao chép nguyên chi tiết, giật gân hoặc thêm một công thức bắt buộc. Quan hệ bến cảng–tàu thuyền–đất liền có thể được dựng bằng lời kể; không mặc định phải nhờ hình minh họa mới hiểu.
+Ưu tiên sau R09: dùng các đoạn của Fall of Civilizations, HISTORY This Week và đối chiếu bổ sung 99% Invisible để xác định mức đạt/không đạt cho lời kể. [Bộ chuẩn](working/2026-09-22-writer-benchmark.md) gồm lý do nghe tiếp, diễn biến, hình ảnh, sức nặng con người, bối cảnh/nhịp và sự nhất quán của lời hứa với câu chuyện. Các ngưỡng là đề xuất biên tập có dẫn chứng, không phải metric công bố của đối thủ hoặc dữ liệu retention.
 
-Chủ kênh chưa từng yêu cầu độ dài cố định. R06 bác cách chồng yêu cầu vào một đoạn; R08 bác cả việc kéo dài thành trình bày kiến thức nền. Không ép phần mở giải thích đồng thời địa hình, cơ chế, lịch sử và ý nghĩa. Không thay vấn đề này bằng một hạn mức từ hoặc bộ tiêu chí mới.
+Khi sửa tiếp, đánh giá một phần mở liên tục đủ cho thấy câu chuyện bắt đầu; so với đoạn đối chiếu cùng chức năng. Phẩm chất v05/v06 cần giữ là quan hệ không gian, sự biến đổi của vật liệu và đời sống có công dụng cụ thể. Không yêu cầu giữ nguyên cảnh hoặc câu chữ; cũng không quay lại những lỗi nguồn và câu diễn nghĩa đã được chỉ ra.
+
+Chủ kênh chưa từng yêu cầu độ dài cố định. R06 bác cách chồng yêu cầu vào một đoạn; R08 bác việc kéo dài thành trình bày kiến thức nền; R09 yêu cầu tiêu chuẩn đánh giá có mốc đối thủ. Vì vậy bộ chuẩn mới đánh giá trải nghiệm của một đoạn liên tục, không áp quota hoặc bắt mọi đoạn làm đủ các việc. Hook rõ hơn không bù cho diễn biến, hình ảnh hoặc sức nặng con người bị giảm.
 
 [Đối chiếu R07](working/2026-09-22-dutch-water-openings.md) ghi phần đã đọc của Practical Engineering, Sea Change, Living on Earth và giới hạn truy cập 99% Invisible. V11 đã dùng chất liệu ấy để giải thích trước khi vào đảo, nhưng phản hồi R08 cho thấy cách tổ chức vẫn chưa tạo sức kéo. Giữ tư liệu để dùng đúng chỗ ở thân bài.
 
 Yêu cầu tiếp tục review/viết từ v05 ở R04 đã được làm rõ bằng ba phản hồi R05: đặt nhanh ý nghĩa và sức nặng của chủ đề trước diễn biến; giải thích nguồn gốc của khó khăn trong quan hệ với vấn đề ấy. Các ví dụ nợ và Napoleon minh họa chức năng mở, không phải tư liệu để đưa vào tập.
 
-Lượt này chuyển sang thiết kế cửa vào toàn tập cho người chưa có bối cảnh. Không dùng việc v08 vốn là đoạn giữa tập để bỏ qua trải nghiệm của chủ kênh. Cũng không coi thêm lịch sử dẫn nhập, thêm một câu hỏi hoặc sự kiện gây sốc là tự động giải quyết được việc đặt vấn đề.
+Phạm vi phát triển vẫn là cửa vào toàn tập và phần kể tiếp cho người chưa có bối cảnh. Cần nhận rõ v05/v06 là đoạn giữa, không chấm độ đầy đủ của chúng như cold open; đồng thời không dùng khác biệt ấy để bỏ qua phẩm chất writer đã bị mất.
 
-Đầu ra hiện tại: phần mở tiếng Việt và dẫn vào câu chuyện Schokland; lời kể sạch, nguồn/nhận định biên tập riêng. Chưa viết toàn tập, tiếng Anh, thu âm hoặc hình ảnh. Không ấn định số từ hoặc thời lượng trước khi xác định chức năng. Nguyên văn phản hồi theo từng lượt ở [revisions.md](revisions.md).
+Đầu ra R09 là bộ chuẩn đã áp dụng để chẩn đoán, chưa phải bản lời kể mới. Bước viết tiếp cần giữ cả sức hút lẫn trải nghiệm kể, theo các mốc cụ thể trong bộ chuẩn. Chưa viết toàn tập, tiếng Anh, thu âm hoặc hình ảnh. Nguyên văn phản hồi theo từng lượt ở [revisions.md](revisions.md).
 
 ## Câu chuyện muốn khám phá
 
@@ -26,7 +28,7 @@ Tham chiếu thẩm mỹ: tạo hình bằng lời, thế giới vật chất c�
 
 ## Những cách triển khai đã thử, chưa phải cấu trúc cần giữ
 
-**Phần mở v12, bản thử hiện tại:** bến cảng nằm trên cạn → Schokland từng là đảo có người sinh sống → cư dân phải tháo nhà, rời đi → tám mươi ba năm sau, vùng nước quanh đảo được rút cạn → câu hỏi về cách biến biển thành đất. Phần mở hứa một diễn biến đáng khám phá; các cơ chế và lịch sử trị thủy được phát triển sau. Không nhận dự án khai hoang là sự trở lại của cùng những cư dân.
+**Phần mở v12, vòng thử không đạt theo R09:** bến cảng nằm trên cạn → di dời → nước quanh đảo thành đất. Cảnh tạo được thắc mắc nhưng hành động bị tóm lược, chưa có chặng được triển khai; câu kết thiên về lời giải kỹ thuật. Giữ như thử nghiệm về điểm vào, không coi là mốc chất kể.
 
 **Phần mở v11, vòng thử không đạt theo R08:** địa thế Hà Lan hiện nay → việc tạo/giữ đất và công việc phải tiếp tục → trận lụt 1953 → cộng đồng Schokland → di dời và việc dựng tiếp đời sống. Chất liệu có nguồn nhưng phần giải thích dài chưa tạo được sức hút; không dùng cấu trúc này làm khung cần giữ.
 
@@ -42,14 +44,15 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 
 ## Các mốc bản thảo
 
-- Bản mở được chọn: chưa có. [V12](drafts/vi-v12-opening.md) là bản thử hiện tại, kèm [ghi chú và nguồn](working/2026-09-22-v12-opening-note.md).
+- Bản mở được chọn: chưa có. Đầu ra mới nhất là [chuẩn writer và review R09](working/2026-09-22-writer-benchmark.md).
+- [V12](drafts/vi-v12-opening.md) lưu vòng thử không đạt theo R09; [ghi chú của lượt R08](working/2026-09-22-v12-opening-note.md) ghi căn cứ và ý định lúc viết, không xác nhận chất lượng.
 - [V11](drafts/vi-v11-opening.md) lưu vòng thử còn lan man theo R08; [đối chiếu R07](working/2026-09-22-dutch-water-openings.md).
 - [V10](drafts/vi-v10-opening.md) lưu vòng sửa không đạt theo R06.
 - Bản mở thử trước đó, không chọn: [vi-v09-opening.md](drafts/vi-v09-opening.md).
 - Hồ sơ R05: [điểm vào, review và căn cứ v10](working/2026-09-22-opening-review.md).
 - Đoạn giữa đã có: [v08](drafts/vi-v08-sample.md); [kiểm nguồn](working/2026-09-22-v08-source-check.md).
 - Các bản thử R04: [v06](drafts/vi-v06-sample.md), [v07](drafts/vi-v07-sample.md); [benchmark và ba vòng sửa](working/2026-09-22-benchmark-and-review.md).
-- Mốc chủ kênh phản hồi tích cực có điều kiện: [v05](drafts/vi-v05-sample.md), [ghi chú R02](working/2026-09-21-v05-review-notes.md).
+- Mốc giữ chất kể và hình ảnh theo R09: [v05](drafts/vi-v05-sample.md) và [v06](drafts/vi-v06-sample.md). V05 từng nhận phản hồi tích cực có điều kiện; v06 được nhắc ở R09 về phẩm chất cần giữ. Không bản nào được duyệt toàn bộ.
 - Bản lưu: [v01](drafts/vi-v01-sample.md), [v02](drafts/vi-v02-sample.md), [v03 đã được nhận xét](drafts/vi-v03-sample.md), [v04 trước sửa chốt](drafts/vi-v04-sample.md).
 - Bản được chủ kênh chọn: chưa có. Không chuyển nhận xét “đã cải thiện đáng kể” về v05 thành duyệt v10 hoặc duyệt cuối.
 
@@ -63,4 +66,4 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 
 Các bản v09–v12 do cùng một trợ lý viết và đọc lại bằng văn bản; chưa nghe audio, có người nghe thử hoặc đo retention. Tác phẩm tham chiếu cung cấp ví dụ về chức năng của thông tin và chi tiết, không chứng minh bản mới đã đạt chất lượng tương đương.
 
-Phản hồi R06 bác kết quả tích cực của lượt tự review v10; R08 tiếp tục bác cách trình bày lan man ở v11. V12 là một lựa chọn kể mới để chủ kênh đọc, không được tự xác nhận tốt hơn chỉ vì đã theo một ví dụ cụ thể. Chưa sửa DNA/workflow; không có bản mới nào được tự gắn trạng thái duyệt.
+Phản hồi R06 bác kết quả tự review v10; R08 bác cách trình bày ở v11; R09 xác nhận việc tiếp tục tối ưu mở đầu đã làm mất chất kể. Bộ chuẩn mới ghi rõ điều gì đã giảm, dùng đoạn đối thủ làm mốc và yêu cầu giữ mức chất lượng đã có khi sửa. Chưa sửa DNA/workflow; không có bản mới nào được tự gắn trạng thái duyệt.
