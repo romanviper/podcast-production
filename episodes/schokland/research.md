@@ -98,3 +98,18 @@ Vòng này mở rộng phần nền trong mẫu để người nghe có một đ
 Chất liệu được đưa thêm vào mẫu: cảng còn hoạt động qua người thăm 1858 (S07); kích thước thường gặp của nhà Brunnepe (S04/H01); một trường hợp nhận tiền ứng trước để tháo/xây nhà rồi rời đảo (Eva Bape, H01, *Nummer 8*, chú thích 4). H01 đã có trong báo cáo nhà ở; không đánh số thành nguồn mới. Chưa đọc sổ công văn gốc mà bài dẫn.
 
 Các sửa phạm vi sau đối chiếu: quyền sở hữu hai nhà không tự chứng minh nơi thầy giáo sống; thời hạn thông báo không phải lịch thực hiện của mọi hộ; vật liệu, nghề và nội thất của nhóm không được gán hết cho Eva. Các nguồn khác vẫn giữ trạng thái truy cập đã ghi trước đây.
+
+## Bổ sung R05 — nguồn gốc khó khăn và phần mở
+
+Ngày 22/09/2026, mở lại S06 và đọc mục History, trang PDF 2/trang in 96, từ đoạn bắt đầu “There is little evidence” đến di dời và khai hoang. Phần được dùng thêm: tháo nước/canh tác khiến lớp than bùn oxy hóa, co ngót, đất lún và ướt; đê thấp được dựng; ảnh hưởng biển và xói mòn dải nối khiến Schokland thành đảo. Việc chuyển sang nghề cá diễn ra trong quá trình mất đất, không ép thành một bước chỉ xảy ra sau khi đảo hình thành. Không dùng lời diễn giải “cuối cùng chiến thắng” của hồ sơ làm kết luận tập.
+
+### S08 — Rijksdienst voor het Cultureel Erfgoed, Veenweidelandschap: vernatting gewenst
+
+- URL: https://www.cultureelerfgoed.nl/onderwerpen/b/bodemdaling-in-veenweidelandschappen/veenweidelandschap-vernatting-gewenst
+- Cơ quan: Cơ quan Di sản Văn hóa Hà Lan.
+- Tiếp cận: đọc toàn bài chính qua HTML ngày 22/09/2026; đối chiếu thêm chỉ mục cùng cơ quan. Không đọc các báo cáo kỹ thuật được gợi ý ngoài trang.
+- Locator: **Bodemdaling als gevolg van ontwatering** và **Wateropvang**.
+- Hỗ trợ: tháo nước làm không khí tiếp xúc than bùn, đất khô/co và lún; các mương dùng để tháo nước, được thay đổi qua nhiều thế kỷ. S06 cung cấp liên hệ lịch sử cụ thể tại Schokland.
+- Giới hạn: trang giải thích cảnh quan và quản lý nước, không phải hồ sơ đời sống cư dân thế kỷ mười chín. Không dùng phần biến đổi khí hậu hiện tại để kể nguyên nhân di dời năm 1859; không coi cơ chế than bùn là nguyên nhân duy nhất của mọi mất đất.
+
+[Hồ sơ phần mở](working/2026-09-22-opening-review.md) ghi phép đối chiếu với tác phẩm, các bản thử, bản đồ chứng cứ và giới hạn của v10. “Công sức nhiều đời tạo dựng đời sống, rồi phải rời nơi ấy” là cách đặt vấn đề của tác giả; câu hỏi về cái có thể mang theo chưa phải kết luận về bản sắc của mọi người rời đảo.
