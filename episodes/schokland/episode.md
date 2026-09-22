@@ -6,7 +6,7 @@ Trạng thái ngày 22/09/2026, sau R11: đã đọc commit R10 `dc4d4085696681c
 
 Trên nhánh `experiment/story-architecture-split`, Story Architect đã được chạy độc lập. [Story map v02](working/2026-09-22-story-map-v02.md) là architecture hiện hành; [v01](working/2026-09-22-story-map-v01.md) được giữ để đối chiếu lịch sử sửa. V02 khóa trajectory, temporal/causal dependency, explanation budget và protected functions cho phạm vi mở đầu → đời sống 1858 → quyết định di dời → Brunnepe.
 
-Full story map là artifact nội bộ và **không được chuyển cho Narrative Writer**. Beat & Evidence Curator đọc v02, kiểm causal floor/evidence rồi tạo một `writer-facing route` đã lọc. V13 chỉ còn là draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture. Chưa có narrative draft mới được viết từ v02.
+Beat & Evidence Curator đã chạy trên v02. [Beat & Evidence Packet v01](working/2026-09-22-beat-evidence-packet-v01.md) là artifact nội bộ có evidence mapping, confidence/limits và quyết định Curator; [Writer-Facing Route v01](working/2026-09-22-writer-route-v01.md) là artifact duy nhất của tầng này được phép chuyển cho Narrative Writer. Beat 5 đã qua causal-floor check: chi phí thường niên chỉ được giữ như một pressure trong policy reasoning, không phải nguyên nhân duy nhất của evacuation; route cũng giữ tách biệt luật 16/12/1858, thông báo 1/3/1859 và deadline bốn tháng. V13 chỉ còn là draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture. Chưa có narrative draft mới được viết từ route v01.
 
 ## Việc đang được giao
 
