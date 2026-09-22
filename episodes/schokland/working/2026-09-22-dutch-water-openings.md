@@ -1,5 +1,7 @@
 # Mở câu chuyện trị thủy Hà Lan — đối chiếu và bản thử v11
 
+**Cập nhật sau R08:** chủ kênh nhận xét phần mở vẫn lan man. V11 được lưu như một vòng thử không đạt; các nhận định tự review bên dưới là hồ sơ của lượt R07, không phải kết luận được chủ kênh xác nhận. Bản đề xuất tiếp theo là [v12](../drafts/vi-v12-opening.md), kèm [ghi chú](2026-09-22-v12-opening-note.md).
+
 Phản hồi R06 bác kết quả v10; R07 yêu cầu tham khảo cách đặt vấn đề trong những tác phẩm về chính trị thủy Hà Lan. Bản mới được tổ chức lại từ chất liệu, không giữ trật tự, độ dài hoặc cảnh kết của v10. Phản hồi nguyên văn ở [revisions.md](../revisions.md).
 
 ## Những phần mở đã đọc trực tiếp

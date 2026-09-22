@@ -162,3 +162,19 @@ Các ví dụ sát đề tài có điểm tựa rõ: vị trí vùng đất th�
 Đối chiếu địa hình và số tử vong với PBL; đối chiếu hệ thống thoát nước bằng gió với UNESCO Kinderdijk. Đọc văn bản sau khi lưu, sửa “diện tích Hà Lan” thành “đất đai ở Hà Lan” để đúng phạm vi land surface. Giữ rõ mốc trợ giúp ngoài đảo có từ trước thế kỷ mười chín, hạn thông báo khác lịch thực hiện của từng hộ, năm 1953 khác bối cảnh di dời 1859.
 
 V11 là bản thử đề xuất để đọc, chưa được chủ kênh chấp nhận. V10 vẫn là vòng sửa không đạt; thêm nguồn tham chiếu hoặc thay độ dài không tự chứng minh v11 tốt hơn. Không sửa DNA/workflow hoặc thêm bộ tiêu chí mới.
+
+## R08 — 22/09/2026 — tạo điều muốn khám phá trước khi giải thích
+
+### Nguyên văn của chủ kênh
+
+> tôi lại thấy nó trở nên lan man tôi sẽ cho bạn 2 ví dụ về cách mở đầu ""Nếu bạn đến miền trung Hà Lan ngày nay, bạn sẽ bắt gặp một cảnh tượng vô cùng kỳ lạ: Một ngọn hải đăng cổ và một bến cảng hoen rỉ nằm ngay... giữa một khu rừng và bao quanh bởi những cánh đồng khoai tây. Không có đại dương, không có một con sóng nào trong bán kính hàng chục cây số.Tại sao người ta lại xây cảng biển và hải đăng ở giữa đất liền? Họ bị điên sao?Không. Sự thật là, nơi bạn đang đứng từng là một hòn đảo ngập tràn bão tố mang tên Schokland. Và mảnh đất phẳng lặng xung quanh thực chất từng là đáy biển sâu thẳm. Bằng cách nào con người có thể xóa sổ cả một vùng biển để biến đảo thành đất liền?"  " và ""Người ta thường nói: *'Thượng đế tạo ra thế giới, nhưng người Hà Lan tạo ra đất nước Hà Lan.'* Nhưng trước khi có được một kỳ tích khiến cả thế giới ngả mũ, họ đã phải trải qua những bi kịch thấu xương.Năm 1859, nhà vua Hà Lan ra một sắc lệnh tàn khốc: Ép buộc toàn bộ cư dân trên đảo Schokland phải di tản ngay lập tức. Biển Bắc dữ tợn đã nuốt chửng những bờ đê, băm nát những cánh đồng và đẩy con người vào đường cùng. Schokland khi đó được tuyên bố là đã 'chết', vĩnh viễn đầu hàng trước giặc nước...Thế nhưng, người Hà Lan không biết đầu hàng. 80 năm sau, họ quay trở lại. Không phải để nhặt nhạnh tàn tích, mà để... tát cạn cả biển khơi!"  có thể 2 cách mở này chưa phù hợp với phong cách podcast audio first và cần visual gánh phần minh họa. Nhưng bạn có thể thấy không bắt buộc phải viết quá dài để đặt vấn đề nhưng cũng không phải viết vắn tắt vài câu để vừa đặt vấn đề vừa giải thích vấn đề như bản v10
+
+### Điều chỉnh và bản mới
+
+V11 được ghi là vòng thử không đạt: phần mở tiếp tục lan man. Trợ lý đã biến việc đặt vấn đề thành giải thích đề tài trước khi tạo được nhu cầu tìm hiểu. Hai ví dụ của chủ kênh cho thấy sức hút có thể đến từ một cảnh trái lẽ thường hoặc một cuộc đảo ngược; không cần diễn giải hết ý nghĩa trong phần mở. Không lấy độ dài của ví dụ làm hạn mức mới.
+
+[V12](drafts/vi-v12-opening.md) đi từ bến cảng trên cạn. Cuộc di dời và việc vùng nước quanh đảo thành đất tạo tương phản để dẫn câu chuyện. Bản kể dừng ở câu hỏi về sự biến đổi ấy; không đưa hệ thống bơm, trận lụt 1953, cơ chế than bùn hoặc kết luận triết học vào giải thích ngay. Các quan hệ không gian được nói rõ để người chỉ nghe vẫn có thể hình dung.
+
+Đối chiếu hướng dẫn của Museum Schokland, UNESCO và Canon van Kampen; kiểm lại phạm vi công trình phục dựng, niên đại 1858/1859/1942 và vị trí cảng. Không dùng những chi tiết phóng đại trong ví dụ làm dữ kiện lịch sử. [Ghi chú ngắn](working/2026-09-22-v12-opening-note.md) lưu căn cứ và quyết định kể.
+
+Đã đọc lại bản viết và đối chiếu nguồn, chưa nghe bản thu hoặc thử với khán giả. V12 là bản đề xuất mới, chưa được chủ kênh chọn. Giữ nguyên lời kể v01–v11; chỉ cập nhật trạng thái hồ sơ. Không sửa DNA/workflow và không tạo một bộ tiêu chí chung từ hai ví dụ này.

@@ -1,6 +1,6 @@
 # Nghiên cứu — Schokland
 
-Ngày kiểm tra: 21/09/2026; bổ sung R04 ngày 22/09/2026. Phạm vi: chất liệu cho một đoạn mẫu tiếng Việt về di dời và dựng tiếp đời sống. Hồ sơ đang cập nhật; không phải toàn bộ research cho tập.
+Ngày kiểm tra: 21/09/2026; bổ sung đến R08 ngày 22/09/2026. Phạm vi: chất liệu cho đoạn mẫu về di dời/dựng tiếp đời sống và phần mở toàn tập tiếng Việt. Hồ sơ đang cập nhật; không phải toàn bộ research cho tập.
 
 ## Nguồn điều phối đã đọc
 
@@ -69,7 +69,7 @@ Các phát hiện cần giữ khi viết:
 - 21 hộ thuộc khu đất cụ thể. 470 người là người sinh ở Schokland sống tại Kampen khoảng 1860, bao gồm những người chuyển đến từ trước; không phải 470 người cùng di dời 1859.
 - Vật liệu và người không nhất thiết đi cùng một đích đến trong mọi trường hợp; không kể cả cộng đồng như một gia đình đồng nhất.
 - Nhà hiện trưng bày qua phục dựng và thay đổi công năng; không dùng hiện trạng đó làm cảnh trực tiếp 1859.
-- Mẫu dừng quanh việc dựng lại nơi ở, không nhảy tới Anna hoặc 1942 để biến nó thành bản tóm tắt toàn tập.
+- Các đoạn mẫu v01–v08 dừng quanh việc dựng lại nơi ở, không nhảy tới Anna hoặc 1942 để biến chúng thành bản tóm tắt toàn tập. Phần mở toàn tập được phát triển riêng từ R05.
 
 ## Bổ sung cho R02 — định vị không gian trước cuộc di dời
 
@@ -132,3 +132,14 @@ Ngày 22/09/2026, mở lại S06 và đọc mục History, trang PDF 2/trang in 
 - Tiếp cận ngày 22/09/2026: đọc mô tả tiếng Anh, Brief synthesis, các tiêu chí và Authenticity; không đọc hồ sơ đề cử gốc.
 - Dùng: công việc tháo nước phục vụ canh tác/cư trú từ thời Trung cổ, quan hệ kênh–đê–máy bơm và các cối bơm gió. Locator: Brief synthesis, tiêu chí iv.
 - Giới hạn: đây là hệ thống ở Kinderdijk, không phải bằng chứng Schokland có cùng cấu hình hoặc cùng loại cối bơm. Không biến mọi cối xay gió Hà Lan thành máy bơm nước.
+
+## Bổ sung R08 — bến cảng trên cạn
+
+### S11 — Museum Schokland, Wandel- en fietsroute over Schokland
+
+- URL: https://www.museumschokland.nl/wp-content/uploads/sites/3/2021/04/Wandel-en-fietsroute-over-Schokland.pdf
+- Tiếp cận ngày 22/09/2026: đọc văn bản hai trang PDF; không khảo sát thực địa. Locator chính: trang 2, điểm 7 về Lichtwachter và cảng Emmeloord; đối chiếu điểm 4 về vị trí nền hải đăng phía nam.
+- Hỗ trợ: cảng Emmeloord từng có chỗ cho hàng chục con tàu, nằm trên cạn từ 1942 trong cảnh quan polder; Schokland thành đất liền sau khi tháo nước Noordoostpolder.
+- Giới hạn: đây là tài liệu hướng dẫn hiện nay, không phải lời chứng nguyên gốc năm 1859. Không ghép các điểm cách nhau trên tuyến thành một cảnh tại chỗ.
+
+Mở lại S01 (UNESCO, Schokland and Surroundings), mục Brief synthesis, Integrity và Authenticity: cảnh quan nông nghiệp từ 1942, một số công trình còn lại cùng các thành phần cảng/hải đăng phục dựng. Vì vậy v12 không gọi cảng hiện nay là nguyên vẹn từ thế kỷ mười chín. Mở lại S04, mục Schokland opgeheven, đối chiếu ngày ký luật 16/12/1858; không đổi thành sắc lệnh ban hành 1859. [Ghi chú v12](working/2026-09-22-v12-opening-note.md) tách căn cứ lịch sử khỏi quyết định kể.
