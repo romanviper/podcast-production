@@ -1,14 +1,20 @@
 # Schokland — hồ sơ tập
 
-Trạng thái ngày 22/09/2026, sau R11: đã đọc commit R10 `dc4d4085696681cbb2a6a5e39f0d105ea47b0654` và viết [V13 — mở đầu nối vào cuộc di dời và dựng xóm](drafts/vi-v13-opening-and-relocation.md). Đây là đoạn liên tục từ cảng hiện tại, qua chuyến thăm 1858, tới Brunnepe năm 1859. V13 là bản thử mới nhất để review; mốc chất lượng vẫn là V05/V06. Chưa có phần mở hoặc bản toàn tập được chủ kênh chọn.
+Trạng thái ngày 22/09/2026, sau R13: đã pull/checkout `experiment/story-architecture-split` tại `aece47f` và chạy tiếp một vòng Narrative Writer → Narrative Reviewer → Revision Writer. [V15 — bản sửa của experiment](drafts/vi-v15-architecture-revision.md) là bản thử mới nhất để review; [V14](drafts/vi-v14-architecture-experiment.md) giữ nguyên làm bản trước sửa. Phạm vi vẫn từ cảng hiện tại, qua đời sống 1858 và quyết định di dời, tới Brunnepe năm 1859. V05/V06 vẫn là mốc chất lượng; V15 chưa được chọn làm nền thay thế. Chưa có phần mở hoặc bản toàn tập được chủ kênh duyệt.
 
 ## Story Architecture experiment
 
 Trên nhánh `experiment/story-architecture-split`, Story Architect đã được chạy độc lập. [Story map v02](working/2026-09-22-story-map-v02.md) là architecture hiện hành; [v01](working/2026-09-22-story-map-v01.md) được giữ để đối chiếu lịch sử sửa. V02 khóa trajectory, temporal/causal dependency, explanation budget và protected functions cho phạm vi mở đầu → đời sống 1858 → quyết định di dời → Brunnepe.
 
-Beat & Evidence Curator đã chạy trên v02. [Beat & Evidence Packet v01](working/2026-09-22-beat-evidence-packet-v01.md) là artifact nội bộ có evidence mapping, confidence/limits và quyết định Curator; [Writer-Facing Route v01](working/2026-09-22-writer-route-v01.md) là artifact duy nhất của tầng này được phép chuyển cho Narrative Writer. Beat 5 đã qua causal-floor check: chi phí thường niên chỉ được giữ như một pressure trong policy reasoning, không phải nguyên nhân duy nhất của evacuation; route cũng giữ tách biệt luật 16/12/1858, thông báo 1/3/1859 và deadline bốn tháng. V13 chỉ còn là draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture. Chưa có narrative draft mới được viết từ route v01.
+Beat & Evidence Curator đã chạy trên v02. [Beat & Evidence Packet v01](working/2026-09-22-beat-evidence-packet-v01.md) là artifact nội bộ có evidence mapping, confidence/limits và quyết định Curator; [Writer-Facing Route v01](working/2026-09-22-writer-route-v01.md) là artifact duy nhất của tầng này được phép chuyển cho Narrative Writer. Beat 5 đã qua causal-floor check: chi phí thường niên chỉ được giữ như một pressure trong policy reasoning, không phải nguyên nhân duy nhất của evacuation; route cũng giữ tách biệt luật 16/12/1858, thông báo 1/3/1859 và deadline bốn tháng. V13 chỉ còn là draft thử để đối chiếu chất lượng, không được dùng như outline hoặc nguồn architecture.
+
+R13 đã tạo V14 từ route trong context writer riêng, rồi V15 từ brief sửa đã lọc. Writer không nhận story map, packet hoặc lịch sử chẩn đoán; reviewer đọc lời kể trước tài liệu nội bộ và không đọc tự đánh giá của writer trước lần đọc đầu. [Review V14](working/2026-09-22-v14-narrative-review.md) xác định ba ưu tiên có giới hạn: phần thu xếp đất/tháo/chở, các câu diễn nghĩa đời sống trên đảo, và cửa gác ở đoạn cuối. [Kiểm nguồn](working/2026-09-22-architecture-source-check.md) giữ riêng các hiệu chỉnh và mức tiếp cận nguồn. **Route v01 có errata ở Beat 6:** ngày 31/3 là mua hai nhà/khu vườn; chia 21 lô diễn ra vài tuần sau. Mọi bàn giao route v01 tiếp theo phải kèm hiệu chỉnh này.
+
+V15 giảm lặp và khôi phục quan hệ biển/bùn-đá hai bên lối ván, đồng thời sửa thứ tự cuộc gặp, ngày chia đất và mức chắc chắn về gỗ tái dùng. [Đối chiếu sau sửa](working/2026-09-22-v15-review-closeout.md) chưa thấy đủ căn cứ coi experiment đã cải thiện đồng đều chất kể: khoản ứng của Eva vẫn đứng khá riêng, nội thất ít cụ thể hơn V05/V06, đoạn kết bị nén. Giữ kết quả như thử nghiệm để chủ kênh review; chưa mở rộng toàn tập hoặc đổi workflow chính thức.
 
 ## Việc đang được giao
+
+R13 đã tiếp tục tới đầu ra V15 và đối chiếu sau một vòng sửa. Bước tiếp theo là review lời kể mới, xác định có dùng tiếp cách tách architecture/writer này hay thu hẹp nó; không mặc định chọn V15 hoặc tiếp tục phát sinh version. Các mục R11/R12 dưới đây ghi bối cảnh và nhánh bàn giao trước đó.
 
 R12 giao chuẩn bị master prompt và resource để writer từ provider khác viết một bản mới. [Bộ bàn giao v13-provider](handoff/v13-provider/README.md) gồm prompt, brief/chuẩn đối chiếu, nguyên văn V05/V06 và hồ sơ chất liệu chọn lọc. Đầu ra được giao là mở đầu nối vào di dời và dựng nơi ở tại Brunnepe, kế thừa phạm vi đang phát triển; không áp độ dài. Bộ nguồn chốt tại `6b8f85d`. Chưa có lời kể v13-provider; V13 hiện có vẫn giữ nguyên trạng thái thử nghiệm.
 
@@ -59,7 +65,8 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 ## Các mốc bản thảo
 
 - Bản mở được chủ kênh chọn: chưa có.
-- Bản mới nhất để review: [V13](drafts/vi-v13-opening-and-relocation.md). Đây là thử nghiệm tích hợp; chưa thay V05/V06 làm mốc chất lượng đã được ghi nhận. [Đối chiếu R11](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13) ghi kết quả và giới hạn.
+- Bản mới nhất để review: [V15](drafts/vi-v15-architecture-revision.md); [V14](drafts/vi-v14-architecture-experiment.md) là đầu ra trước vòng sửa. Cả hai là thử nghiệm, chưa thay V05/V06 làm mốc chất lượng hoặc nền được chọn. Hồ sơ thực hiện nằm ở R13 trong [revisions](revisions.md).
+- [V13](drafts/vi-v13-opening-and-relocation.md) giữ làm thử nghiệm trước architecture split. [Đối chiếu R11](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13) ghi kết quả và giới hạn.
 - Giữ [review quyết định R10](working/2026-09-22-editorial-decision-audit.md) và [chuẩn R09](working/2026-09-22-writer-benchmark.md) làm tài liệu đối chiếu.
 - [V12](drafts/vi-v12-opening.md) lưu vòng thử không đạt theo R09; [ghi chú của lượt R08](working/2026-09-22-v12-opening-note.md) ghi căn cứ và ý định lúc viết, không xác nhận chất lượng.
 - [V11](drafts/vi-v11-opening.md) lưu vòng thử còn lan man theo R08; [đối chiếu R07](working/2026-09-22-dutch-water-openings.md).

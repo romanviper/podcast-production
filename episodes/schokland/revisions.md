@@ -273,3 +273,33 @@ Kiểm tra nhánh mới nhất tại `6b8f85d092d18534229db355fe48834faac3fb2c`,
 Tuyển chọn nguồn gốc khó khăn, đời sống, vật liệu, phân lô và công dụng nhà; giữ sửa nguồn hợp lệ của các vòng sau. Chuẩn đối thủ có tác phẩm, vị trí đoạn và cơ chế quan sát; không nhận đó là metric của đối thủ hoặc bằng chứng retention. Các nguyên bản nguồn web không được sao chép toàn văn vào gói. Không bàn giao toàn bộ lịch sử thất bại; chuyển bài học R10/R11 thành quyết định viết và tự biên tập trong prompt.
 
 Đã kiểm bản sao V05/V06 không đổi, mã nguồn được giải thích, các resource cần thiết có sẵn trong gói và archive khớp nội dung. Manifest ghi commit cùng dấu kiểm tra các resource gốc. Gói chưa được chạy thử với provider khác; không kết luận nó đã cải thiện chất lượng bản thảo. Không sửa draft, DNA hoặc workflow.
+
+## R13 — 22/09/2026 — tiếp tục nhánh story-architecture-split
+
+### Nguyên văn của chủ kênh
+
+> pull code và checkout nhánh experiment/story-architecture-split cũng như tiếp tục công việc trong nhánh
+
+### Điểm tiếp tục và phạm vi
+
+Đã fetch và checkout nhánh `experiment/story-architecture-split` tại `aece47f`, pull fast-forward xác nhận đã cập nhật. Checkout làm việc ở `.delivery/schokland-20260921` trong workspace hiện tại; các file ngoài checkout này là bản làm việc cũ, không dùng làm đầu vào của experiment.
+
+Nhánh đã có story map v02, internal beat/evidence packet v01 và writer-facing route v01. Bước còn dở là Narrative Writer. Tiếp tục một vòng viết → đọc biên tập → sửa hữu hạn nếu cần, theo phạm vi cảng hiện tại → đời sống 1858 → quyết định di dời → Brunnepe. Chưa mở rộng thành toàn tập hoặc nghiên cứu tuyến khai hoang năm 1942.
+
+Writer được mở trong context sạch, chỉ nhận route v01 và V05/V06 làm mốc lời kể; không nhận story map, internal packet, lịch sử feedback hoặc chẩn đoán writer. Điều phối giữ các tài liệu nội bộ và chuẩn bị kiểm chứng. Một hiệu chỉnh chứng cứ được gửi riêng: ngày 31/3/1859 xác định giao dịch mua hai nhà/khu vườn, không tự xác định ngày hoàn tất chia 21 lô. Không đổi thứ tự hoặc chức năng các beat.
+
+Đầu ra: [V14](drafts/vi-v14-architecture-experiment.md) là draft đầu của experiment; reviewer đọc lời kể trước rồi mới mở story map. V05/V06 vẫn là mốc chất lượng. Không tự coi kết quả mới là bản được chủ kênh chọn.
+
+### Vòng viết, review và sửa
+
+[Review độc lập V14](working/2026-09-22-v14-narrative-review.md) nhận thấy thứ tự và cầu nối Legebeke rõ, nền thông tin chính sách được bổ sung so với V13. Tuy nhiên lời kể lặp lại chức năng của chi tiết ở trường học, công trình bảo vệ, chia vườn, khoản ứng và cửa gác. Chọn ba ưu tiên: gộp phần lặp quanh thu xếp đất/tháo-chở; chỉnh một số câu P4–P6; sửa kết đoạn. Không đổi architecture hoặc reset bản thảo.
+
+Revision Writer tiếp tục trong context sạch của writer, chỉ nhận brief đã lọc cùng hiệu chỉnh nguồn; không nhận full review, map hoặc packet. [V15](drafts/vi-v15-architecture-revision.md) được lưu riêng. [Ghi chú nguồn của điều phối](working/2026-09-22-architecture-source-check.md) phân biệt nguồn mở lại trực tiếp, đoạn indexed của L3, và hồ sơ kế thừa. Sửa thứ tự cuộc gặp tại Emmeloord, hai phía lối ván, ngày mua so với chia lô, tình trạng nhà trong giai đoạn chuyển cư và mức dè dặt của bảo tàng về gỗ tái dùng. Không bổ sung cảnh tưởng tượng.
+
+### Đối chiếu kết quả và trạng thái bàn giao
+
+[Closeout V15](working/2026-09-22-v15-review-closeout.md) được đọc từ prose trước notes writer. Cải thiện cụ thể: P5 khôi phục được hai phía lối ván; các câu lặp quanh trường học/chia vườn và công dụng lưới đã giảm; hiệu chỉnh nguồn được giữ. Chuỗi nơi đến → tháo/chở → nhà khác và giới hạn chính sách còn nguyên.
+
+Phần giảm/chưa giải quyết: tháo-chở chủ yếu ngắn đi, chưa thêm trải nghiệm tương ứng; Eva còn là một mẩu chứng từ riêng; ending bị nén và mất quan hệ dưới thấp/trên cao có ở V05. Vì vậy **chưa chọn V15 thay nền** và chưa tuyên bố experiment thành công. V15 là bản mới nhất để chủ kênh review, V14 là bản trước sửa, V05/V06 vẫn là mốc chất lượng. Một vòng đã khép; không mở tiếp vòng agent hoặc sửa workflow/DNA trong lượt này.
+
+Đã kiểm nguyên văn các đoạn giữ P1–2, P7–9 và P15 của V14 trong V15; đọc toàn bản và kiểm liên kết tài liệu mới. Chưa nghe audio, chưa có phản hồi người nghe hoặc dữ liệu retention. Phần mới của R13 đang ở working tree của nhánh experiment, chưa commit/push trong lượt này.
