@@ -1,8 +1,12 @@
 # Schokland — hồ sơ tập
 
-Trạng thái ngày 22/09/2026, sau R09: chủ kênh yêu cầu tiêu chuẩn cứng từ podcast cùng niche và nhận xét các bản mới đã mất chất kể, hình ảnh từng có ở v05/v06. Đã lập [bộ chuẩn và đối chiếu trực tiếp](working/2026-09-22-writer-benchmark.md). V12 là vòng thử không đạt, không làm nền mặc định cho lần viết tiếp. V05/v06 là mốc giữ phẩm chất cụ thể; chưa có phần mở hoặc bản toàn tập được chọn. Lượt này không tạo v13.
+Trạng thái ngày 22/09/2026, sau R10: đã review nhánh tại `c980765`, các draft v05–v12 và lịch sử quyết định. [Báo cáo R10](working/2026-09-22-editorial-decision-audit.md) xác định việc lưu phản hồi chưa trở thành trách nhiệm giữ/phát triển giá trị của bản cũ trong bản mới. V12 vẫn là draft mới nhất, chưa có v13. V05/v06 là mốc phẩm chất cần giữ; chưa có phần mở hoặc bản toàn tập được chọn.
 
 ## Việc đang được giao
+
+R10 yêu cầu tìm nguyên nhân các vòng sửa không tích lũy chất lượng, đặc biệt trách nhiệm của agent đối với những phẩm chất đã được công nhận. Lượt này review và lưu chẩn đoán, không sửa lời kể. Workflow mục 5 đã có yêu cầu giữ phần tốt, so trước/sau và quay lại mốc phù hợp; trọng tâm khắc phục là thực hiện các quyết định ấy, không thêm một tầng harness.
+
+Đề xuất cho lần viết tiếp trong báo cáo R10: lấy v05 làm nền, giữ các phẩm chất được nhắc thêm ở v06 và những sửa nguồn hợp lệ về sau; sửa điểm vào cùng phần nối, bàn giao một đoạn liên tục có phần kể thực sự. Cần thể hiện phần giữ/chuyển/thay/bỏ trong bản được đọc, không đẩy toàn bộ giá trị cũ sang “thân bài sẽ viết sau”. Đây là đề xuất biên tập sau review, không phải bản đã viết hoặc đã được chủ kênh duyệt.
 
 Ưu tiên sau R09: dùng các đoạn của Fall of Civilizations, HISTORY This Week và đối chiếu bổ sung 99% Invisible để xác định mức đạt/không đạt cho lời kể. [Bộ chuẩn](working/2026-09-22-writer-benchmark.md) gồm lý do nghe tiếp, diễn biến, hình ảnh, sức nặng con người, bối cảnh/nhịp và sự nhất quán của lời hứa với câu chuyện. Các ngưỡng là đề xuất biên tập có dẫn chứng, không phải metric công bố của đối thủ hoặc dữ liệu retention.
 
@@ -16,7 +20,7 @@ Yêu cầu tiếp tục review/viết từ v05 ở R04 đã được làm rõ b�
 
 Phạm vi phát triển vẫn là cửa vào toàn tập và phần kể tiếp cho người chưa có bối cảnh. Cần nhận rõ v05/v06 là đoạn giữa, không chấm độ đầy đủ của chúng như cold open; đồng thời không dùng khác biệt ấy để bỏ qua phẩm chất writer đã bị mất.
 
-Đầu ra R09 là bộ chuẩn đã áp dụng để chẩn đoán, chưa phải bản lời kể mới. Bước viết tiếp cần giữ cả sức hút lẫn trải nghiệm kể, theo các mốc cụ thể trong bộ chuẩn. Chưa viết toàn tập, tiếng Anh, thu âm hoặc hình ảnh. Nguyên văn phản hồi theo từng lượt ở [revisions.md](revisions.md).
+Đầu ra R09 là bộ chuẩn; đầu ra R10 là truy nguyên quyết định và đề xuất sửa cụ thể. Chưa có draft mới sau bộ chuẩn, nên chưa thể kết luận nó đã cải thiện hoặc không cải thiện lời kể. Chưa viết toàn tập, tiếng Anh, thu âm hoặc hình ảnh. Nguyên văn phản hồi theo từng lượt ở [revisions.md](revisions.md).
 
 ## Câu chuyện muốn khám phá
 
@@ -44,7 +48,7 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 
 ## Các mốc bản thảo
 
-- Bản mở được chọn: chưa có. Đầu ra mới nhất là [chuẩn writer và review R09](working/2026-09-22-writer-benchmark.md).
+- Bản mở được chọn: chưa có. Đầu ra mới nhất là [review nhánh và quyết định biên tập R10](working/2026-09-22-editorial-decision-audit.md); giữ [chuẩn writer R09](working/2026-09-22-writer-benchmark.md) làm tài liệu đối chiếu.
 - [V12](drafts/vi-v12-opening.md) lưu vòng thử không đạt theo R09; [ghi chú của lượt R08](working/2026-09-22-v12-opening-note.md) ghi căn cứ và ý định lúc viết, không xác nhận chất lượng.
 - [V11](drafts/vi-v11-opening.md) lưu vòng thử còn lan man theo R08; [đối chiếu R07](working/2026-09-22-dutch-water-openings.md).
 - [V10](drafts/vi-v10-opening.md) lưu vòng sửa không đạt theo R06.
@@ -66,4 +70,4 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 
 Các bản v09–v12 do cùng một trợ lý viết và đọc lại bằng văn bản; chưa nghe audio, có người nghe thử hoặc đo retention. Tác phẩm tham chiếu cung cấp ví dụ về chức năng của thông tin và chi tiết, không chứng minh bản mới đã đạt chất lượng tương đương.
 
-Phản hồi R06 bác kết quả tự review v10; R08 bác cách trình bày ở v11; R09 xác nhận việc tiếp tục tối ưu mở đầu đã làm mất chất kể. Bộ chuẩn mới ghi rõ điều gì đã giảm, dùng đoạn đối thủ làm mốc và yêu cầu giữ mức chất lượng đã có khi sửa. Chưa sửa DNA/workflow; không có bản mới nào được tự gắn trạng thái duyệt.
+Phản hồi R06 bác kết quả tự review v10; R08 bác cách trình bày ở v11; R09 xác nhận mất chất kể. R10 truy nguyên việc diễn giải cảm nhận thành nghĩa vụ trình bày, đổi loại đầu ra và không giữ giá trị của bản cũ trong bản được bàn giao. Các draft v06–v08 còn giữ nhiều phẩm chất; không khái quát rằng mọi lần sửa đều xóa sạch chúng. Chưa sửa DNA/workflow; không có bản mới nào được tự gắn trạng thái duyệt.

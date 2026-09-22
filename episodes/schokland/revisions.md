@@ -196,3 +196,31 @@ V12 không được giữ làm mốc chất lượng. V05/v06 trở thành mốc
 Tiêu chuẩn mới là quyết định biên tập của dự án, không gán cho đối thủ như quy định chính thức. Chấm một đoạn liên tục đủ cho thấy câu chuyện bắt đầu; ghi bằng chứng theo tiêu chí, không dùng điểm tổng cho phép hook bù cho mất chất kể. Không áp hạn mức từ/giây hoặc bắt từng đoạn có đủ các phẩm chất.
 
 Lượt này hoàn thành benchmark và chẩn đoán đã áp dụng, không viết v13. Giữ nguyên các draft, DNA và workflow. Chưa nghe bản thu, chưa đo phản ứng khán giả. Yêu cầu phát triển bản thảo tiếp tục còn hiệu lực; lần viết tiếp dựa vào mốc chất lượng và đối chiếu cụ thể của R09.
+
+## R10 — 22/09/2026 — review nhánh và trách nhiệm chuyển cảm nhận thành quyết định viết
+
+### Nguyên văn của chủ kênh
+
+Yêu cầu review:
+
+> review branch episode/schokland-v05-review và những bản nháp mới trên nhánh, tìm hiểu vấn đề tại sao không thể cải thiện chất lượng
+
+Làm rõ trọng tâm:
+
+> tôi nghĩ rằng bạn đang có một vấn đề rất nghiêm trọng khi các bản draft mới viết ra mà lược đi toàn bộ những phẩm chất, điểm tốt của các bản trước, gần như là những phần tốt và được tôi công nhận không được giữ lại một chút nào sau mỗi lần viết lại và agent gần như mất hết trách nhiệm chuyển cảm nhận của tôi thành quyết định viết
+
+### Phạm vi kiểm tra và kết luận
+
+Xác nhận remote/local cùng ở `c980765b404536797474ef56b6c977f1d436c3d3`; v12 là draft mới nhất. Đọc v05–v12, phản hồi, hồ sơ sửa và trạng thái tập ở các commit liên quan; đối chiếu workflow mục 5 từ main. Không có thay đổi DNA/workflow/AGENTS trong chuỗi năm commit được review.
+
+[Báo cáo R10](working/2026-09-22-editorial-decision-audit.md) xác định lỗi chính ở vai trò biên tập: phản hồi được lưu nhưng không đủ sức ràng buộc quyết định giữ/phát triển/chuyển/thay thế trong bản viết. Từ v09, đầu ra thành các mở đầu đứng riêng; phần kể tốt được hẹn ở thân bài chưa viết. V06–v08 còn giữ nhiều chất liệu và phẩm chất, nên không kết luận mọi lần sửa đều xóa sạch giá trị cũ.
+
+Các diễn giải như “nói ý nghĩa và tầm vóc trước khi kể diễn biến” do trợ lý thêm đã khiến lời giải thích lấn át trải nghiệm. Tự review chủ yếu xác nhận ý định đặt vấn đề, chưa làm đủ việc so lại phẩm chất đã được công nhận. Các quy tắc bảo toàn tiến bộ đã có; thiếu thêm một checklist không phải nguyên nhân chính được chứng minh.
+
+R09 giữ giá trị tham chiếu nhưng chưa có draft sau đó để kiểm kết quả. Bổ sung lưu ý về đơn vị so sánh và việc không biến cảnh tĩnh/tóm lược thành lỗi tự thân. Không sửa nội dung sáu tiêu chuẩn để hợp thức hóa một bản mới.
+
+### Quyết định bàn giao
+
+Đề xuất nền biên tập là v05, giữ những phẩm chất được nhắc ở v06 và sửa nguồn hợp lệ về sau. Lần viết tiếp cần quyết định rõ những chức năng được giữ/chuyển/thay/bỏ và thể hiện chúng trong một đoạn kể liên tục; sửa điểm vào không có nghĩa gỡ bỏ phần kể đã có giá trị.
+
+Lượt này lưu review và đề xuất, không viết v13, không sửa draft/DNA/workflow. Trợ lý chịu trách nhiệm chọn bản nền, chuyển cảm nhận thành lựa chọn viết và kiểm việc bảo toàn giá trị; không chuyển công việc ấy cho chủ kênh bằng cách yêu cầu họ chỉ định từng câu cần giữ.

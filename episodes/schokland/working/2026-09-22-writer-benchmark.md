@@ -2,6 +2,8 @@
 
 Ngày 22/09/2026. Phản hồi R09. Bản gốc repo: `c5f091193c26da6a782b40f74c9ef504078223af`.
 
+**Lưu ý sau review R10:** giữ bộ đối chiếu này, nhưng không xem nó thay cho quyết định giữ/chuyển/thay/bỏ trên bản cụ thể. V12 là phần giới thiệu đứng riêng: các nhận xét dưới đây đánh giá thiếu hụt của đầu ra đã giao, không kết luận về một thân bài chưa viết. Cảnh tĩnh hoặc tóm lược không tự là lỗi; cần xét chức năng trong đoạn liên tục. Chưa có draft sau R09 để kiểm hiệu quả của bộ chuẩn. Xem [truy nguyên quyết định biên tập](2026-09-22-editorial-decision-audit.md).
+
 **Kết luận:** các vòng sửa đã tối ưu việc giới thiệu chủ đề và câu hỏi, nhưng làm giảm trải nghiệm theo dõi một đời sống đang diễn ra. V12 còn một hình ảnh dễ hiểu; phần lớn lịch sử sau đó được báo lại bằng kết quả. V05/v06 có những quan hệ không gian và vật chất được phát triển qua nhiều đoạn. Chúng là mốc cần giữ về chất kể, chưa phải bản được duyệt hoặc mẫu mở đầu hoàn chỉnh.
 
 Bộ chuẩn dưới đây phục vụ việc nghiệm thu lời kể trong vòng Schokland tiếp theo. Những đoạn đối chiếu là bằng chứng về cách các tác phẩm tổ chức lời kể. Ngưỡng đạt/không đạt là quyết định biên tập đề xuất cho dự án, **không phải rubric do các chương trình công bố hoặc công thức bảo đảm retention**.
