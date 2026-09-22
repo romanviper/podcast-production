@@ -1,5 +1,7 @@
 # Story Map
 
+Visibility: **INTERNAL — Story Architect / Beat & Evidence Curator / Narrative Reviewer only.**
+
 ## Scope
 - Episode/segment:
 - Start:
@@ -13,6 +15,10 @@ Viết ngắn toàn bộ progression bằng beat. Đây không phải narration.
 |---|---|---|---|---|
 | 1 |  |  |  |  |
 
+## Temporal / causal notes
+Ghi rõ khi narrative order khác chronology hoặc khi hai process overlap:
+- 
+
 ## Reveal order
 - Điều biết ngay:
 - Điều giữ lại để reveal:
@@ -25,13 +31,28 @@ Chỉ ghi explanation thật sự cần để hiểu beat tiếp theo.
 |---|---|---|
 |  |  |  |
 
-## Protected assets
-Những phẩm chất/chi tiết đã được owner xác nhận cần giữ về chức năng:
+## Protected functions
+Bảo vệ chức năng trải nghiệm; object cụ thể chỉ là candidate evidence trừ khi chính object đó là điều bắt buộc về mặt lịch sử.
 - 
 
-## Forbidden leakage
-Các proposition trong story map không được copy thành narration:
-- 
+## Information firewall
+Full story map này không được gửi cho Narrative Writer hoặc Revision Writer.
+
+Curator chỉ chuyển sang writer-facing route:
+- start state;
+- observable change/end state;
+- usable evidence/material;
+- minimum fact needed before next beat;
+- confidence/limits;
+- do-not-imply boundaries.
+
+Không chuyển:
+- story function;
+- why-listener-continues reasoning;
+- thematic/symbolic interpretation;
+- editorial labels;
+- forbidden-prose examples;
+- cognitive/workflow diagnostics.
 
 ## Open uncertainties
 - 
