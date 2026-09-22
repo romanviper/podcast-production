@@ -224,3 +224,36 @@ R09 giữ giá trị tham chiếu nhưng chưa có draft sau đó để kiểm k
 Đề xuất nền biên tập là v05, giữ những phẩm chất được nhắc ở v06 và sửa nguồn hợp lệ về sau. Lần viết tiếp cần quyết định rõ những chức năng được giữ/chuyển/thay/bỏ và thể hiện chúng trong một đoạn kể liên tục; sửa điểm vào không có nghĩa gỡ bỏ phần kể đã có giá trị.
 
 Lượt này lưu review và đề xuất, không viết v13, không sửa draft/DNA/workflow. Trợ lý chịu trách nhiệm chọn bản nền, chuyển cảm nhận thành lựa chọn viết và kiểm việc bảo toàn giá trị; không chuyển công việc ấy cho chủ kênh bằng cách yêu cầu họ chỉ định từng câu cần giữ.
+
+## R11 — 22/09/2026 — quy tắc xử lý feedback và V13
+
+### Nguyên văn của chủ kênh
+
+> tôi feedback bằng ngôn ngữ tự nhiên nhưng chất lượng draft suy giảm sau mỗi vòng feedback và viết lại
+
+> bạn hãy viết thêm rule cho agent để giải quyết vấn đề này và để các vòng feedback thật sự có hiệu quả cải thiện thay vì chỉ thực thi một cách chống chế
+
+> check commit mới nhất và viết draft v13
+
+### Quyết định trước khi viết
+
+Đọc commit mới nhất `dc4d4085696681cbb2a6a5e39f0d105ea47b0654`: review R10, không có V13 hoặc thay đổi quy tắc. Hoàn tất phần quy tắc đã soạn ở lượt trước bằng commit `d1ebbd32337684071b1a24567caa1850ae1f75a1`.
+
+Nền viết là V05 tại `dc4d408`, giữ phẩm chất V06 và các sửa nguồn hợp lệ về sau. Giả thuyết sửa: nối điểm vào cảng trên cạn với chuyến thăm 1858 rồi triển khai cuộc di dời sẽ bảo toàn trải nghiệm trong chính bản được bàn giao. Giữ gò, lối ván, vật liệu đổi công dụng, lối chung và cửa lưới; chuyển đời sống trên đảo lên trước thông báo. Legebeke xuất hiện qua cuộc gặp có nguồn, sau đó hành động thu xếp đất. Bỏ phần giải thích toàn cảnh Hà Lan và câu hỏi thuần kỹ thuật của V12.
+
+### Đối chiếu lời kể
+
+Đọc riêng bản lời kể liên tục rồi so V05/V06/V12. Đoạn được đếm sau dấu phân cách trong [V13](drafts/vi-v13-opening-and-relocation.md).
+
+| Điểm kiểm | Kết quả cụ thể |
+|---|---|
+| Điểm vào và phần nối — T1/T5 | V12 §1 tạo tò mò nhưng §2–3 tóm qua cuộc di dời. V13 §1–2 giữ tương phản, §3 vào cảng 1858 rồi đi qua đảo trước khi đến thông báo ở §7. Có phần triển khai đi cùng mở đầu. |
+| Không gian và con người — T3/T4 | V05 §2–3 được phát triển ở V13 §3–6: bến đang hoạt động, gò và lối ván dẫn tới cộng đồng phải rời đi. Người thầy được gặp ở §6, thu xếp đất ở §9, hoàn tất giấy tờ ở §12; có hành động tiếp nối thay vì một tên người thêm vào. |
+| Biến đổi vật liệu — T2 | V05 §4–9 còn được triển khai trong V13 §8–14: tháo, chở, dựng khác hình dạng, dùng chung không gian và giữ chỗ cho nghề cá. Đã cắt những câu chỉ nhắc lại “vật liệu cũ thành nhà khác” ở bản thử đầu của lượt này. |
+| Lời hứa toàn tập — T6 | Bỏ câu hỏi chỉ hứa giải thích công trình. Phần mẫu theo việc giữ/dựng nơi ở; năm 1942 vẫn là lời hứa chưa triển khai hết. Chưa đủ dữ liệu để xác nhận hai tuyến hội tụ trong toàn tập. |
+
+Sau lần tự đọc đầu, cắt giải thích lặp ở đoạn phân lô/tái dùng gỗ; sửa câu có thể khiến người nghe hiểu quyết định di dời được ban hành trong tháng Ba 1859. Bổ sung việc hoàn tất giấy bán đất từ H01 để chặng xây xóm có một sự kiện kết thúc cụ thể. Không thêm cử chỉ, đối thoại hay suy nghĩ của người ký.
+
+V13 khôi phục được phần kể đã bị để ngoài các mở đầu trước. Những đoạn dựng nhà vẫn có tính lược thuật; tuyến sau năm 1859 chưa được viết. Không kết luận đã ngang đối thủ hoặc đã giải quyết toàn bộ vấn đề writer. Giữ V13 là thử nghiệm tích hợp để review; mốc phẩm chất V05/V06 vẫn có hiệu lực, chưa có bản được chủ kênh chọn.
+
+Cách kiểm: cùng trợ lý tự đọc văn bản và mở lại nguồn; không có reviewer độc lập, bản thu hoặc dữ liệu khán giả. Căn cứ và giới hạn mới ở phần R11 của [research.md](research.md).

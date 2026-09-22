@@ -1,12 +1,12 @@
 # Schokland — hồ sơ tập
 
-Trạng thái ngày 22/09/2026, sau R10: đã review nhánh tại `c980765`, các draft v05–v12 và lịch sử quyết định. [Báo cáo R10](working/2026-09-22-editorial-decision-audit.md) xác định việc lưu phản hồi chưa trở thành trách nhiệm giữ/phát triển giá trị của bản cũ trong bản mới. V12 vẫn là draft mới nhất, chưa có v13. V05/v06 là mốc phẩm chất cần giữ; chưa có phần mở hoặc bản toàn tập được chọn.
+Trạng thái ngày 22/09/2026, sau R11: đã đọc commit R10 `dc4d4085696681cbb2a6a5e39f0d105ea47b0654` và viết [V13 — mở đầu nối vào cuộc di dời và dựng xóm](drafts/vi-v13-opening-and-relocation.md). Đây là đoạn liên tục từ cảng hiện tại, qua chuyến thăm 1858, tới Brunnepe năm 1859. V13 là bản thử mới nhất để review; mốc chất lượng vẫn là V05/V06. Chưa có phần mở hoặc bản toàn tập được chủ kênh chọn.
 
 ## Việc đang được giao
 
-R10 yêu cầu tìm nguyên nhân các vòng sửa không tích lũy chất lượng, đặc biệt trách nhiệm của agent đối với những phẩm chất đã được công nhận. Lượt này review và lưu chẩn đoán, không sửa lời kể. Workflow mục 5 đã có yêu cầu giữ phần tốt, so trước/sau và quay lại mốc phù hợp; trọng tâm khắc phục là thực hiện các quyết định ấy, không thêm một tầng harness.
+R11 giao kiểm tra commit mới và viết V13, tiếp sau yêu cầu làm rõ quy tắc xử lý feedback. Quy tắc đã được cập nhật trong AGENTS.md và workflow mục 5; bằng chứng chất lượng phải nằm trong bản viết. Nguyên văn, lựa chọn trước khi viết và đối chiếu sau sửa ở [revisions.md](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13).
 
-Đề xuất cho lần viết tiếp trong báo cáo R10: lấy v05 làm nền, giữ các phẩm chất được nhắc thêm ở v06 và những sửa nguồn hợp lệ về sau; sửa điểm vào cùng phần nối, bàn giao một đoạn liên tục có phần kể thực sự. Cần thể hiện phần giữ/chuyển/thay/bỏ trong bản được đọc, không đẩy toàn bộ giá trị cũ sang “thân bài sẽ viết sau”. Đây là đề xuất biên tập sau review, không phải bản đã viết hoặc đã được chủ kênh duyệt.
+Nền viết V13 là V05 tại `dc4d408`, giữ công dụng không gian/vật liệu của V06 và sửa nguồn hợp lệ về sau. Điểm vào cảng trên cạn của V12 dẫn vào cảng còn hoạt động năm 1858. Gò cư trú và lối ván đặt trước thông báo; thầy Legebeke xuất hiện trong chuyến thăm rồi tiếp tục bằng việc chia đất và hoàn tất giấy bán đất. Nhà → cấu kiện → thuyền → nhà gạch với gỗ tái dùng → lối chung/giếng → cửa gác đưa lưới là phần kể thực tế của V13.
 
 Ưu tiên sau R09: dùng các đoạn của Fall of Civilizations, HISTORY This Week và đối chiếu bổ sung 99% Invisible để xác định mức đạt/không đạt cho lời kể. [Bộ chuẩn](working/2026-09-22-writer-benchmark.md) gồm lý do nghe tiếp, diễn biến, hình ảnh, sức nặng con người, bối cảnh/nhịp và sự nhất quán của lời hứa với câu chuyện. Các ngưỡng là đề xuất biên tập có dẫn chứng, không phải metric công bố của đối thủ hoặc dữ liệu retention.
 
@@ -20,7 +20,7 @@ Yêu cầu tiếp tục review/viết từ v05 ở R04 đã được làm rõ b�
 
 Phạm vi phát triển vẫn là cửa vào toàn tập và phần kể tiếp cho người chưa có bối cảnh. Cần nhận rõ v05/v06 là đoạn giữa, không chấm độ đầy đủ của chúng như cold open; đồng thời không dùng khác biệt ấy để bỏ qua phẩm chất writer đã bị mất.
 
-Đầu ra R09 là bộ chuẩn; đầu ra R10 là truy nguyên quyết định và đề xuất sửa cụ thể. Chưa có draft mới sau bộ chuẩn, nên chưa thể kết luận nó đã cải thiện hoặc không cải thiện lời kể. Chưa viết toàn tập, tiếng Anh, thu âm hoặc hình ảnh. Nguyên văn phản hồi theo từng lượt ở [revisions.md](revisions.md).
+Đầu ra R09 là bộ chuẩn; R10 là truy nguyên quyết định; R11 có V13 để kiểm nghiệm trên lời kể. Đã tự đọc văn bản và đối chiếu nguồn, chưa nghe audio hoặc thử với người nghe độc lập. Chưa viết toàn tập, tiếng Anh, thu âm hoặc hình ảnh. Nguyên văn phản hồi theo từng lượt ở [revisions.md](revisions.md).
 
 ## Câu chuyện muốn khám phá
 
@@ -31,6 +31,8 @@ Premise toàn tập vẫn giữ: đời sống từng phải rời Schokland nă
 Tham chiếu thẩm mỹ: tạo hình bằng lời, thế giới vật chất có thể hiểu, chuyển giữa đời sống và quy mô lớn; suy tưởng có sức nặng từ diễn biến. Phần mở cần tạo lý do để theo dõi; lý do ấy có thể nằm ngay trong tình thế, không bắt buộc thành một lời giải thích về tầm quan trọng hoặc câu hỏi triết học.
 
 ## Những cách triển khai đã thử, chưa phải cấu trúc cần giữ
+
+**V13, bản mới để review:** hiện tại/1942 tạo tương phản → chuyến thăm 1858 cho thấy nơi ở và cuộc gặp Legebeke → thông báo 1859 → tháo/chở vật liệu → đất vườn thành xóm, giấy bán đất được hoàn tất → sinh kế tiếp tục đi ra biển. Mốc 1942 là lời hứa còn mở của toàn tập; V13 không giải thích quá trình khai hoang. Phần tiếp theo cần nghiên cứu và nối đời sống sau di dời với quá trình đổi vùng nước; không nhảy thẳng 83 năm hoặc coi dự án được làm riêng để đưa cư dân trở lại.
 
 **Phần mở v12, vòng thử không đạt theo R09:** bến cảng nằm trên cạn → di dời → nước quanh đảo thành đất. Cảnh tạo được thắc mắc nhưng hành động bị tóm lược, chưa có chặng được triển khai; câu kết thiên về lời giải kỹ thuật. Giữ như thử nghiệm về điểm vào, không coi là mốc chất kể.
 
@@ -48,7 +50,9 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 
 ## Các mốc bản thảo
 
-- Bản mở được chọn: chưa có. Đầu ra mới nhất là [review nhánh và quyết định biên tập R10](working/2026-09-22-editorial-decision-audit.md); giữ [chuẩn writer R09](working/2026-09-22-writer-benchmark.md) làm tài liệu đối chiếu.
+- Bản mở được chủ kênh chọn: chưa có.
+- Bản mới nhất để review: [V13](drafts/vi-v13-opening-and-relocation.md). Đây là thử nghiệm tích hợp; chưa thay V05/V06 làm mốc chất lượng đã được ghi nhận. [Đối chiếu R11](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13) ghi kết quả và giới hạn.
+- Giữ [review quyết định R10](working/2026-09-22-editorial-decision-audit.md) và [chuẩn R09](working/2026-09-22-writer-benchmark.md) làm tài liệu đối chiếu.
 - [V12](drafts/vi-v12-opening.md) lưu vòng thử không đạt theo R09; [ghi chú của lượt R08](working/2026-09-22-v12-opening-note.md) ghi căn cứ và ý định lúc viết, không xác nhận chất lượng.
 - [V11](drafts/vi-v11-opening.md) lưu vòng thử còn lan man theo R08; [đối chiếu R07](working/2026-09-22-dutch-water-openings.md).
 - [V10](drafts/vi-v10-opening.md) lưu vòng sửa không đạt theo R06.
@@ -70,4 +74,4 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 
 Các bản v09–v12 do cùng một trợ lý viết và đọc lại bằng văn bản; chưa nghe audio, có người nghe thử hoặc đo retention. Tác phẩm tham chiếu cung cấp ví dụ về chức năng của thông tin và chi tiết, không chứng minh bản mới đã đạt chất lượng tương đương.
 
-Phản hồi R06 bác kết quả tự review v10; R08 bác cách trình bày ở v11; R09 xác nhận mất chất kể. R10 truy nguyên việc diễn giải cảm nhận thành nghĩa vụ trình bày, đổi loại đầu ra và không giữ giá trị của bản cũ trong bản được bàn giao. Các draft v06–v08 còn giữ nhiều phẩm chất; không khái quát rằng mọi lần sửa đều xóa sạch chúng. Chưa sửa DNA/workflow; không có bản mới nào được tự gắn trạng thái duyệt.
+Phản hồi R06 bác kết quả tự review v10; R08 bác cách trình bày ở v11; R09 xác nhận mất chất kể. R10 truy nguyên việc diễn giải cảm nhận thành nghĩa vụ trình bày, đổi loại đầu ra và không giữ giá trị của bản cũ trong bản được bàn giao. Các draft v06–v08 còn giữ nhiều phẩm chất; không khái quát rằng mọi lần sửa đều xóa sạch chúng. R11 hoàn tất thay đổi quy tắc vòng sửa đã được giao ở lượt trước; DNA giữ nguyên. V13 chưa được tự gắn trạng thái duyệt.

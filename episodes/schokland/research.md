@@ -1,6 +1,6 @@
 # Nghiên cứu — Schokland
 
-Ngày kiểm tra: 21/09/2026; bổ sung đến R08 ngày 22/09/2026. Phạm vi: chất liệu cho đoạn mẫu về di dời/dựng tiếp đời sống và phần mở toàn tập tiếng Việt. Hồ sơ đang cập nhật; không phải toàn bộ research cho tập.
+Ngày kiểm tra: 21/09/2026; bổ sung đến R11 ngày 22/09/2026. Phạm vi: chất liệu cho đoạn mẫu về di dời/dựng tiếp đời sống và phần mở toàn tập tiếng Việt. Hồ sơ đang cập nhật; không phải toàn bộ research cho tập.
 
 ## Nguồn điều phối đã đọc
 
@@ -143,3 +143,16 @@ Ngày 22/09/2026, mở lại S06 và đọc mục History, trang PDF 2/trang in 
 - Giới hạn: đây là tài liệu hướng dẫn hiện nay, không phải lời chứng nguyên gốc năm 1859. Không ghép các điểm cách nhau trên tuyến thành một cảnh tại chỗ.
 
 Mở lại S01 (UNESCO, Schokland and Surroundings), mục Brief synthesis, Integrity và Authenticity: cảnh quan nông nghiệp từ 1942, một số công trình còn lại cùng các thành phần cảng/hải đăng phục dựng. Vì vậy v12 không gọi cảng hiện nay là nguyên vẹn từ thế kỷ mười chín. Mở lại S04, mục Schokland opgeheven, đối chiếu ngày ký luật 16/12/1858; không đổi thành sắc lệnh ban hành 1859. [Ghi chú v12](working/2026-09-22-v12-opening-note.md) tách căn cứ lịch sử khỏi quyết định kể.
+
+## Bổ sung R11 — V13, mở đầu và cuộc di dời
+
+Ngày 22/09/2026, mở lại S01, S04, S06, S07 cùng H01/H02. Đọc các phần dùng dưới đây; không nhận đã xem hồ sơ lưu trữ gốc hoặc khảo sát công trình. H01 là bài [De Schokkers in Kampen](https://www.schokkervereniging.nl/schokker-erf/artikelen-uit-het-schokker-erf/102-de-schokkers-in-kampen-1859), H02 là [hồ sơ KP-1](https://www.zuiderzeecollectie.nl/object/collect/Zuiderzee_museum-76220).
+
+| Đoạn V13 | Căn cứ/giới hạn |
+|---|---|
+| §1–2 | S01, Integrity/Authenticity: cảnh quan khai hoang 1942 và cảng đã phục dựng. Lời kể không nhận cấu kiện hiện tại nguyên vẹn từ 1858, không nói toàn Zuiderzee đã thành đất. Mở lại PDF S11 bị lỗi; không dùng sức chứa bến hoặc chi tiết mới từ bản PDF đó. |
+| §3–6 | S07, các đoạn mở chuyến đi, cảng, Legebeke và “Wij zullen van Emmeloord”; S06, History, PDF trang 2: vật liệu nâng gò và hư hại đê. Cuộc gặp/thời gian cư trú là lời khách thăm; không chuyển phán xét đạo đức của ông thành quan điểm của lời kể. |
+| §7–10 | S04, Schokland opgeheven/Verhuizing; H01, đầu mục De Schokkersbuurt. Thông báo tháng Ba khác luật tháng 12/1858; bốn tháng là thời hạn, không phải lịch mọi hộ thực hiện. 21 hộ không đại diện toàn cộng đồng. |
+| §11–14 | H02, Gedetailleerde beschrijving §2–3: tái dùng nội thất có mức chắc chắn, không phục dựng nguyên căn. H01, đoạn bắt đầu “Op 30-10-1859” và phần chữ ký: bổ sung sự kiện công chứng. H01 về lối chung/giếng; S04, Verhuizing, về cửa lưới. Không gán một cấu kiện cụ thể cho một hộ, không tả thao tác ký chưa được ghi. |
+
+Tên Legebeke dùng cách viết trong H01; S07 chép Legerbeeke. §12 nối người thầy trong hai nguồn, không suy toàn bộ hộ là học trò của ông. Hai câu cuối §14 tổng hợp việc chuyển nơi ở và tiếp tục nghề cá; không nhận cộng đồng đã hết nghèo, hòa nhập trọn vẹn hoặc đánh cá đúng một điểm trên biển.
