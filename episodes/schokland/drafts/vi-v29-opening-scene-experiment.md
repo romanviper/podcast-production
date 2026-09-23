@@ -1,0 +1,3 @@
+Mái và vách của nhiều căn nhà ở Emmeloord còn hư sau trận bão ngày 25 tháng 7; có căn, theo Johannes Zeehuisen, không thể ở được. Emmeloord là khu dân cư phía tây bắc đảo Schokland, giữa biển Zuiderzee của Hà Lan. Ở cùng khu dân cư ấy, cảng bị phù sa bồi lắng nhưng vẫn phục vụ thuyền đánh cá và tàu qua lại.
+
+Zeehuisen kể những điều đó trong ký sự về chuyến thăm ngày 2 tháng 9 năm 1858. Ông đi thuyền chợ từ Genemuiden trên đất liền, lên bờ gần xưởng dệt rồi thăm cảng. Đây là lần thứ ba ông đến Schokland. Ông viết rằng khoảng 650 người trên đảo sẽ phải rời đi, trong khi họ vẫn chưa biết mình sẽ định cư ở đâu.

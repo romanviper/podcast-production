@@ -1,0 +1,11 @@
+# Schokland — Narrative Writer V27 / thử phạm vi hẹp
+
+Viết **một đoạn tiếng Việt chỉ diễn ra trong ngày 2/9/1858 trên Schokland**, từ chuyến khách đến đảo tới lúc ông rời đi. Đây là phép thử **độ sâu của một chương**, không phải bản thay thế V26 cho toàn tuyến 1858–1859. Không kể trước chuyện chia đất Brunnepe hay tóm hết cuộc di dời; có thể mở/khép bằng một câu ngắn cho người nghe biết việc rời đảo đang được dự tính.
+
+**Chỉ đọc handoff này và một file route:** `episodes/schokland/working/2026-09-23-writer-route-v08-one-day.md`, SHA-256 `2D87128006CB55DBEBF4F9777632F28F19C05005B45AD02A3B2654B52D354DE9`. Có thể mở đúng [ký sự S07 được route dẫn](https://www.schokkervereniging.nl/schokker-erf/artikelen-uit-het-schokker-erf/88-een-bezoek-op-het-eiland-schokland-op-2-september-1858) để kiểm trình tự/chi tiết. Không đọc V14–V26, episode, revisions, story map, benchmark, review hoặc workflow đầy đủ; không lấy thêm lịch sử draft vào lượt này. Nếu route hay S07 không đủ cho cảnh muốn viết, giữ giới hạn hoặc báo Curator.
+
+Điều cần thử: các draft toàn tuyến thường rút chuyến thăm xuống một đoạn liệt kê. Lần này hãy để người nghe **theo một ngày thực sự có đường đi, việc bất ngờ, người đảm nhận công việc và đường trở về**. Giới thiệu ngay ai là khách, vì sao ông tới, Schokland nằm trong nước như thế nào; khi người mới xuất hiện, cho biết vai trò của họ trước khi bắt người nghe nhớ tên. Dành thời gian cho đoạn đi trên ván và buổi chiều ở phía nam nếu chúng làm nhận thức về hòn đảo thay đổi; không cần nhắc tất cả dữ kiện trong route. Vụ đắm thuyền là chuyện của gia đình từ Meppel, không phải người đảo hay nguyên nhân cuộc di dời.
+
+Nguồn là mắt nhìn của Zeehuisen, với phán xét riêng của ông. Đừng để narrator khẳng định cư dân cùng nghĩ như ông. Không tạo lời thoại, âm thanh, nội tâm, thời tiết hay động tác không ghi. Giữ tách quan sát trực tiếp với chuyện ông được kể. Phần lời dẫn không cần chú thích phương pháp, nhưng có thể đặt ghi chú chứng cứ riêng ngoài narration. Không áp số từ; đoạn cần đủ nhịp cho một ngày, không phải sáu mốc trong một paragraph.
+
+Nộp đúng một bản khóa: `episodes/schokland/drafts/vi-v27-one-day-scene-experiment.md`. Không tự chấm, không sửa lần hai, không commit.

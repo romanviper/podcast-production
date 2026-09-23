@@ -1,0 +1,3 @@
+Sáng ngày 2 tháng 9 năm 1858, Johannes Zeehuisen lên thuyền chợ từ Genemuiden trên đất liền, trở lại Schokland lần thứ ba. Hòn đảo nằm giữa biển Zuiderzee. Mở đầu ký sự về chuyến thăm, ông viết rằng khoảng 650 cư dân đang đứng trước viễn cảnh phải rời đảo mà chưa biết sẽ định cư ở đâu. Bản ký sự ghi lại nơi họ đang sống ngay trong quãng thời gian ấy. Trong gió tây nam, con thuyền đi về phía Emmeloord.
+
+Sau hơn hai giờ, Zeehuisen lên bờ gần xưởng dệt ở Emmeloord, khu tây-bắc Schokland. Ông ghi lại nhiều mái và vách nhà còn hư hại sau trận bão ngày 25 tháng 7; có căn không còn ở được. Rồi ông thăm cảng. Lòng cảng bị bồi lắng, nhưng vẫn phục vụ thuyền cá và tàu qua lại.
