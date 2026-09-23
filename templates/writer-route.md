@@ -1,9 +1,11 @@
 # Writer-Facing Route
 
-Source story map:
 Scope:
+Route revision / date:
+Source limits reconciled at (source note / version):
 
 > Chỉ artifact này được chuyển cho Narrative Writer. Không đính kèm full story map hoặc internal beat packet.
+> Curator phải tích hợp mọi đính chính vào chính route này rồi mới bàn giao. Nếu một route cũ còn thông tin sai, không gửi nó kèm errata rời và yêu cầu Writer tự sửa.
 
 ## Route
 

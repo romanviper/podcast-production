@@ -4,6 +4,8 @@
 
 Đọc `docs/channel-dna.md`, rồi `episode.md` của tập đang làm và những nguồn/bản nháp được nó trỏ tới. Đọc `docs/workflow.md` khi nhiệm vụ liên quan quy trình hoặc vòng sửa. Khi nhiệm vụ là tìm hoặc sàng lọc ứng viên, đọc `docs/candidate-discovery.md`. Không nạp mọi bản nháp cũ, mọi nhận xét và mọi tài liệu vào nhiệm vụ viết.
 
+**Ngoại lệ khi nhận vai Narrative Writer / Revision Writer trong `experiment/story-architecture-split`:** chỉ mở các file được liệt kê trong handoff dành cho Writer theo `docs/story-architecture-split.md`. Hướng dẫn chung trong file này vẫn áp dụng, nhưng không tự mở `episode.md`, `revisions.md`, full story map, beat packet, review, notes writer hoặc toàn bộ `docs/workflow.md` để gom thêm ngữ cảnh. Nếu packet thiếu hoặc route còn sai, báo editor/Curator bổ sung rồi mới viết. Editor chịu trách nhiệm chuyển các giới hạn cần thiết từ DNA/workflow vào handoff mà không làm rò reasoning nội bộ.
+
 Chỉ làm phần việc người dùng giao. Review hoặc chẩn đoán không tự động cho phép sửa DNA, workflow hay bản thảo. Yêu cầu trong phiên làm việc hiện tại được ưu tiên; ghi nhận khi nó thay đổi một quyết định cũ.
 
 ## Tác giả, agent chính và sub-agent
@@ -53,6 +55,8 @@ Feedback bằng ngôn ngữ tự nhiên là đầu vào hợp lệ. Agent chịu
 Thực hiện vòng sửa theo mục 5 của `docs/workflow.md`: chọn bản nền có lý do; lưu nguyên văn feedback riêng với diễn giải; chỉ ra chỗ gây vấn đề, cách sửa dự kiến và phẩm chất cần giữ. Không coi thêm câu hỏi, nhân vật, hình ảnh hay lời giải thích ý nghĩa là bằng chứng đã giải quyết feedback.
 
 Đọc lời kể và so sánh trải nghiệm trước/sau trước khi dùng ghi chú ý đồ để kết luận. Bản mới chỉ thay bản nền khi có bằng chứng cụ thể về tiến bộ và không làm suy giảm đáng kể phẩm chất cần giữ; nếu chưa rõ, lưu là thử nghiệm và giữ bản nền. Không dùng việc hoàn thành thao tác sửa hoặc lời tự chấm làm bằng chứng chất lượng.
+
+Trong nhánh thử nghiệm, reviewer ghi thứ tự đầu vào đã đọc và khóa nhận xét chỉ từ bản lời kể trước khi xem bản nền, brief hoặc notes. Người đã viết bản đó hoặc thấy mục tiêu/diagnostics trước khi đọc không gọi lượt tự đọc là review độc lập. Có thể dùng kết quả tự đọc để tìm lỗi, nhưng không dùng nó làm xác nhận khách quan cho lời khen bản mới.
 
 Giữ phiên bản cũ; phân biệt bản mới nhất, bản nền để viết tiếp và bản được chủ kênh chọn. Tự review chỉ cho kết luận tạm thời. Bàn giao ngắn việc đã tốt hơn, phần giảm/chưa giải quyết và bản được dùng tiếp. Nếu giả thuyết sửa thất bại, đổi cách xử lý; không tự thêm luật hoặc lặp vô hạn.
 

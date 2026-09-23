@@ -354,3 +354,20 @@ Tham chiếu *The Sumerians* của *Fall of Civilizations* được dùng ở c�
 Mặt trái: mở đầu nay dài hơn và thông tin căn bản nhiều hơn, có nguy cơ chậm nhịp; lời kể về đời sống riêng của cư dân vẫn phụ thuộc nhiều vào ký sự từ người ngoài và hồ sơ địa phương. Chưa có căn cứ để dựng suy nghĩ/đối thoại của Zeehuisen hay Bien. Kết luận tiến bộ về khả năng định hướng là tạm thời từ đọc văn bản, không suy thành phản ứng người nghe hoặc chất lượng audio. Giữ V20 là bản mới nhất để chủ kênh review, chưa chọn làm nền chính thức.
 
 [Ghi chú nguồn V20](working/2026-09-23-v20-source-and-setup.md) chỉ rõ tư cách bản ký sự đăng lại, nguồn thứ cấp cho việc chuyển nhà và giới hạn từng suy luận. Chưa nghe bản đọc, thử với người nghe không biết Hà Lan hoặc viết toàn tập/tiếng Anh.
+
+## R16 — 23/09/2026 — đầu vào sạch và tính khách quan của review
+
+### Nguyên văn phản hồi của chủ kênh
+
+> tiếp tục làm việc trên nhánh experiment/story-architecture-split của repo podcast-production. Hiện tại tôi thấy trong quá trình viết lại các v16 -> v20 và writer agent đang gặp nhiều vấn đề trong việc nhận đầu vào không sạch sau mỗi vòng viết lại và gặp cả vấn đề self-review sau mỗi vòng không khách quan với những feedback cải thiện của tôi
+
+### Điều đối chiếu được, điều chưa biết
+
+[Kiểm toán V16–V20](working/2026-09-23-v16-v20-handoff-audit.md) ghi bản nền, tín hiệu được/mất và giới hạn chứng cứ của từng lượt. Route v01 Beat 6 còn khẳng định sai ngày chia đất; notes các lần sửa chứa nhiều chẩn đoán mà Writer không cần trực tiếp đọc; V17 → V18 đi tiếp từ một bản còn là thử nghiệm, rồi V19 quay lại V17. Có lượt đọc prose-first trong hồ sơ V16–V18, nên không nói mọi self-review đều vô giá trị. R15 không lưu riêng nhận xét thô đã khóa và bản V20 trước khi sửa tiếp sau lượt đọc được gọi là độc lập; vì vậy không kiểm toán được nhận định độc lập ấy trên V20 cuối. Hồ sơ không cho biết chính xác tất cả file một writer từng mở; không khẳng định nhiễm từ một file cụ thể nếu không có dấu vết.
+
+### Thay đổi và trạng thái
+
+- Nhánh thử nghiệm thêm contract từng lượt vào `docs/story-architecture-split.md`: editor giữ feedback nguyên văn, chẩn đoán và lựa chọn nền ở hồ sơ nội bộ; Curator sửa route hiện hành trực tiếp; Writer chỉ nhận một bản nền và handoff đã lọc; reviewer khóa quan sát lời kể trước khi mở mục tiêu và notes, ghi provenance và so hai chiều.
+- `AGENTS.md` có ngoại lệ rõ cho hai vai Writer trong nhánh này để câu lệnh đọc `episode.md`/workflow chung không mở lại toàn bộ lịch sử. Template brief nội bộ và template handoff Writer tách riêng. Template review phân biệt tự đọc có ngữ cảnh với đọc lạnh, yêu cầu dẫn cả tiến bộ và suy giảm cùng phạm vi.
+- [Writer route v02](working/2026-09-23-writer-route-v02.md) hợp nhất ngày mua đất 31/3, thời gian chia lô vài tuần sau, quan hệ người/địa danh và các giới hạn về nhà Jan/gỗ nhà mới. Route v01 chỉ giữ lịch sử. [Handoff R16](working/2026-09-23-r16-writer-handoff.md) minh họa một gói chỉ gồm V19 và route v02 với hash, nhắm đúng feedback R15; V20 vẫn là ứng viên so sánh. Chưa chạy Writer trên gói này hoặc viết V21.
+- Đối chiếu văn bản tạm thấy V20 giúp định hướng đảo/Zeehuisen hơn V19 nhưng trả giá bằng phần setup dài trước khi xuất hiện hạn chót; chưa có lượt đọc V20 cuối với provenance đủ để chọn nó làm nền. Chưa có chủ kênh chấp nhận V20, chưa nghe thử hay thử với khán giả. Bản mới nhất: V20; nền tạm cho gói thử: V19; bản được owner duyệt: chưa có.

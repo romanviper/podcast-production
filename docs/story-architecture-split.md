@@ -121,14 +121,13 @@ Reviewer không rewrite toàn bài.
 Revision Writer nhận:
 
 - draft nền;
-- review đã chốt;
-- protected functions/assets liên quan;
-- writer-facing route của phần cần sửa;
-- chỉ evidence packet/source material cần cho phạm vi sửa.
+- một handoff dành cho writer nêu trải nghiệm cần cải thiện và những chi tiết cụ thể cần giữ;
+- writer-facing route **hiện hành, đã sửa trực tiếp mọi errata** cho phần liên quan;
+- chỉ các trích đoạn nguồn cần cho phạm vi sửa.
 
 Revision Writer không nhận full story map trừ khi vai trò của nó được đổi thành Architect trong một lượt riêng.
 
-Không nhận toàn bộ lịch sử feedback nếu không cần. Mục tiêu là sửa nguyên nhân đã chẩn đoán, không sinh một tác phẩm mới.
+Review đầy đủ, giả thuyết nguyên nhân, full history, lời tự đánh giá của writer và các bản thử không được chọn ở lại với editor. Mục tiêu là giải quyết trải nghiệm người nghe trong phạm vi đã giao, không sinh một tác phẩm mới hay viết theo lời giải thích của reviewer.
 
 Đầu ra: một version mới, không ghi đè bản nền.
 
@@ -182,6 +181,17 @@ Narrative Writer **không đọc** full story map, internal beat packet, toàn b
 Narrative Reviewer không đọc self-evaluation của writer trước lần đọc đầu.
 
 Revision Writer không nhận các draft thất bại không liên quan trừ khi chúng chứa một protected asset được chỉ định.
+
+## Mỗi vòng sửa là một lần bàn giao mới
+
+1. **Editor giữ hồ sơ nội bộ.** Lưu nguyên văn phản hồi của owner; đọc bản thảo và đối chiếu các bản có ích, rồi ghi theo `templates/revision-brief.md` trong hồ sơ vòng sửa: bản nền được chọn, lý do, đoạn cần sửa, phần phải giữ và giới hạn nguồn. Bản mới nhất chỉ là một ứng viên. Khi chưa đủ bằng chứng chọn nền, giữ nguyên nền trước; không nối V16 → V17 → V18 chỉ vì tăng số phiên bản.
+2. **Curator khóa dữ liệu writer có thể thấy.** Nếu nguồn/chronology thay đổi, xuất `writer-route` **phiên bản mới đã hợp nhất chỉnh sửa**, kiểm các fact chặn câu chuyện và mức chắc chắn với source log; không phát route cũ kèm errata rời. Story map/beat packet tiếp tục là nội bộ. Nếu thiếu bằng chứng ở một beat trọng yếu, trả về Curator/Architect, không đẩy lỗ hổng sang writer.
+3. **Editor xuất một handoff dành riêng cho writer.** Dùng `templates/writer-revision-handoff.md`: đúng một bản nền, đúng một route, trích nguồn liên quan, một mục tiêu trải nghiệm và các chi tiết cần bảo toàn bằng vị trí trong bản nền. Đưa nguyên văn feedback vào hồ sơ nội bộ; trong handoff chỉ chuyển phần owner nói có tác dụng cho đoạn này, giữ đúng sắc thái, không lén đổi thành lời chỉ đạo thêm cảnh/nhân vật/giải thích. Không đưa review, lịch sử lỗi, điểm số hoặc câu diễn nghĩa story function. Ghi path + commit hoặc hash của từng file đầu vào để người giao có thể tái hiện đúng packet.
+4. **Writer mở lượt sạch và nộp một bản khóa.** Writer chỉ đọc manifest của handoff; không tự đi tìm mọi file trong `working/`, `revisions.md` hay các draft cũ. Ghi chú nguồn có thể nộp riêng, không tự đánh giá thành công và không tự phát một vòng sửa nữa. Phát hiện route sai/thiếu thì trả về Curator; không tự hòa giải hai nguồn mâu thuẫn trong prose.
+5. **Reviewer khóa nhận xét trước khi xem ý đồ.** Một lượt đọc chỉ từ lời kể ứng viên và phạm vi; lưu nguyên văn chỗ hiểu, chỗ vấp, câu/hình ảnh còn tác dụng và điều chưa thấy trong phần snapshot riêng, ghi thời điểm + hash trước khi mở dữ liệu khác và không sửa ngược snapshot. Sau đó mới mở bản nền, mục tiêu owner, source limits và story map để đối chiếu cùng phạm vi/chức năng. Chỉ đọc notes của writer sau khi đã kết luận về prose. Ghi rõ người đọc, context, thứ tự file được xem. Agent/người đã viết hoặc nhìn thấy review/giả thuyết trước lượt đọc không gọi kết quả là “đọc lạnh độc lập”.
+6. **Editor quyết định bản nền.** Dẫn đoạn trước/sau cho cả điều được và điều mất; kiểm source riêng. Kết quả tự review hoặc so văn bản chỉ là kết luận tạm thời. Nếu bản mới chữa feedback mà làm suy yếu phần owner đã nhận ra là tốt, giữ bản mới làm thử nghiệm và tiếp tục từ bản nền cũ hoặc từ bản lai có lý do rõ. Chỉ owner có quyền xác nhận chấp nhận.
+
+Không cần lập bộ hồ sơ mới cho từng câu. Một brief nội bộ, một handoff sạch và một review có thứ tự đọc đủ cho một lần sửa. Nếu yêu cầu thay trajectory, chuyển phần đó về Story Architect trước khi tạo route mới; Revision Writer không được nhận full story map để tự sửa kiến trúc.
 
 ## Điều không thay đổi
 
