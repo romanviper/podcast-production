@@ -1,0 +1,17 @@
+Ở đầu bắc Schokland, cảng Emmeloord ngày nay nằm giữa đất. Vùng nước từng bao quanh hòn đảo đã thành đất của Noordoostpolder năm 1942. Một phần dấu cảng hiện thấy là phục dựng; vị trí của nó thì vẫn còn đó. Từ chỗ thuyền từng cập bờ, muốn hình dung cuộc rời đảo, ta phải đặt nước trở lại quanh Schokland.
+
+Ngày 2 tháng 9 năm 1858, J. Zeehuisen đến đây lần thứ ba. Ông là thị trưởng Genemuiden trên đất liền, và lần này muốn nhìn đời sống trên đảo trước khi người dân chuyển đi. Ông lên bờ gần xưởng dệt ở Emmeloord. Cơn bão ngày 25 tháng 7 đã qua hơn một tháng, nhưng mái và vách của nhiều công trình vẫn hư hại. Zeehuisen cho rằng có những căn không còn ở được.
+
+Ông ghé cảng, gặp thầy Arnoldus Legebeke, người đã sống trên đảo hai mươi sáu năm. Rồi từ Emmeloord, ông đi khoảng hai mươi phút trên lối ván sang Ens, còn gọi là Middenbuurt. Phần lớn lối đi không có lan can. Một phía là biển; phía kia là bùn, đá và gạch vụn. Để sang khu ở kế tiếp, người ta phải đi qua khoảng hẹp ấy.
+
+Nhưng những căn nhà hư không phải là toàn bộ Schokland. Người ta vẫn sống trên các gò đất đã được nâng và mở rộng qua nhiều năm. Bờ, đê và đường nối các khu ở phải được giữ, dù chúng vẫn tiếp tục hư hại. Cảng còn phục vụ thuyền cá và tàu qua lại. Trường ở Emmeloord và Ens vẫn hoạt động. Trong hồ sơ những năm cận đó có đơn xin sửa thuyền, sửa lưới, có dự toán sửa trường: những việc của một cộng đồng còn đang tính cách sống ở đây, ngay khi cuộc chuyển đi đã ở trước mặt.
+
+Ngày 16 tháng 12 năm 1858, luật di dời được ký. Trong phần giải trình, khoản chi hằng năm để duy trì nơi này được nêu như một sức ép. Đề án có bồi thường và hỗ trợ chuyển chỗ; nó cũng yêu cầu người dân tháo nhà, mang vật liệu đi. Đến thông báo ngày 1 tháng 3 năm 1859, việc ấy có một hạn cụ thể: bốn tháng để tháo nhà và chuyển tài sản. Những bờ đê, lối đi, mái nhà mà người dân vẫn phải lo liệu giờ đứng cạnh một công việc khác: tìm đất ở, đưa cả nhà cửa qua nước.
+
+Một nơi đến nằm ở Brunnepe, xóm chài bên ngoài thành cũ Kampen. Ngày 31 tháng 3, chính Legebeke mua hai căn nhà trên đường Noordweg cùng khu vườn phía sau. Vài tuần sau, khu vườn được chia thành hai mươi mốt lô cho một nhóm hai mươi mốt hộ từ Schokland. Đó là một phần những người rời đảo, không phải cả đảo thu lại trong một khu phố.
+
+Trong nhóm ấy có hộ Jan Gerrits Bien ở Emmeloord. Nhà có vợ ông, Jacobje, ba con nhỏ, và Cornelis, người phụ việc đánh cá cùng ở với họ. Ngày 4 tháng 5, hộ Jan rời Schokland. Ngày ấy ghi lúc gia đình đi; việc tháo và chở căn nhà của họ không được định vào đúng ngày đó. Nhưng căn nhà đã được tháo, đưa tới Kampen để dựng chỗ ở mới.
+
+Trên đường sang đất liền, không chỉ có người. Tường thuật về những ngôi nhà bị tháo kể gạch, dầm, ván và khung cửa được chất lên thuyền về Kampen. Một phần vật liệu ấy được dùng lại. Nó không có nghĩa mỗi ngôi nhà mới là căn nhà cũ dựng nguyên vẹn lần nữa. Những nhà trong khu được khảo sát có mặt tiền bằng gạch; gỗ mang từ đảo có lẽ đi vào dầm, vách hoặc phần bên trong. Căn nhà đổi hình khi tìm được nền đất mới.
+
+Đến ngày 30 tháng 10, những ngôi nhà trong khu đã dựng xong, trước cả khi việc bán đất được công chứng. Tên Jan có trong danh sách ký. Giữa các lô và phía sau nhà là những lối chung, với giếng hoặc bơm lấy nước. Một số nhà có cửa gác để đưa lưới lên; nhiều người vẫn tiếp tục đánh cá. Ở Brunnepe, một gia đình có thể bước ra lối đi chung từ căn nhà mới, lấy nước, lo tấm lưới và lại sống với nghề cũ. Những vật liệu vượt biển đã thành nhà ở nơi khác; cuộc sống trong những ngôi nhà ấy vẫn phải được làm tiếp mỗi ngày.
