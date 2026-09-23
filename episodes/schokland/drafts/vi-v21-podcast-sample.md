@@ -1,0 +1,25 @@
+Ở vị trí bến cảng Emmeloord cũ, ngày nay chung quanh là đất. Bến ấy từng ở đầu bắc Schokland, một hòn đảo dài khoảng bốn cây số. Bao quanh đảo khi ấy là Zuiderzee, vịnh nước mặn ăn sâu vào đất Hà Lan. Đến năm 1942, vùng nước quanh Schokland mới trở thành đất của Noordoostpolder. Nhưng phần lớn cư dân đã rời đảo từ năm 1859, hơn tám mươi năm trước. Khi họ đi, từ nhà đến đất liền vẫn phải qua nước. Đất dưới nhà không mang theo được; dầm, ván và khung cửa thì có thể.
+
+Một năm trước cuộc di dời, ngày 2 tháng 9 năm 1858, Johannes Zeehuisen trở lại Schokland lần thứ ba. Ông là thị trưởng Genemuiden ở đất liền. Trong lời kể về chuyến thăm, ông nói người trên đảo lúc ấy chưa biết mình sẽ đến đâu; ông muốn vào nhà để quan sát đời sống của họ trước cuộc chuyển đi. Ông lên bờ gần xưởng dệt ở Emmeloord, ghé cảng, rồi gặp Arnoldus Legebeke, một thầy giáo đã dạy trên đảo hai mươi sáu năm. Năm sau, chính người thầy này thu xếp đất cho một nhóm gia đình rời Schokland.
+
+Từ khu ở đầu bắc, Zeehuisen đi tiếp tới Ens, còn gọi là Middenbuurt, trên gò giữa đảo. Quãng đường theo ông mất khoảng hai mươi phút. Lối ván nối hai khu phần lớn không có lan can: một bên là biển, bên kia có đoạn bùn lầy, có đoạn lẫn đá và gạch vụn. Các gò là chỗ dựng nhà cao hơn phần đất thấp ở giữa; lối ván đưa người đi từ khu ở này sang khu ở khác. Trên quãng đường ngắn ấy, mặt ván là chỗ đặt chân qua phần đất không thể đi như đường phố trên đất liền.
+
+Cảng Emmeloord vẫn được dùng cho thuyền cá và tàu qua lại. Ở cả Emmeloord lẫn Ens, trường học vẫn hoạt động. Một báo cáo năm 1858 ghi năm mươi lăm học sinh ở Emmeloord, ba mươi hai ở Ens, và các phòng học được giữ gìn tốt. Những năm sát trước đó còn có đơn, dự toán liên quan đến việc sửa trường, sửa thuyền và lưới. Trên đảo, các gò đã được nâng và mở rộng; bờ, đê được bảo vệ nhưng vẫn có thể hư hại. Cảng, trường, lối đi và nhà ở đều đang được sử dụng tại một nơi cần tiếp tục giữ cho phần đất cư trú có thể dùng được.
+
+Cùng năm ấy, chính phủ đưa phương án di dời Schokland ra nghị viện. Hồ sơ nói đến điều kiện cư trú và những khoản chi hằng năm, từ hỗ trợ người dân đến công trình biển và cảng. Chi phí duy trì là một áp lực trong việc quyết định. Phương án có bồi thường và hỗ trợ chuyển chỗ ở; nhà phải được tháo, vật liệu phải được mang đi. Luật được ký ngày 16 tháng 12 năm 1858.
+
+Đến ngày 1 tháng 3 năm sau, thông báo đặt ra hạn bốn tháng để tháo dỡ và chuyển tài sản khỏi đảo. Bốn tháng ấy không chỉ dành cho việc lên thuyền rời Schokland. Một ngôi nhà còn đứng trên gò phải được tháo trước khi những phần có thể dùng lại rời đảo; ở nơi đến cũng phải có đất để dựng một chỗ ở khác.
+
+Nơi đến của một nhóm gia đình là vùng đất liền phía Kampen, gần cửa sông IJssel. Bên ngoài tường thành cũ của Kampen có Brunnepe, một xóm chài. Trên đường Noordweg ở Brunnepe, hai căn nhà đứng về phía đường, phía sau là một khu vườn. Legebeke, người thầy Zeehuisen đã gặp trên đảo, mua hai căn nhà cùng khu vườn ấy ngày 31 tháng 3 năm 1859. Vài tuần sau, khu vườn được chia thành hai mươi mốt lô cho hai mươi mốt gia đình từ Schokland. Hai căn nhà phía đường vẫn đứng đó; sau chúng, ranh đất đã có cho những ngôi nhà còn phải dựng.
+
+Trong nhóm nhận đất có gia đình Jan Gerrits Bien. Họ đến từ Emmeloord, khu ở đầu bắc đảo nơi Zeehuisen đã lên bờ. Hồ sơ ghi ngày 4 tháng 5 năm 1859 gia đình Jan rời đảo. Jan có nhà tại Emmeloord; nhà ấy được tháo, chở sang Kampen để dựng lại. Ngày gia đình rời đảo không cho biết từng việc tháo và chở diễn ra lúc nào. Ở Brunnepe, gia đình ông thuộc nhóm có lô đất phía sau hai căn nhà trên đường Noordweg.
+
+Những ghi chép về vật liệu của nhiều hộ trong cuộc di dời nhắc đến gạch, dầm, ván và khung cửa được đưa lên thuyền chở về phía Kampen. Trên đảo, những phần ấy nằm trong nhà; trên thuyền, chúng là vật liệu rời. Ở Brunnepe, một phần vật liệu mang sang được dùng lại để dựng nhà trong khu vườn đã chia lô. Nhưng việc đưa vật liệu qua nước không có nghĩa các nhà mới sẽ lấy lại nguyên hình nhà cũ.
+
+Những căn nhà mới thường chỉ rộng khoảng ba mét hai mươi lăm, sâu hơn bốn mét một chút. Ở nhóm nhà được khảo sát, mặt trước được xây bằng gạch. Gỗ từ Schokland có lẽ được dùng lại chủ yếu ở phía trong: dầm, vách ngăn, có thể cả những chỗ ngủ quây bằng gỗ. Qua mặt gạch của một căn nhà đã khác hình dạng, phần gỗ cũ nằm ở những nơi người ngoài đường khó nhìn thấy.
+
+Đến ngày 30 tháng 10, các nhà trong khu đã dựng xong; lúc ấy việc bán đất mới được công chứng. Jan có tên trong số những người ký giấy mua.
+
+Các lô thuộc về từng gia đình, còn lối đi giữa và sau nhà là của chung. Ở lối giữa có giếng và bơm nước. Từ những căn nhà dựng trong khu vườn cũ, người ở đây ra cùng một lối để lấy nước. Vườn đã thành những phần đất riêng; việc đi lại và lấy nước vẫn có chỗ dành cho cả khu.
+
+Nhiều người đến Brunnepe tiếp tục đánh cá. Trên cao ở mặt trước một số nhà có cửa thông lên gác; lưới được đưa qua đó, vào khoảng dưới mái. Bên dưới là cửa người ra vào, rồi lối chung dẫn tới giếng. Mặt trước bằng gạch thuộc về ngôi nhà mới; lưới của nghề cá vẫn có chỗ đi vào nhà qua cửa ở phía trên.
