@@ -303,3 +303,54 @@ Revision Writer tiếp tục trong context sạch của writer, chỉ nhận bri
 Phần giảm/chưa giải quyết: tháo-chở chủ yếu ngắn đi, chưa thêm trải nghiệm tương ứng; Eva còn là một mẩu chứng từ riêng; ending bị nén và mất quan hệ dưới thấp/trên cao có ở V05. Vì vậy **chưa chọn V15 thay nền** và chưa tuyên bố experiment thành công. V15 là bản mới nhất để chủ kênh review, V14 là bản trước sửa, V05/V06 vẫn là mốc chất lượng. Một vòng đã khép; không mở tiếp vòng agent hoặc sửa workflow/DNA trong lượt này.
 
 Đã kiểm nguyên văn các đoạn giữ P1–2, P7–9 và P15 của V14 trong V15; đọc toàn bản và kiểm liên kết tài liệu mới. Chưa nghe audio, chưa có phản hồi người nghe hoặc dữ liệu retention. Phần mới của R13 đang ở working tree của nhánh experiment, chưa commit/push trong lượt này.
+
+## R14 — 23/09/2026 — viết bản mới sau đối chiếu podcast
+
+### Nguyên văn của chủ kênh
+
+> hãy viết draft mới
+
+### Chọn nền và giả thuyết trước khi viết
+
+Sau [đối chiếu V14/V15 với podcast cùng mảng](working/2026-09-23-v14-v15-podcast-benchmark-review.md), V15 được dùng làm **nền độ đúng nguồn**: trình tự Emmeloord–Ens, hai phía lối ván, ngày mua đất khác ngày chia lô, và mức dè dặt về gỗ tái dùng. V15 chưa được chọn làm mốc sức kể. V14 và V05/V06 giữ làm đối chiếu những phần vật liệu, đời sống và nhịp đoạn kết từng có tác dụng; không phục hồi lỗi nguồn hoặc câu diễn nghĩa của chúng.
+
+Giả thuyết sửa: phễu mở mất lực sau nghịch ảnh cảng vì §3–6 chuyển sang báo cáo; chặng nhà → cấu kiện → thuyền → nhà mới ở V15 rõ thứ tự nhưng đi quá nhanh; chứng từ Eva đứng riêng; cửa gác kết quá sớm. Bản mới được phép đổi cấu trúc và mức triển khai, giữ phạm vi cảng hiện tại → đảo 1858 → hạn rời đi → Brunnepe 1859. Dấu hiệu cần thấy ngay trong lời kể: sau mở đầu có một đường đi/việc đang diễn ra; các vật và công dụng đổi chỗ qua nhiều chặng có căn cứ; nơi ở mới không được kết bằng một câu nhãn hoặc một câu chức năng vội. Không thêm hành động, tâm trạng, đối thoại hay một hộ tổng hợp để tạo kịch tính.
+
+Writer nhận route và một số factual extracts đã lọc, không nhận review, story map hoặc packet nội bộ. Source checker kiểm thêm chứng cứ cho chi tiết người và vật liệu. Điều phối sẽ đọc bản lời kể trước notes writer, đối chiếu với V14/V15 và các nguồn; một lượt review độc lập chỉ sau khi draft khóa. Chưa tự động chọn bản mới, không sửa DNA/workflow.
+
+### Các bản thử và tín hiệu từ lời kể
+
+[V16](drafts/vi-v16-podcast-sample.md) đưa Jan Gerrits Bien vào chặng rời đảo thay cho dòng chứng từ Eva đứng lẻ ở V15. [Review V16](working/2026-09-23-v16-narrative-review.md) đọc lời kể trước ghi chú writer: câu hỏi về căn nhà qua nước rõ hơn, nhưng giữa câu hỏi và hành động có nhiều đoạn giải trình; nhà → vật liệu → nhà mới còn được báo cáo quá nhanh. Kiểm nguồn đồng thời phát hiện cách gọi Ens/Middenbuurt như hai nơi, điểm Zeehuisen lên bờ, lý do cảng nông và mức chắc chắn của gỗ tái dùng cần sửa. V16 không thay V05/V06 làm mốc chất kể.
+
+[V17](drafts/vi-v17-podcast-sample.md) sửa bản đồ chuyến thăm, kéo Bien trở lại ở giấy mua đất tháng Mười, và cho khu nhà mới thêm mặt gạch, phần gỗ bên trong, lối chung, giếng và cửa gác. [Phản ứng đọc lạnh V17](working/2026-09-23-v17-closeout.md) xác nhận tuyến không gian dễ theo hơn, nhưng sức ép di dời vẫn xuất hiện muộn, giọng nhiều đoạn đều và các câu cuối đoạn diễn nghĩa lại hình vừa kể. Ba cách nói còn dễ vượt nguồn: thời điểm người đến Kampen, tỷ lệ vật liệu được dùng lại, và quan hệ giữa ngày Bien rời đảo với thao tác tháo/chở. Vì vậy V17 cũng là bản thử, chưa được chọn làm nền thay V05/V06.
+
+[V18](drafts/vi-v18-podcast-sample.md) thử đưa việc tháo và chở vật liệu vào ngay đoạn mở, cắt bớt kiểm kê. [Lượt đọc lạnh V18](working/2026-09-23-v18-closeout.md) thấy định hướng nghe rõ sớm hơn nhưng phần đất, trường, nhà mới và mốc Bien mỏng đi; câu cuối nối lối ván với giếng/cửa gác hơi lộ ý đồ biên tập. V18 không thay V17 làm bản có chiều sâu hơn, được giữ làm phương án nhịp gọn để đối chiếu.
+
+[V19](drafts/vi-v19-podcast-sample.md) là bản giao chính của lượt này: giữ thân lời kể V17, đặt đối lập đất không mang theo được với dầm/ván/khung cửa ngay ở mở đầu, bỏ ba cách nói dễ quá nguồn ở §7, §9, §11. Lượt đọc độc lập sau sửa xác nhận mở đầu có hướng nghe cụ thể hơn V17, giữ được không gian/vật liệu hơn V18 và không thấy lỗi sử liệu mới. Đây là **draft tiếng Việt của một đoạn liên tục**, từ cảng hiện tại tới khu ở Brunnepe năm 1859, để chủ kênh review; chưa phải toàn tập hay bản được chấp nhận. V05/V06 vẫn là mốc chất kể: hạn bốn tháng ở V19 còn vào §6, một số câu cuối đoạn vẫn hơi diễn giải lại hình ảnh. Chưa nghe bản đọc, thử với người nghe hoặc suy được retention từ review văn bản.
+
+## R15 — 23/09/2026 — đặt địa danh và người dẫn đường vào tình thế có nghĩa
+
+### Nguyên văn phản hồi của chủ kênh
+
+> cấu trúc của toàn đoạn đã trở nên có bố cục và mạch lạc rõ ràng hơn, nhưng các sự kiện, các con người cùng địa danh được kể giống như bị liệt kê ra mà không có bất kì sự giải thích hay setup xuất hiện nào, Ví dụ khi giới thiệu về 1 địa danh thì cần có những thông tin nó nằm ở đâu, có đặc điểm đặc trưng là gì, mang lại thông tin gì cho người nghe, còn khi giới thiệu nhân vật thì nhân vật đó là ai, ở đâu, vai trò xuất hiện là gì,... với tôi một người không biết gì về Hà Lan khi đọc câu này "Ở vị trí cảng Emmeloord ngày nay, quanh Schokland là đất của Noordoostpolder. Cảng ấy từng ở rìa một hòn đảo giữa biển Zuiderzee." giá trị thông tin gần như bằng không,&#x20;
+> còn câu này tả về J. Zeehuisen "Sáng ngày 2 tháng 9 năm 1858, J. Zeehuisen lên bờ gần xưởng dệt ở Emmeloord. Ông ghé cảng, gặp thầy giáo Arnoldus Legebeke, rồi mới đi về phía Ens." thì còn tệ hơn nó thật sự chỉ là một sự kiện được nhắc tới không có bất kỳ thông tin nào khác. Ví dụ như trong video the sumerians của Paul Cooper trong kênh Fall Of Civilizations, Dalle Vella xuất hiện là một thái tử của một vương quốc, anh ấy được giới thiệu là có sở thích thám hiểm và vì lý do thích thám hiểm nên mới có 1 lần thám hiểm tại vùng lưỡng hà từ đó mở ra toàn bộ câu chuyện về việc anh ấy vô tình khám phá ra di tích của lưỡng hà. Còn nhân vật Zeehuisen hiện tại không được giới thiệu và setup bằng bất cứ thông tin nào, thậm chí hành động của ông cũng không có động cơ thì tại sao người xem có thể quan tâm rằng hành động của ông có ý nghĩa gì
+
+Sau phản hồi trên, chủ kênh giao tiếp tục công việc.
+
+### Nền và giả thuyết sửa
+
+Chọn [V19](drafts/vi-v19-podcast-sample.md) làm nền trực tiếp của vòng sửa (bản R14 chưa commit trên nhánh `experiment/story-architecture-split`, HEAD nền `37689ed`), vì chủ kênh đã nhận thấy bố cục và mạch rõ hơn. Đây không phải sự chấp nhận V19 hay toàn tập. Giữ tuyến vật liệu và chỗ ở từ đảo sang Brunnepe, quan hệ lối ván/giếng/cửa gác, các giới hạn đã kiểm nguồn. V05/V06 vẫn là mốc phẩm chất kể; V17 là đối chiếu thân bài giàu chi tiết.
+
+V19 mở bằng Emmeloord, Schokland, Noordoostpolder và Zuiderzee trước khi người nghe biết nơi ấy có hình dạng hay vị trí nào; §2 đưa Zeehuisen qua ba động từ lên bờ–ghé cảng–gặp thầy mà chưa cho biết ông là ai, tại sao đi và tại sao người nghe cần theo ông. Vấn đề không nằm ở số lượng tên riêng mà ở quan hệ của chúng với không gian, tình thế và bước ngoặt. Giả thuyết: nếu mở bằng kích thước/địa thế của đảo và cái cảng nay nằm giữa đồng, rồi cho Zeehuisen mục đích được chính ký sự nêu trước khi thuyền cập đảo, người nghe có thể hiểu cảnh và theo chuyến đi; mỗi địa danh sau đó phải có vai trò trong chuyển chỗ ở, không chỉ là nhãn bản đồ.
+
+Tham chiếu *The Sumerians* của *Fall of Civilizations* được dùng ở cơ chế: người dẫn đường được giới thiệu qua thân phận, lý do đi và biến cố tại nơi đến trước khi mở lịch sử lớn. Kiểm lại tập cho thấy Pietro della Valle được giới thiệu như một quý tộc/người du hành Italy, không phải thái tử; không sao chép tuyến khám phá ấy cho Zeehuisen. Ký sự của Zeehuisen đủ căn cứ cho chức vụ, lần đi thứ ba, việc ông biết người đảo sắp rời đi nhưng chưa biết nơi đến, và ý định vào nhà, xem đời sống. Nó không cho phép gán ông một cuộc phiêu lưu, một khám phá bất ngờ hoặc nội tâm khác.
+
+### Bản sửa và đọc lại
+
+[V20](drafts/vi-v20-podcast-sample.md) là bản mới nhất để review. Mở đầu thay chuỗi tên bằng một bến cảng cũ hiện ở giữa đồng, đảo cũ dài khoảng bốn cây số, vịnh Zuiderzee và các gò cư trú; giữ mốc 1942 là biến đổi không gian, không giải thích thay câu chuyện năm 1859. Zeehuisen được giới thiệu là thị trưởng Genemuiden trước khi lên thuyền chợ; chuyến thứ ba có mục tiêu quan sát người và nơi sắp đổi chỗ. Emmeloord là khu dân cư/cảng đầu bắc; Ens là khu dân cư trên gò giữa đảo theo cách ông gọi; lối ván cho thấy vì sao quãng ngắn cũng là một hành trình. Kampen được đặt ở phía đất liền gần cửa sông IJssel, Brunnepe ở ngoài tường thành và gắn với nghề cá, để việc Legebeke mua đất có một bài toán chỗ ở cụ thể. Jan Gerrits Bien được đặt trong một hộ sáu người trước chứng từ nhà bị tháo/chở.
+
+Đọc V19 cạnh V20: hai câu mở V19 yêu cầu nhớ bốn tên chưa hiểu; V20 cho người nghe một đảo nhỏ và bến ở đầu bắc trước khi theo người lên đảo. Chuỗi hành động Zeehuisen ở V19 nay có vai trò quan sát trước di dời, địa điểm xuất phát và tình thế ông muốn chứng kiến. Mạch nhà → cấu kiện → thuyền → lô đất → nhà mới vẫn còn; V20 không đổi đích phần này thành tiểu sử Zeehuisen. Lượt đọc lạnh độc lập nhận thấy địa danh đã dễ theo hơn nhưng phát hiện ba chỗ: gắn ngày viết ký sự với ngày thăm đảo, Legebeke còn chỉ là nguồn thông tin, và Jan biến mất khi lời kể chuyển sang vật liệu cộng đồng. Bản hiện tại đã sửa hai mốc thời gian thành ngày chuyến thăm, thêm cách Zeehuisen mô tả sự quan tâm của Legebeke, và đặt một ranh nguồn trước khi chuyển từ nhà Jan sang hồ sơ các hộ khác.
+
+Mặt trái: mở đầu nay dài hơn và thông tin căn bản nhiều hơn, có nguy cơ chậm nhịp; lời kể về đời sống riêng của cư dân vẫn phụ thuộc nhiều vào ký sự từ người ngoài và hồ sơ địa phương. Chưa có căn cứ để dựng suy nghĩ/đối thoại của Zeehuisen hay Bien. Kết luận tiến bộ về khả năng định hướng là tạm thời từ đọc văn bản, không suy thành phản ứng người nghe hoặc chất lượng audio. Giữ V20 là bản mới nhất để chủ kênh review, chưa chọn làm nền chính thức.
+
+[Ghi chú nguồn V20](working/2026-09-23-v20-source-and-setup.md) chỉ rõ tư cách bản ký sự đăng lại, nguồn thứ cấp cho việc chuyển nhà và giới hạn từng suy luận. Chưa nghe bản đọc, thử với người nghe không biết Hà Lan hoặc viết toàn tập/tiếng Anh.

@@ -1,6 +1,6 @@
 # Schokland — hồ sơ tập
 
-Trạng thái ngày 22/09/2026, sau R13: đã pull/checkout `experiment/story-architecture-split` tại `aece47f` và chạy tiếp một vòng Narrative Writer → Narrative Reviewer → Revision Writer. [V15 — bản sửa của experiment](drafts/vi-v15-architecture-revision.md) là bản thử mới nhất để review; [V14](drafts/vi-v14-architecture-experiment.md) giữ nguyên làm bản trước sửa. Phạm vi vẫn từ cảng hiện tại, qua đời sống 1858 và quyết định di dời, tới Brunnepe năm 1859. V05/V06 vẫn là mốc chất lượng; V15 chưa được chọn làm nền thay thế. Chưa có phần mở hoặc bản toàn tập được chủ kênh duyệt.
+Trạng thái ngày 23/09/2026, sau R15: [V20 — draft tiếng Việt để chủ kênh review](drafts/vi-v20-podcast-sample.md) là bản mới nhất của đoạn liên tục từ cảng hiện tại, qua đời sống 1858 và quyết định di dời, tới Brunnepe năm 1859. V20 sửa phản hồi rằng [V19](drafts/vi-v19-podcast-sample.md) nêu người và nơi như một chuỗi tên chưa được giới thiệu. [V17](drafts/vi-v17-podcast-sample.md) giữ thân lời kể giàu chi tiết hơn V18; [V18](drafts/vi-v18-podcast-sample.md) là thử nghiệm nhịp gọn. V05/V06 vẫn là mốc chất kể; chưa có phần mở hoặc bản toàn tập được chủ kênh duyệt. Công việc R14–R15 đang ở working tree của `experiment/story-architecture-split`, chưa commit/push.
 
 ## Story Architecture experiment
 
@@ -12,9 +12,13 @@ R13 đã tạo V14 từ route trong context writer riêng, rồi V15 từ brief 
 
 V15 giảm lặp và khôi phục quan hệ biển/bùn-đá hai bên lối ván, đồng thời sửa thứ tự cuộc gặp, ngày chia đất và mức chắc chắn về gỗ tái dùng. [Đối chiếu sau sửa](working/2026-09-22-v15-review-closeout.md) chưa thấy đủ căn cứ coi experiment đã cải thiện đồng đều chất kể: khoản ứng của Eva vẫn đứng khá riêng, nội thất ít cụ thể hơn V05/V06, đoạn kết bị nén. Giữ kết quả như thử nghiệm để chủ kênh review; chưa mở rộng toàn tập hoặc đổi workflow chính thức.
 
+R14 kiểm [V14/V15 với các podcast cùng mảng](working/2026-09-23-v14-v15-podcast-benchmark-review.md), rồi viết [V16](drafts/vi-v16-podcast-sample.md) → [V17](drafts/vi-v17-podcast-sample.md) → [V18](drafts/vi-v18-podcast-sample.md) → [V19](drafts/vi-v19-podcast-sample.md). V19 giữ tuyến lối ván → nhà tháo qua nước → đất và nhà mới → lối chung/giếng/cửa gác, đưa đối lập đất/vật liệu vào câu mở và sửa mức chắc chắn ở ba chỗ của V17. [Review V16](working/2026-09-23-v16-narrative-review.md), [closeout V17](working/2026-09-23-v17-closeout.md), [closeout V18](working/2026-09-23-v18-closeout.md) và ghi chú trong R14 phân biệt tiến bộ với phần còn yếu. Chưa nghe bản đọc hoặc kiểm tra phản ứng khán giả; V19 chưa được chọn làm nền lâu dài.
+
+R15 dùng phản hồi của chủ kênh về V19 để viết [V20](drafts/vi-v20-podcast-sample.md): giải thích đảo/cảng/vịnh trước chuyến đi, giới thiệu Zeehuisen là thị trưởng Genemuiden đi lần thứ ba vì muốn nhìn gần đời sống dân đảo trước cuộc di dời, rồi đặt Kampen–Brunnepe trong quan hệ với nghề cá và chỗ ở. [Ghi chú nguồn và setup](working/2026-09-23-v20-source-and-setup.md) giữ chứng cứ, mức tiếp cận và giới hạn suy diễn. V20 là bản mới nhất để review, chưa được chủ kênh chọn làm nền hoặc phê duyệt toàn tập.
+
 ## Việc đang được giao
 
-R13 đã tiếp tục tới đầu ra V15 và đối chiếu sau một vòng sửa. Bước tiếp theo là review lời kể mới, xác định có dùng tiếp cách tách architecture/writer này hay thu hẹp nó; không mặc định chọn V15 hoặc tiếp tục phát sinh version. Các mục R11/R12 dưới đây ghi bối cảnh và nhánh bàn giao trước đó.
+R15 đã sửa phản hồi của chủ kênh trong V20. Bước tiếp theo là chủ kênh đọc V20 như một lời kể liên tục và chỉ ra chỗ nào vẫn chưa tạo được sự hiện diện của người/nơi hoặc hình ảnh khi nghe; từ đó mới quyết định bản nền cho phần viết tiếp. V05/V06 còn là mốc chất kể; V19 là bản trước sửa để đối chiếu. Các mục R11/R12 dưới đây ghi bối cảnh và nhánh bàn giao trước đó.
 
 R12 giao chuẩn bị master prompt và resource để writer từ provider khác viết một bản mới. [Bộ bàn giao v13-provider](handoff/v13-provider/README.md) gồm prompt, brief/chuẩn đối chiếu, nguyên văn V05/V06 và hồ sơ chất liệu chọn lọc. Đầu ra được giao là mở đầu nối vào di dời và dựng nơi ở tại Brunnepe, kế thừa phạm vi đang phát triển; không áp độ dài. Bộ nguồn chốt tại `6b8f85d`. Chưa có lời kể v13-provider; V13 hiện có vẫn giữ nguyên trạng thái thử nghiệm.
 
@@ -65,7 +69,8 @@ Không dán nguyên v08 ngay sau phần mở mới: thông báo và việc di d�
 ## Các mốc bản thảo
 
 - Bản mở được chủ kênh chọn: chưa có.
-- Bản mới nhất để review: [V15](drafts/vi-v15-architecture-revision.md); [V14](drafts/vi-v14-architecture-experiment.md) là đầu ra trước vòng sửa. Cả hai là thử nghiệm, chưa thay V05/V06 làm mốc chất lượng hoặc nền được chọn. Hồ sơ thực hiện nằm ở R13 trong [revisions](revisions.md).
+- Bản mới nhất để review: [V20](drafts/vi-v20-podcast-sample.md), bản tiếng Việt liên tục của R15; [V19](drafts/vi-v19-podcast-sample.md) là bản trước phản hồi về setup địa danh/nhân vật. [V17](drafts/vi-v17-podcast-sample.md) là nền chi tiết, [V18](drafts/vi-v18-podcast-sample.md) là thử nghiệm cắt gọn, [V16](drafts/vi-v16-podcast-sample.md) là bản đầu vòng. Hồ sơ thực hiện nằm ở R14–R15 trong [revisions](revisions.md). Chưa thay V05/V06 làm mốc chất lượng hoặc nền được chủ kênh chọn.
+- [V15](drafts/vi-v15-architecture-revision.md) và [V14](drafts/vi-v14-architecture-experiment.md) là các bản thử của R13, giữ để đối chiếu trước vòng R14.
 - [V13](drafts/vi-v13-opening-and-relocation.md) giữ làm thử nghiệm trước architecture split. [Đối chiếu R11](revisions.md#r11--22092026--quy-tắc-xử-lý-feedback-và-v13) ghi kết quả và giới hạn.
 - Giữ [review quyết định R10](working/2026-09-22-editorial-decision-audit.md) và [chuẩn R09](working/2026-09-22-writer-benchmark.md) làm tài liệu đối chiếu.
 - [V12](drafts/vi-v12-opening.md) lưu vòng thử không đạt theo R09; [ghi chú của lượt R08](working/2026-09-22-v12-opening-note.md) ghi căn cứ và ý định lúc viết, không xác nhận chất lượng.

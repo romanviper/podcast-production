@@ -1,0 +1,29 @@
+Giữa những cánh đồng bằng phẳng ở Hà Lan vẫn hiện ra đường nét của một bến cảng cũ. Đó là đầu bắc Schokland, dải đất dài chừng bốn cây số. Giữa thế kỷ XIX, Schokland còn là đảo giữa Zuiderzee — một vịnh nước mặn ăn sâu vào đất Hà Lan. Nhà cửa tập trung trên những gò cao hơn phần đất ướt quanh chúng; ở đầu bắc, thuyền có thể tìm vào bến. Mãi đến năm 1942, vùng nước bao quanh đảo mới được bơm cạn để trở thành đồng ruộng.
+
+Khi phần lớn cư dân phải rời Schokland năm 1859, giữa họ và đất liền vẫn là nước. Có những gia đình mang theo cả vật liệu của ngôi nhà mình từng ở: nhà phải được tháo trước khi dầm, ván, khung cửa có thể xuống thuyền. Nhưng trước khi là vật liệu để chở đi, những ngôi nhà ấy thuộc về một nơi có đường đi, trường học và người đang sống trong đó. Một bản ký sự về chuyến thăm đảo trước cuộc di dời cho ta lối vào nơi ấy.
+
+Người viết ký sự là Johannes Zeehuisen, thị trưởng Genemuiden, một thị trấn trên đất liền. Ông đã tới Schokland hai lần; chuyến đi tháng Chín năm 1858 là lần thứ ba. Lần này, ông biết có đề án buộc dân đảo rời đi, trong khi họ vẫn chưa biết sẽ đến đâu. Ở đầu bài, ông nói mình muốn đi khắp đảo, vào tận nhà và nhìn gần đời sống của những người sắp phải rời nơi ở.
+
+Sáng ngày 2 tháng 9, Zeehuisen cùng những người đi với ông lên một chuyến thuyền chợ từ Genemuiden. Sau hơn hai giờ trên nước, họ lên bờ ở Emmeloord — khu dân cư quanh cảng tại mũi bắc Schokland. Trong những ngôi nhà ở đây, Zeehuisen thấy dấu vết cơn bão mùa hè vừa qua: ông viết rằng mái và vách của nhiều nhà bị hư, có nhà theo ông đã khó ở được nữa. Cảng vẫn phục vụ thuyền cá và tàu qua lại, nhưng bùn liên tục bồi khiến lòng cảng nông đi. Những gì ông nhìn thấy vừa là nơi người ta còn dùng mỗi ngày, vừa là nơi luôn phải sửa để tiếp tục dùng.
+
+Tại Emmeloord, Zeehuisen gặp Arnoldus Legebeke, người đã dạy học trên đảo hai mươi sáu năm. Theo Zeehuisen, người thầy đón tiếp niềm nở, quan tâm tới đời sống dân đảo và có thể kể cho ông nghe những khó khăn ở đây.
+
+Từ Emmeloord, Zeehuisen đi tới khu dân cư trên gò giữa đảo mà ông gọi là Ens. Giữa hai khu không có một con đường đất khô rộng rãi. Ông đi trên lối ván phần lớn không có lan can; chuyến đi mất khoảng hai mươi phút. Một bên lối ván là biển. Bên kia, có đoạn là bùn lầy, có đoạn là đá và gạch vụn. Hai khu ở cùng trên một đảo nhỏ, nhưng để đi từ khu này sang khu kia, người ta vẫn phải bước trên những tấm ván đặt giữa nước và đất thấp.
+
+Đây không phải một hòn đảo đã bỏ hoang. Báo cáo cùng năm cho biết trường học ở cả Emmeloord và Ens vẫn hoạt động. Thuyền vẫn dùng cảng, các gia đình vẫn ở trên những gò được nâng cao và mở rộng qua nhiều đời. Bờ và đê được gia cố, rồi vẫn có thể hư hại. Mỗi lần sửa giúp đời sống tiếp tục, nhưng không bảo đảm lần hư hại sau sẽ không đến.
+
+Trong năm Zeehuisen tới thăm, chính phủ Hà Lan đã đưa phương án di dời qua nghị viện. Hồ sơ bàn cả điều kiện sống lẫn khoản chi hằng năm để duy trì đảo, từ trợ giúp cư dân đến công trình biển và cảng. Phương án có bồi thường và hỗ trợ chuyển chỗ, nhưng cũng yêu cầu nhà cửa phải tháo và tài sản phải mang đi. Luật được ký ngày 16 tháng 12 năm 1858.
+
+Ngày 1 tháng 3 năm sau, thông báo đặt ra thời hạn bốn tháng để tháo dỡ và chuyển tài sản khỏi Schokland. Điều còn là viễn cảnh lúc Zeehuisen ghé đảo giờ thành hạn chót. Nếu muốn dùng lại gỗ từ nhà mình, một gia đình phải lấy căn nhà xuống trên đảo, đưa những phần còn dùng được qua nước, rồi có đất để dựng chỗ ở phía bên kia.
+
+Ở phía đất liền bên kia Zuiderzee là Kampen, thành phố gần cửa sông IJssel. Nhiều người Schokland sống bằng nghề cá; ở ngoài tường thành Kampen cũng đã có một xóm chài: Brunnepe. Nhưng đến được Kampen không đồng nghĩa đã có chỗ ở. Giới chức thành phố không muốn những gia đình nghèo từ đảo vào trong tường thành cũ. Ở Brunnepe, dọc đường Noordweg, có những khoảnh đất có thể trở thành nơi ở mới.
+
+Người tìm đất cho một nhóm gia đình chính là Legebeke, thầy giáo Zeehuisen từng gặp ở Emmeloord. Ngày 31 tháng 3 năm 1859, ông mua hai căn nhà ở Noordweg cùng khu vườn phía sau. Vài tuần sau, ông chia khu vườn thành hai mươi mốt lô cho hai mươi mốt gia đình từ Schokland. Từ phía đường nhìn vào, hai căn nhà cũ vẫn đứng trước; phía sau, mỗi phần vườn đã có ranh nhưng chưa tự biến thành chỗ ở.
+
+Một trong những gia đình ấy là nhà Jan Gerrits Bien, trước sống ở Emmeloord. Danh sách cư dân ghi trong nhà ông có vợ, ba con còn nhỏ và một người phụ việc đánh cá ở cùng. Ngày gia đình rời đảo là 4 tháng 5. Hồ sơ còn giữ một việc khác, không ghi ngày cụ thể: căn nhà của họ đã được tháo và chở tới Kampen để dựng chỗ ở mới.
+
+Hồ sơ không theo từng tấm ván từ nhà Jan sang ngôi nhà mới. Những ghi chép về cuộc di dời của các hộ khác nhắc đến gạch, dầm, ván và khung cửa được chất lên thuyền chở về Kampen. Khi còn ghép với nhau trên gò đất, chúng che mưa và chia chỗ ở. Trên thuyền, chúng là vật liệu rời. Tại Brunnepe, người ta tận dụng được một phần để dựng nhà, nhưng không dựng lại nguyên hình những căn nhà trên đảo. Những căn mới thường chỉ rộng khoảng ba mét hai mươi lăm và sâu hơn bốn mét một chút. Ở nhóm nhà được khảo sát, mặt tiền xây bằng gạch; gỗ cũ từ Schokland có lẽ chủ yếu nằm ở dầm, vách ngăn và những phần bên trong.
+
+Đến ngày 30 tháng 10, các căn nhà trong khu vườn đã dựng xong; lúc ấy việc bán đất mới được công chứng. Jan Gerrits Bien có tên trong số những người ký. Mỗi hộ có một lô riêng, nhưng lối đi giữa và sau nhà thuộc về cả khu; ở lối giữa có giếng và bơm nước. Nhiều người đến Brunnepe vẫn sống bằng nghề cá. Trên cao ở mặt trước một số nhà, họ làm cửa mở vào gác để đưa lưới lên dưới mái.
+
+Năm 1858, khi Zeehuisen tới đảo, người dân còn chưa biết mình sẽ ở đâu. Đến cuối tháng Mười năm sau, sau hai căn nhà ở Noordweg đã có một dãy nhà khác. Từ các lô đất, lối đi chung dẫn tới giếng; trên gác có chỗ cho lưới. Còn lối ván Zeehuisen từng đi giữa biển và bùn đã ở lại với hòn đảo.
