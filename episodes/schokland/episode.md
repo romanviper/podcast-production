@@ -1,5 +1,9 @@
 # Schokland — hồ sơ tập
 
+## R26 — 24/09/2026 — kiểm lại đơn vị của tập
+
+Chủ kênh bác câu kết “vùng đất trở lại, cộng đồng cũ đã đi” như luận điểm chính: [story map v06](working/2026-09-24-story-map-v06-full-arc.md) chỉ nối nhiều mốc của Schokland, vẫn không cho bức tranh lịch sử lớn như lời hứa của tập *The Sumerians*. **Không dùng v06 làm trục toàn tập.** [Giả thuyết phạm vi R26: lịch sử Zuiderzee nhìn từ Schokland](working/2026-09-24-r26-zuiderzee-scope-hypothesis.md) thử chuyển chủ thể sang vùng biển, các xã hội sống quanh nó, công trình chặn biển và việc dừng kế hoạch lấn biển về sau. Schokland giữ vai trò dấu tích mở và bước ngoặt cục bộ. Đây là **đề xuất đổi phạm vi, chưa được chủ kênh chọn, chưa có bản lời kể hoặc giao người viết**. Nếu giữ chủ thể duy nhất là Schokland, cần lời hứa ngắn, sâu và nguồn đời sống riêng; không tự gắn nhãn “bức tranh lớn”. [Hồ sơ R26](revisions.md#r26--24092026--kiểm-lại-lời-hứa-và-phạm-vi-tập) ghi nguyên văn feedback và lý do đổi.
+
 ## R25 — 24/09/2026 — sửa kiến trúc nhân quả toàn tập
 
 [Story map v06 — đất, đảo, đất](working/2026-09-24-story-map-v06-full-arc.md) là **giả thuyết cấu trúc mới cho toàn tập**, khởi từ bến cảng trên cạn rồi lần theo canh tác trên than bùn → co lún/xói mòn → đổi sinh kế và giữ đảo → di dời 1859 nhưng giữ cảng 1862 → công trình toàn vùng và đất khô năm 1942. [Hồ sơ R25](revisions.md#r25--24092026--sửa-tầng-kiến-trúc-thay-vì-câu-chữ) lưu nguyên văn phản hồi và lý do thay trục. Bản đồ v05 và V38 vẫn giữ làm lịch sử thử nghiệm **của một đoạn**, không dùng làm xương sống toàn tập; V26 vẫn là nền biên tập tạm đã ghi cho đoạn cũ, không phải bản đã chọn theo kiến trúc v06. Chưa giao Writer, kiểm sâu toàn bộ nguồn hay đánh giá lời kể mới từ v06.
