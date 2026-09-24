@@ -1,5 +1,11 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-24 — Chọn lối điều tra lịch sử cho Schokland
+
+Chủ kênh chọn tiếp tục trên nhánh `experiment/story-investigation-redesign` theo lối kể như một cuộc lần dấu vết, tham khảo cách Defunctland viết documentary có nhịp khám phá gần true crime. [Dàn ý 11 chặng của chủ kênh](../episodes/schokland/working/2026-09-24-owner-historical-mystery-outline.md) vẫn là bản nền; bản mở v01/v02 và các map agent chưa được nâng thành tác phẩm được duyệt. Phản hồi nguyên văn lưu trong [revisions](../episodes/schokland/revisions.md).
+
+Diễn giải làm việc: mỗi chứng cứ được chọn phải làm thay đổi điều người nghe tin hoặc câu hỏi cần điều tra. Giữ mức chắc của tư liệu; không dựng tội ác, hung thủ, đối thoại hay động cơ lịch sử để mượn cảm giác true crime. [Tham chiếu tác phẩm và trục chứng cứ](../episodes/schokland/working/2026-09-24-investigative-form-reference.md) ghi cách áp dụng chọn lọc. Đây là hướng biên tập của tập Schokland, chưa là quy tắc bắt buộc cho mọi tập của kênh.
+
 ## 2026-09-24 — Giữ dàn ý đã chọn qua mọi bàn giao Schokland
 
 ### Phản hồi của chủ kênh
