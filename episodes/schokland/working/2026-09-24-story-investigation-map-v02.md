@@ -1,6 +1,6 @@
 # Schokland — dàn ý trinh thám lịch sử
 
-Bản thử trên nhánh experiment/story-investigation-redesign. **Đang điều tra, chưa giao viết cả tập.** Tài liệu này đặt *cấu trúc trải nghiệm* trước; phần “Tư liệu vào vai” ở cuối mới xét sự kiện nào làm được việc trong cấu trúc ấy. [Hồ sơ nguồn](2026-09-24-investigation-run-v01.md) giữ chi tiết và mức chắc.
+Bản thử do agent dựng trên nhánh experiment/story-investigation-redesign; **không phải dàn ý chủ kênh chọn**. Bản nền sáng tác là [dàn ý 11 chặng do chủ kênh cung cấp](2026-09-24-owner-historical-mystery-outline.md). Tài liệu này giữ làm đối chứng và nguồn gợi ý cục bộ. **Đang điều tra, chưa giao viết cả tập.** Tài liệu này đặt *cấu trúc trải nghiệm* trước; phần “Tư liệu vào vai” ở cuối mới xét sự kiện nào làm được việc trong cấu trúc ấy. [Hồ sơ nguồn](2026-09-24-investigation-run-v01.md) giữ chi tiết và mức chắc.
 
 ## Vụ việc người nghe được mời điều tra
 

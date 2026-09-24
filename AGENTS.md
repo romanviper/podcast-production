@@ -2,9 +2,13 @@
 
 ## Đọc và xác định phạm vi
 
-Trên nhánh experiment/story-investigation-redesign, khi nhiệm vụ liên quan chọn câu chuyện, nghiên cứu Schokland, story architecture, route, viết hoặc review, đọc [thử nghiệm kiến trúc](docs/story-investigation-experiment.md) cùng tài liệu đúng vai. [Dàn ý Schokland](episodes/schokland/working/2026-09-24-story-investigation-map-v02.md) lấy **khung trinh thám lịch sử người dùng đưa** làm đầu vào: lập vụ việc, lời giải tạm, chứng cứ mâu thuẫn, cao trào và cú đảo nghĩa trước khi thử [tư liệu](episodes/schokland/working/2026-09-24-investigation-run-v01.md) vào từng vai. Không biến mốc lịch sử thành “manh mối” chỉ vì nó đã có nguồn. Khi chương qua kiểm nguồn, Writer nhận trật tự tiết lộ toàn tập cùng route của chương, không nhận nguyên sổ nguồn. Chặng 1942 hiện thiếu tuyến người gắn chặt với Schokland; chưa giao viết cả tập. Route 1850–1859 cũ chỉ là mẫu thử trước, không nâng thành toàn tập bằng coda 1942. DNA và giới hạn nguồn vẫn có hiệu lực; bản thảo cũ làm đối chứng.
+Trên nhánh `experiment/story-investigation-redesign`, khi nhiệm vụ liên quan chọn câu chuyện, nghiên cứu Schokland, story architecture, route, viết hoặc review, đọc [thử nghiệm kiến trúc](docs/story-investigation-experiment.md) cùng tài liệu đúng vai.
 
-Đọc `docs/channel-dna.md`, rồi `episode.md` của tập đang làm và những nguồn/bản nháp được nó trỏ tới. Đọc `docs/workflow.md` khi nhiệm vụ liên quan quy trình hoặc vòng sửa. Khi nhiệm vụ là tìm hoặc sàng lọc ứng viên, đọc `docs/candidate-discovery.md`. Không nạp mọi bản nháp cũ, mọi nhận xét và mọi tài liệu vào nhiệm vụ viết.
+**Bản nền Schokland:** [dàn ý trinh thám 11 chặng do chủ kênh chọn](episodes/schokland/working/2026-09-24-owner-historical-mystery-outline.md). [Map v02 do agent thử](episodes/schokland/working/2026-09-24-story-investigation-map-v02.md) chỉ là đối chứng. Giữ trình tự câu hỏi, cảnh dựng quê hương, lời giải tạm, năm 1859 không khớp, cao trào rời đảo, tiết lộ 1942, cú đảo nghĩa và kết. Không chạy lại A–F hay viết khung khác thay cho dàn ý đã chọn.
+
+**Tư liệu và bàn giao:** thử [tư liệu](episodes/schokland/working/2026-09-24-investigation-run-v01.md) theo vai của từng chặng; một mốc lịch sử không tự thành manh mối. Writer nhận **toàn văn dàn ý**, giới hạn nguồn cần thiết và route ngắn, không nhận nguyên sổ nguồn. Chặng 1942 cần kiểm chứng quá trình biến biển thành đất, **không cần một nhân vật cá nhân ở Schokland năm 1942** hay hậu duệ nối hai thời. Nếu còn thiếu chứng cứ quan trọng, ghi đúng chặng thiếu và thử viết phần đã đủ nguồn. Route 1850–1859 cũ chỉ là mẫu thử; DNA và giới hạn nguồn vẫn áp dụng.
+
+Với các tập khác, đọc `docs/channel-dna.md`, rồi `episode.md` của tập đang làm và nguồn/bản nháp được nó trỏ tới. **Với Schokland trên nhánh thử này**, đọc dàn ý gốc và phản hồi của chủ kênh trước; chỉ lấy các mục DNA, episode và nguồn liên quan đúng vai đang làm, không đổ toàn bộ hồ sơ lịch sử vào brief. Đọc `docs/workflow.md` khi nhiệm vụ liên quan quy trình hoặc vòng sửa. Khi tìm/sàng lọc **ứng viên chưa được chọn**, đọc `docs/candidate-discovery.md`. Không nạp mọi bản nháp cũ, mọi nhận xét và mọi tài liệu vào nhiệm vụ viết.
 
 **Ngoại lệ khi nhận vai Narrative Writer / Revision Writer trong `experiment/story-architecture-split`:** chỉ mở các file được liệt kê trong handoff dành cho Writer theo `docs/story-architecture-split.md`. Hướng dẫn chung trong file này vẫn áp dụng, nhưng không tự mở `episode.md`, `revisions.md`, full story map, beat packet, review, notes writer hoặc toàn bộ `docs/workflow.md` để gom thêm ngữ cảnh. Nếu packet thiếu hoặc route còn sai, báo editor/Curator bổ sung rồi mới viết. Editor chịu trách nhiệm chuyển các giới hạn cần thiết từ DNA/workflow vào handoff mà không làm rò reasoning nội bộ.
 
@@ -15,6 +19,8 @@ Chỉ làm phần việc người dùng giao. Review hoặc chẩn đoán không
 Người dùng là tác giả/chủ biên. Agent chính chịu trách nhiệm điều phối, giữ phạm vi, chuyển đầu ra giữa các bước và bàn giao kết quả. Research, biên tập, viết và kiểm tra là các vai trò có thể được tách thành các nhiệm vụ độc lập khi việc tách giúp giảm tải nhận thức và tránh một agent phải tối ưu quá nhiều tiêu chí cùng lúc.
 
 ### Bắt buộc tách sub-agent khi tìm ứng viên
+
+Quy tắc dưới đây chỉ áp dụng khi thực sự tìm/sàng lọc ứng viên chưa được chọn. Khi chủ kênh đã chọn một dàn ý cụ thể, điều phối viên giao bản dàn ý đầy đủ cho người sửa và người kiểm chứng; không nén nó thành premise rồi gửi qua A–F. Mọi đổi hướng lớn phải được nêu riêng, không thay bản nền bằng một thử nghiệm tự chấm.
 
 Khi nhiệm vụ là tìm hoặc sàng lọc ứng viên theo `docs/candidate-discovery.md`, **không giao toàn bộ chuỗi A–F cho cùng một agent trong một lượt**.
 

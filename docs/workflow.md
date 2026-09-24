@@ -3,7 +3,7 @@
 Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-24.
 Trạng thái: thiết kế ban đầu theo yêu cầu chủ kênh; chưa được kiểm nghiệm bằng một tập hoàn chỉnh.
 
-**Nhánh experiment/story-investigation-redesign:** áp dụng [thử nghiệm kiến trúc điều tra lịch sử](story-investigation-experiment.md) từ chọn ứng viên, nghiên cứu, dựng tập, bàn giao Writer đến review. Các quy tắc bảo vệ nguồn và bản nền dưới đây tiếp tục áp dụng. Những đoạn mô tả đường đi cũ là lịch sử đối chứng khi mâu thuẫn với thí nghiệm mới.
+**Nhánh experiment/story-investigation-redesign:** áp dụng [thử nghiệm kiến trúc điều tra lịch sử](story-investigation-experiment.md) cho việc nghiên cứu, dựng tập, bàn giao Writer và review; chỉ dùng chuỗi chọn ứng viên khi chưa có dàn ý được chủ kênh chọn. Các quy tắc bảo vệ nguồn và bản nền dưới đây tiếp tục áp dụng. Những đoạn mô tả đường đi cũ là lịch sử đối chứng khi mâu thuẫn với thí nghiệm mới.
 
 ## Kiến trúc: tài liệu ổn định, hồ sơ tập, phiên bản bản thảo
 
@@ -52,7 +52,7 @@ Trong episode.md, viết ngắn gọn:
 
 Tầm quan trọng của công cụ không tự động làm nó thành một tập tốt. Nếu nhu cầu nguyên thủy đã được giải quyết gần như trọn vẹn và research không tìm thấy human story, contradiction, trade-off hoặc tension còn sống, có thể thu hẹp góc nhìn, đổi chủ thể hoặc bỏ đề tài. Không bịa nghịch lý triết học để cứu một subject yếu.
 
-Nếu nhiệm vụ là chọn đề tài, so sánh một số phương án đủ khác nhau rồi đưa ra khuyến nghị. Nếu chủ kênh đã chọn đề tài, tiếp tục nghiên cứu trong phạm vi đó.
+Nếu nhiệm vụ là chọn đề tài, so sánh một số phương án đủ khác nhau rồi đưa ra khuyến nghị. Nếu chủ kênh đã chọn đề tài, tiếp tục nghiên cứu trong phạm vi đó. Nếu chủ kênh đã chọn **một dàn ý cụ thể**, lưu và chuyển nguyên bản dàn ý cho người biên tập; nghiên cứu kiểm từng chặng, không chạy lại chuỗi tìm ứng viên để thay cấu trúc.
 
 ## 2. Nghiên cứu để tìm câu chuyện
 
@@ -154,7 +154,7 @@ Khi một đoạn đã đủ liền mạch, có thể đọc thành tiếng ho�
 
 Lưu nguyên văn feedback trong revisions.md, tách khỏi diễn giải của trợ lý. Nhận xét như “khô”, “rời rạc”, “chưa thấy đáng quan tâm” mô tả trải nghiệm cần cải thiện; không tự chuyển chúng thành lệnh thêm một thành phần. Chỉ dẫn cụ thể của chủ kênh vẫn phải được tôn trọng. Ví dụ minh họa của chủ kênh không tự trở thành câu chữ bắt buộc hoặc dữ kiện lịch sử.
 
-Chọn bản nền bằng đường dẫn và commit, dựa vào chất lượng còn hữu ích cho phần đang sửa, không dựa vào số phiên bản mới nhất. Trỏ riêng bản đã được chủ kênh chọn, nếu có. Xác định những phẩm chất cần giữ bằng đoạn cụ thể và phản hồi liên quan; phân biệt chủ kênh đã đánh giá với nhận định của trợ lý. Giữ tác dụng của chi tiết, không bắt giữ nguyên mọi câu, cảnh hoặc lỗi của bản cũ.
+Chọn bản nền bằng đường dẫn và commit, dựa vào chất lượng còn hữu ích cho phần đang sửa, không dựa vào số phiên bản mới nhất. Trỏ riêng bản đã được chủ kênh chọn, nếu có; quy tắc này cũng áp dụng cho dàn ý trước draft. Xác định những phẩm chất cần giữ bằng đoạn cụ thể và phản hồi liên quan; phân biệt chủ kênh đã đánh giá với nhận định của trợ lý. Giữ tác dụng của chi tiết, không bắt giữ nguyên mọi câu, cảnh hoặc lỗi của bản cũ.
 
 Feedback mới không xóa các mục tiêu trước đó. Nếu chủ kênh đổi hướng, ghi rõ điều được thay thế. Không bắt chủ kênh nhắc lại toàn bộ yêu cầu hoặc duyệt cách diễn giải mỗi lượt; chỉ hỏi khi sự mơ hồ thực sự làm thay đổi hướng kể.
 

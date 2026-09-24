@@ -1,5 +1,23 @@
 # Quyết định và điểm còn mở
 
+## 2026-09-24 — Giữ dàn ý đã chọn qua mọi bàn giao Schokland
+
+### Phản hồi của chủ kênh
+
+> dàn ý mà tôi cung cấp ban đầu đã rất hay ... việc cần làm chỉ cần là tinh chỉnh và kịch tính hóa những phần cần thiết
+
+> workflow và các giá trị input đang gây nhiễu nặng nề cho các Sub Agent
+
+### Bằng chứng và diễn giải
+
+[Dàn ý 11 chặng gốc](../episodes/schokland/working/2026-09-24-owner-historical-mystery-outline.md) đã có bí ẩn địa hình, dựng lại cộng đồng, lời giải biển, câu hỏi về năm 1859, cao trào rời đi, tiết lộ 1942 và đảo nghĩa hình ảnh mở đầu. [Quy trình A–F](candidate-discovery.md) yêu cầu lượt A chỉ xuất premise 2–3 câu, nén đầu ra khi chuyển lượt; [nhật ký thực hiện](../episodes/schokland/working/2026-09-24-investigation-run-v01.md) cho thấy dàn ý đã bị thu thành hình cảng giữa ruộng/1859/1942 rồi các lượt B–E đổi trọng tâm sang việc duy trì đất và tư liệu theo người khác. [Map v02](../episodes/schokland/working/2026-09-24-story-investigation-map-v02.md) có lại nhiều tên chặng, nhưng chưa giữ đủ nhịp hình ảnh và cao trào như bản gốc. Đó là quan sát về đặc tả, bàn giao và đầu ra; không chứng minh năng lực nội tại của từng sub-agent suy giảm.
+
+### Thay đổi và giới hạn
+
+Giới hạn A–F ở ứng viên chưa chọn. Khi có dàn ý chủ kênh chọn, điều phối chuyển **toàn văn bản nền** cho Architect/Curator/Writer, kiểm tư liệu theo từng chặng, và yêu cầu đề xuất biên tập nêu cụ thể thay đổi/hiệu quả/mức nguồn. Bản do agent dựng giữ làm đối chứng. Điều kiện cũ buộc chặng 1942 phải có người gắn riêng với đảo được bỏ: cú đảo nghĩa có thể được kể qua công trình và tác nhân tập thể, miễn có đủ chứng cứ. Quy tắc lưu bản nền áp dụng từ dàn ý trước draft; không sửa DNA kênh hoặc tuyên bố một cảnh lịch sử chưa được kiểm đã đúng. Chưa chạy lại Writer hoặc chứng minh chất lượng output mới đã tăng; cần so bản sửa thật với dàn ý gốc.
+
+---
+
 ## 2026-09-22 — Feedback phải cải thiện lời kể, không chỉ hoàn thành thao tác sửa
 
 ### Nguyên văn của chủ kênh

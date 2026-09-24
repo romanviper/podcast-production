@@ -4,6 +4,10 @@ Cập nhật: 2026-09-17.
 
 Mục tiêu của tài liệu này là tránh giao cho một writer cùng lúc quá nhiều trách nhiệm: tìm đề tài, tạo sức hút, tìm chiều sâu triết học, kiểm tra thị trường, kiểm tra nguồn và dựng câu chuyện. Khi các yêu cầu này bị gộp vào một lượt, AI dễ điền đủ các ô bằng những câu nghe hợp lý nhưng không thật sự tìm được một ý tưởng đáng quan tâm.
 
+## Phạm vi áp dụng
+
+A–F dùng để **tìm và chọn ý tưởng khi chưa có dàn ý được chủ kênh chọn**. Nếu chủ kênh đã cung cấp và chọn một cấu trúc cụ thể, đi thẳng tới biên tập cấu trúc đó và kiểm chứng các chặng; không chạy A–F để tái chọn cùng một ý tưởng. Một dàn ý hoàn chỉnh không được chuyển cho lượt A chỉ để lấy premise 2–3 câu rồi coi premise đó là đầu vào thay thế cho Story Architect. Market research hoặc source check vẫn có thể được giao thành việc riêng, với bản dàn ý đầy đủ và câu hỏi kiểm tra đúng chặng.
+
 ## Nguyên tắc chung
 
 Mỗi lượt chỉ giải **một câu hỏi biên tập chính**. Đầu ra của lượt trước là đầu vào của lượt sau. Không yêu cầu một agent chứng minh mọi tiêu chí của ứng viên trong cùng một phản hồi.
@@ -21,7 +25,7 @@ Agent chính là điều phối viên, không phải người tự thực hiện
 - Không đưa cho sub-agent toàn bộ checklist của các lượt sau; không yêu cầu nó tự dự đoán hoặc tối ưu những tiêu chí chưa đến lượt.
 - Agent chính chỉ hợp nhất, loại và chuyển giao; không tự bổ sung phần triết học, thị trường hoặc nguồn để cứu một đầu ra yếu.
 - Có thể dùng nhiều sub-agent song song trong cùng một lượt để mở rộng vùng tìm kiếm, nhưng tất cả phải cùng một trách nhiệm. Không để một sub-agent chạy từ premise đến market/research hoàn chỉnh.
-- Kết quả của lượt trước nên được nén về đúng phần lượt sau cần, để sub-agent mới không bị neo bởi toàn bộ quá trình suy luận cũ.
+- Trong chuỗi **khám phá ứng viên chưa chọn**, kết quả lượt trước có thể nén về phần lượt sau cần. Không nén tác phẩm tham chiếu, cấu trúc đã chọn hoặc phản hồi của chủ kênh thành một premise; chúng phải đi cùng nhiệm vụ sửa tác phẩm.
 
 Mục đích của việc dùng sub-agent không phải tăng số lượng agent, mà là **cô lập trách nhiệm và ngữ cảnh**. Nếu môi trường không hỗ trợ sub-agent, vẫn phải mô phỏng cách làm này bằng các lượt độc lập với ngữ cảnh tối thiểu.
 
