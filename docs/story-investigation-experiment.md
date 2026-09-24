@@ -12,8 +12,8 @@ Giả thuyết thử: trước khi dựng một đoạn đẹp, Architect phải
 
 - Chủ kênh định hướng giá trị và đánh giá trải nghiệm. Phản hồi mới về bức tranh lớn và kịch tính thay thế giả định rằng tuyến căn nhà 1859 đủ gánh toàn tập; nó không tự xóa phẩm chất của các đoạn 1859 đã viết.
 - Điều phối viên phân biệt một **tập dài**, một **chương** và một **phép thử giọng**. Không đổi nhãn một chương đã viết xong thành tập hoàn chỉnh vì đã thêm mở đầu và kết.
-- Researcher tìm sự kiện, người trong cuộc, văn bản, đối chứng và vùng không biết; ghi đúng mức tiếp cận. Một nguồn thuật lại văn kiện khác với văn kiện gốc.
-- Story Architect giải câu chuyện **toàn tập** trước, sau đó chọn các chương có thể viết. Architect sở hữu lời hứa với khán giả, câu hỏi đang phát triển, lựa chọn/áp lực/hậu quả, thang quy mô, nhịp cảm xúc và điều kiện để một phần thật sự dẫn đến phần kế.
+- Story Architect nhận premise và cấu trúc tham chiếu của chủ kênh để dựng **khung thể loại của toàn tập trước**: hiện trường, chuỗi câu hỏi, lời giải tạm, điểm không khớp, cao trào và cú đảo nghĩa. Nêu rõ loại chứng cứ và đường người cần cho từng chặng, để ô chưa có tư liệu trống. Sau nghiên cứu, Architect sửa hoặc bỏ khung nếu lịch sử không nâng đỡ nó.
+- Researcher đi tìm sự kiện, người trong cuộc, văn bản và đối chứng để **thử từng vị trí đã định**, đồng thời báo điều chứng cứ bác bỏ và cơ hội mới phát hiện. Nghiên cứu không được tự lắp các fact hay thành một tuyến khác mà bỏ khung chưa thảo luận với Architect. Ghi đúng mức tiếp cận; nguồn thuật lại văn kiện khác văn kiện gốc.
 - Beat & Evidence Curator kiểm chứng từng chặng, chọn ít chất liệu có sức đẩy và trả phần không được chứng minh về Architect. Curator không vá lỗ hổng ở 1942 bằng lời bình.
 - Narrative Writer viết trải nghiệm nghe từ một route đã khóa; Writer có quyền dựng nhịp, chọn chi tiết, ở lại với cảnh và đổi cách nối, nhưng không phải phát minh xung đột hoặc tự nối hai giai đoạn không có bằng chứng.
 - Reviewer đọc lời kể trước bản đồ truyện. Sau đó chẩn đoán lỗi thuộc lời hứa/quy mô, quyết định kiến trúc, chất liệu, route hay câu chữ. Revision Writer chỉ sửa câu chữ/cảnh khi cấu trúc đủ sức gánh mục tiêu.
@@ -24,11 +24,11 @@ Có thể làm các vai ở các lượt cô lập, không cần tạo nhiều a
 
 Các lượt A–D trong candidate-discovery.md vẫn tìm sức hút, điều chưa biết, ý nghĩa dự kiến và lãnh thổ biên tập. Ở lượt E kiểm thêm một câu hỏi độc lập: **sau khi hook được giải, con người nào còn đang cố làm điều gì dưới sức ép nào, và tài liệu cho phép ta theo sự thay đổi ấy đến đâu?** Nếu câu trả lời chỉ là “có nhiều mốc quan trọng”, hạ ưu tiên tập dài. Một mystery về địa hình được giải trong một phút không đủ nuôi cả tập; một mâu thuẫn nghe sâu sắc chưa đủ nếu không có biến cố. Ở lượt F, nghiên cứu phải có quyền phá premise ban đầu.
 
-Tại hồ sơ tập, viết một đoạn văn xuôi đủ dài để thấy được câu chuyện từ đầu đến cuối, gồm: tình thế đầu, người/chủ thể và điều muốn giữ hoặc đạt; sức ép; ít nhất một cách đối phó có hồ sơ; bước ngoặt thay đổi khả năng lựa chọn; hệ quả; chủ thể mới nếu đổi thời đại; thành tựu thực; và câu hỏi được biến đổi ở cuối. Đây là **bản kể trừu tượng của trải nghiệm và nội dung**, không phải lời dẫn và không phải một mệnh đề triết học gắn vào câu cuối. Thử bỏ một chặng: nếu 1942 có thể bỏ mà truyện 1859 không đổi, tuyến 1942 chưa được giải.
+Ở lượt Story Architect, dựng **hình thức kể trước khi chọn dữ kiện để lấp chặng**. Nếu dùng trinh thám lịch sử, khóa hiện trường, chuỗi câu hỏi, một lời giải có vẻ đủ, chứng cứ làm lộ chỗ thiếu, cuộc điều tra sâu hơn, cao trào có hậu quả cho con người và cú đảo chiều làm hình ảnh đầu đổi nghĩa. Nếu chủ kênh đã đưa cấu trúc mẫu, giữ cơ chế ấy; các tài liệu tìm được phải thử xem có gánh nổi từng vị trí không. Một fact hay không tự được nâng thành manh mối. Khi nguồn không lấp nổi vai trò cần thiết, để chỗ trống, đổi phạm vi hoặc sửa khung truyện; nghiên cứu có quyền phá premise ban đầu. Sau đó mới viết bản kể trừu tượng của trải nghiệm toàn tập. Thử bỏ một chặng: nếu 1942 có thể bỏ mà truyện 1859 không đổi, tuyến 1942 chưa được giải.
 
 ## Hai đường phải tiến cùng nhau
 
-**Đường khám phá:** một dấu vết hoặc sự kiện mở câu hỏi; chứng cứ trả lời nó đúng lúc; câu trả lời làm nảy sinh câu hỏi lớn hơn. Người nghe không bị giữ trong một “bí ẩn” mà thông tin địa lý đơn giản đã giải được. Một lời giải thích ban đầu có thể đúng một phần, không bị dựng thành lời giải giả để tạo cú lật.
+**Đường khám phá:** một dấu vết mở câu hỏi; một chứng cứ trả lời nó đúng lúc và đồng thời gây ra câu hỏi lớn hơn. Ghi **điều người nghe đang tin trước và sau mỗi chặng**. Với Schokland, trục do chủ kênh đưa là đảo không biển → từng có biển → cư dân mất tích → biển có vẻ là nguyên nhân → năm 1859 không khớp lời giải chỉ bằng bão → lần theo quyết định và cuộc rời đi → biển biến thành đất → trở lại đảo. Kể các mốc theo thời gian mà không có lời giải tạm, manh mối mâu thuẫn và đảo nghĩa là trượt thể loại. Biển nguy hiểm là thật; không bịa lời giải sai để có cú lật.
 
 **Đường người trong cuộc:** người/nhóm/thiết chế có mục tiêu có thể chỉ ra; họ làm hoặc quyết định điều được nguồn ghi; sức ép và những phương án có thật làm đổi tình thế; kết quả ảnh hưởng tới ai. Cùng một nơi qua nhiều thế kỷ không chứng minh đó là cùng một cộng đồng hoặc một kế hoạch liên tục. Khi đổi từ gia đình sang chính quyền, từ 1859 sang công trình thế kỷ XX, ghi rõ đổi chủ thể và lợi ích. Một hòn đảo, căn nhà hoặc bản đồ là vật dẫn quan sát; nó không tự có mong muốn hay quyết định.
 
@@ -36,7 +36,7 @@ Tại hồ sơ tập, viết một đoạn văn xuôi đủ dài để thấy đ
 
 ## Bản đồ truyện và cổng chứng cứ
 
-Story map phải đọc được như một câu chuyện trước khi dùng như hồ sơ biên tập. Mở bằng 3–5 đoạn văn xuôi theo tình thế, hành động và hệ quả của **toàn tập**, rồi vài bước ngắn theo thứ tự nghe. Tách liên kết và mức chắc của nguồn xuống cuối hoặc sang hồ sơ nghiên cứu; chỉ giữ trong thân câu chuyện giới hạn nào thực sự đổi ý nghĩa sự việc. Một người chưa biết đề tài phải có thể kể lại chuyện gì xảy ra, vì sao bước sau xuất hiện và ai chịu hậu quả. Nếu chỉ làm được bằng một bảng nhiều cột hoặc một danh sách biến cố, tiếp tục giải câu chuyện. Chỉ tách map chương khi đã rõ vị trí của nó trong toàn tập.
+Story map có hai lớp theo **đúng thứ tự làm việc**: (1) khung tác phẩm và trật tự tiết lộ, với chức năng của từng manh mối/bước ngoặt; (2) tư liệu được thử vào đúng vai trò ấy, có chỗ trống ghi rõ. Đọc lớp đầu phải thấy một cuộc điều tra hay một dạng truyện đã chọn, không phải tóm tắt nghiên cứu. Đọc lớp sau phải biết nguồn nào đủ, nguồn nào chỉ là chi tiết bên lề và vai nào chưa có người/sự kiện gánh được. Tách liên kết và mức chắc xuống cuối. Chỉ tách map chương khi đã rõ vị trí trong toàn tập.
 
 Ba trạng thái bàn giao:
 - **Đang điều tra:** có tiềm năng nhưng thiếu người, biến cố hoặc quan hệ nhân quả ở chặng quyết định. Viết thử một đoạn đã đủ nguồn được, gọi đúng là phép thử chương; chưa giao viết toàn tập.
@@ -47,7 +47,7 @@ Ba trạng thái bàn giao:
 
 ## Bàn giao cho Writer
 
-Khi phạm vi được kiểm nguồn và quyết định viết thử, Editor đưa Writer một **bản kể ngắn, dễ hiểu của toàn tập** để biết phần đang viết dẫn tới đâu, rồi route cho đúng chương: một câu hỏi cụ thể, người trong cuộc, hành động, sức ép và tình thế sau bước ngoặt. Chọn vài trích đoạn, vật thể, địa điểm và giới hạn nguồn thực sự cần. Không gửi nguyên sổ kiểm chứng, bảng nhiều cột, khẩu hiệu ý nghĩa, nhãn cảm xúc, điểm review hay câu mẫu cho Writer chép lại. Nếu người đọc không thể thuật lại câu chuyện từ bản kể ngắn mà không mở bảng giải thích, trả về Architect sửa trước khi viết.
+Khi phạm vi đã được kiểm nguồn và quyết định viết thử, Editor đưa Writer **vụ việc và trật tự tiết lộ của toàn tập**: người nghe đang tin điều gì ở đầu chương, manh mối/hành động nào làm họ xét lại và chương phải để lại câu hỏi gì. Kèm một route ngắn cho người trong cuộc, sức ép, hệ quả cùng vài trích đoạn, vật thể và giới hạn nguồn cần thiết. Không gửi sổ kiểm chứng dài, bảng nhiều cột, khẩu hiệu ý nghĩa, nhãn cảm xúc hay câu mẫu. Nếu Writer chỉ có thể nhắc lại các mốc mà không thuật lại được tiến trình điều tra, trả về Architect trước khi viết.
 
 Writer có quyền trả route nếu nó chỉ là chuỗi facts, nếu cảnh đẹp không làm bài toán đổi trạng thái, hoặc nếu chặng kết nối 1859 với 1942 bằng một câu suy luận chưa chứng minh. Editor/Architect xử lý ở đúng tầng; không yêu cầu Writer “làm nó điện ảnh hơn” để lấp chỗ thiếu.
 

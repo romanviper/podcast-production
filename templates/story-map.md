@@ -1,28 +1,26 @@
-# Dàn ý câu chuyện — mẫu dùng cho Story Architect
+# Dàn ý câu chuyện — mẫu cho Story Architect
 
 Bản biên tập nội bộ. Chỉ giao viết khi phạm vi đã qua kiểm nguồn.
 
-## Câu chuyện trong một hơi
+## 1. Khung tác phẩm, trước khi điền sự kiện
 
-Viết 3–5 đoạn văn xuôi mà một người chưa biết đề tài có thể đọc liên tục và kể lại: ta bắt đầu ở đâu; ai muốn giữ hoặc đạt điều gì; họ đã làm gì; điều gì đổi tình thế; việc ấy dẫn đến hậu quả nào; câu chuyện kết ở một vị trí khác ra sao. Nếu đổi thời đại hoặc nhóm người, nói thẳng điều đó. Dùng từ thông thường và sự việc cụ thể. Không chèn trích nguồn, mức chắc, chức danh agent, câu hỏi về quy trình hay lời bình “khán giả cần cảm thấy” giữa đoạn kể. Sự bất định nào làm thay đổi nghĩa câu chuyện thì vẫn nói rõ.
+Chọn hình thức kể và điều người nghe sẽ trải qua. Nếu chủ kênh cung cấp cấu trúc tham chiếu, dùng nó làm điểm xuất phát. Với **trinh thám lịch sử**, xác định: hiện trường và câu hỏi mở; lời giải đầu tiên đủ thuyết phục; manh mối cho thấy lời giải ấy chưa đủ; việc điều tra tiếp làm lộ quyết định/hệ quả nào; cú đảo chiều cuối thay đổi nghĩa hình ảnh mở đầu ra sao. Đây là những vị trí của câu chuyện, chưa phải danh sách mốc. Một lời giải đầu có thể đúng một phần; không tạo thủ phạm giả hoặc giấu một thông tin địa lý đơn giản chỉ để câu chuyện có vẻ bí ẩn.
 
-[3–5 đoạn kể]
+[Viết một đoạn ngắn về vụ việc, trật tự khám phá và cái giá con người]
 
-## Các bước để kể
+## 2. Trình tự khám phá
 
-Viết vài bước ngắn theo trật tự người nghe sẽ trải qua. Mỗi bước chỉ cần: điều họ đang muốn biết, sự việc/người làm tình thế đổi và điều khiến họ muốn đi tiếp. Bước nào có thể bỏ mà câu chuyện không thay đổi thì xóa hoặc quay lại nghiên cứu.
+Viết các chặng theo thứ tự **người nghe biết**, không mặc định theo thứ tự lịch sử. Mỗi chặng nêu câu hỏi còn mở, loại manh mối hoặc hành động cần xuất hiện, điều người nghe tạm tin sau đó và câu hỏi mới do chính chặng ấy tạo ra. Cho người nghe thấy con người muốn giữ/đạt điều gì trước cao trào mất mát. Nếu một chặng bỏ đi mà niềm tin và tình thế tiếp theo không đổi, nó chưa làm việc trong tác phẩm.
 
-1. [Sự việc, tình thế đổi và bước tiếp]
+1. [Câu hỏi → loại chứng cứ cần → cách hiểu đổi → câu hỏi mới]
 2. [...]
 
-## Chỗ chưa đủ để viết
+## 3. Tư liệu vào vai, sau khi khung đã có
 
-Nói rõ một hoặc hai điểm gãy thật sự: thiếu sự kiện, thiếu người/hành động, thiếu nguồn, hoặc đoạn nối chỉ là phép đối chiếu chứ không phải nhân quả. Ghi phạm vi nào có thể thử và phạm vi nào chưa thể giao. Không để Writer phải tự sáng tác phần nối.
+Với mỗi chặng, thử gán sự kiện/nguồn **theo chức năng đã định**. Chứng cứ có thay đổi cách hiểu, đẩy lựa chọn hay làm tăng sức ép không? Nếu chỉ là một fact hay bên lề thú vị, không đặt nó vào vai bước ngoặt. Ghi “chưa có” khi thiếu một người, hành động, hậu quả hoặc mối nối đủ nguồn; không lấy sự kiện ở vùng khác làm nhân vật của hiện trường. Nguồn có quyền buộc sửa hoặc bỏ chính khung truyện.
 
-## Ghi chú kiểm chứng — đọc sau câu chuyện
+Tách liên kết, mức tiếp cận (văn bản gốc, bản chép, khảo cứu, hồi ức) và cảnh không được dựng xuống cuối hoặc sang hồ sơ nghiên cứu. Giữ trong phần kể những giới hạn thực sự làm đổi nghĩa câu chuyện.
 
-Tách liên kết và giới hạn nguồn khỏi phần kể. Ghi nguồn của các bước ngoặt, mức tiếp cận (văn bản gốc, bản chép, nghiên cứu, hồi ức), và những cảnh/suy luận chưa được phép. Nếu sổ nguồn dài, trỏ sang hồ sơ nghiên cứu thay vì nhồi vào từng bước.
+## 4. Bàn giao
 
-## Khi bàn giao
-
-Sau khi Curator kiểm và chọn phần viết, đưa Writer **bản kể toàn tập đã rút gọn, dễ hiểu** cùng các bước thuộc phần được giao và vài nguồn cần dùng. Không chuyển cả sổ kiểm chứng, checklist hoặc kết luận triết học để Writer diễn lại. Yêu cầu người nhận nói lại câu chuyện và xác định chỗ thiếu; nếu họ không làm được, sửa dàn ý hoặc phần bàn giao trước khi viết.
+Sau khi Curator kiểm nguồn và chọn phần viết, đưa Writer **vụ việc và trật tự tiết lộ của toàn tập** cùng các manh mối đã xác minh thuộc chương được giao. Không đưa sổ nguồn dài, khẩu hiệu triết học hoặc nhãn cảm xúc để Writer chép thành lời dẫn. Nếu người nhận chỉ thuật lại được các năm mà không kể được điều khán giả tin rồi phải xét lại, trả dàn ý về Architect.
