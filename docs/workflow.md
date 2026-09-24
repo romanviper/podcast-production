@@ -1,6 +1,6 @@
 # Workflow biên tập v0.1
 
-Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-22.
+Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-24.
 Trạng thái: thiết kế ban đầu theo yêu cầu chủ kênh; chưa được kiểm nghiệm bằng một tập hoàn chỉnh.
 
 **Nhánh experiment/story-investigation-redesign:** áp dụng [thử nghiệm kiến trúc điều tra lịch sử](story-investigation-experiment.md) từ chọn ứng viên, nghiên cứu, dựng tập, bàn giao Writer đến review. Các quy tắc bảo vệ nguồn và bản nền dưới đây tiếp tục áp dụng. Những đoạn mô tả đường đi cũ là lịch sử đối chứng khi mâu thuẫn với thí nghiệm mới.

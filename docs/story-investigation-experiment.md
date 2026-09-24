@@ -24,7 +24,7 @@ Có thể làm các vai ở các lượt cô lập, không cần tạo nhiều a
 
 Các lượt A–D trong candidate-discovery.md vẫn tìm sức hút, điều chưa biết, ý nghĩa dự kiến và lãnh thổ biên tập. Ở lượt E kiểm thêm một câu hỏi độc lập: **sau khi hook được giải, con người nào còn đang cố làm điều gì dưới sức ép nào, và tài liệu cho phép ta theo sự thay đổi ấy đến đâu?** Nếu câu trả lời chỉ là “có nhiều mốc quan trọng”, hạ ưu tiên tập dài. Một mystery về địa hình được giải trong một phút không đủ nuôi cả tập; một mâu thuẫn nghe sâu sắc chưa đủ nếu không có biến cố. Ở lượt F, nghiên cứu phải có quyền phá premise ban đầu.
 
-Tại hồ sơ tập, viết một đoạn văn xuôi đủ dài để thấy được câu chuyện từ đầu đến cuối tóm từ đầu đến cuối, gồm: tình thế đầu, người/chủ thể và điều muốn giữ hoặc đạt; sức ép; ít nhất một cách đối phó có hồ sơ; bước ngoặt thay đổi khả năng lựa chọn; hệ quả; chủ thể mới nếu đổi thời đại; thành tựu thực; và câu hỏi được biến đổi ở cuối. Đây là **bản kể trừu tượng của trải nghiệm và nội dung**, không phải lời dẫn và không phải một mệnh đề triết học gắn vào câu cuối. Thử bỏ một chặng: nếu 1942 có thể bỏ mà truyện 1859 không đổi, tuyến 1942 chưa được giải.
+Tại hồ sơ tập, viết một đoạn văn xuôi đủ dài để thấy được câu chuyện từ đầu đến cuối, gồm: tình thế đầu, người/chủ thể và điều muốn giữ hoặc đạt; sức ép; ít nhất một cách đối phó có hồ sơ; bước ngoặt thay đổi khả năng lựa chọn; hệ quả; chủ thể mới nếu đổi thời đại; thành tựu thực; và câu hỏi được biến đổi ở cuối. Đây là **bản kể trừu tượng của trải nghiệm và nội dung**, không phải lời dẫn và không phải một mệnh đề triết học gắn vào câu cuối. Thử bỏ một chặng: nếu 1942 có thể bỏ mà truyện 1859 không đổi, tuyến 1942 chưa được giải.
 
 ## Hai đường phải tiến cùng nhau
 
