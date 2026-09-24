@@ -10,9 +10,9 @@ Trước khi trả lời, phải nhìn về một xóm khác của Schokland, n�
 
 Đến tháng Mười một, thị trưởng Gillot viết rằng có gia đình đã dùng tiền bồi thường để trả nợ cho các cửa hàng trên đảo. Ông sợ rồi họ sẽ không còn đủ tiền mua một nơi ở tử tế. Có người đã mua nhà cũ, sửa bằng những phần tháo từ nhà mình; theo lá thư ông viết lúc đó, chưa ai xây nhà mới.
 
-Gillot muốn giữ tiền bồi thường tại chính quyền địa phương và chỉ giải ngân theo việc dựng nhà. Cơ quan công trình Waterstaat phản đối cách đưa điều kiện ấy vào thỏa thuận. Những người có nhà phải dời cũng không chịu gửi lại khoản tiền của mình. Cuộc tranh chấp đi đến một chỗ rất hẹp: ai được quyết định một gia đình nghèo giải quyết món nợ cũ trước, hay dành tiền cho mái nhà chưa dựng? Mỗi bên đều nhìn thấy một tai họa có thể xảy ra. Không bên nào phải sống hộ bên kia với hậu quả của quyết định ấy.
+Gillot muốn giữ tiền bồi thường tại chính quyền địa phương và chỉ giải ngân theo việc dựng nhà. Cơ quan công trình Waterstaat cho rằng điều kiện ấy khó ghi thành thỏa thuận hợp pháp. Những người có nhà phải dời cũng không chịu gửi lại khoản tiền của mình. Cuộc tranh chấp đi đến một chỗ rất hẹp: ai được quyết định một gia đình nghèo giải quyết món nợ cũ trước, hay dành tiền cho mái nhà chưa dựng? Trên giấy tờ, đó là chuyện ai giữ tiền. Với gia đình sắp mất chỗ ở, đó là quyền xoay xở giữa món nợ đã đến hạn và mái nhà chưa dựng.
 
-Năm 1859, không còn xóm khác trên đảo để mọi người cùng lùi tới. Tháng Ba, lệnh mới đặt thời hạn cho cả cộng đồng. Có người không muốn bỏ nhà. Có người yêu cầu thêm tiền cho chính công việc tháo nó xuống. Chưa đầy ba tuần sau thông báo, tỉnh đồng ý trả thêm một khoản cho những người tháo dỡ để đi. Một nhượng bộ nhỏ, nhưng rất thật: phần việc nặng nhọc mà văn bản gọi là “rời đảo” cuối cùng đã có tên và có giá.
+Năm 1859, không còn xóm khác trên đảo để mọi người cùng lùi tới. Tháng Ba, lệnh mới đặt thời hạn cho cả cộng đồng. Có người không muốn bỏ nhà. Có người yêu cầu thêm tiền cho chính công việc tháo nó xuống. Chưa đầy ba tuần sau thông báo, tỉnh đồng ý trả thêm một khoản cho những người tháo dỡ để đi. Một bước nhượng bộ có thật: phần việc nặng nhọc mà văn bản gọi là “rời đảo” cuối cùng đã có tên và có giá.
 
 Rồi đến câu hỏi mà khoản tiền ấy vẫn chưa trả lời: dựng lại ở đâu?
 
