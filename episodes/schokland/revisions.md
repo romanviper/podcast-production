@@ -476,3 +476,22 @@ Phản hồi nối tiếp yêu cầu mở bằng điều khó tin, lần theo ma
 Tạo [V38 chặng rời đảo](drafts/vi-v38-relocation-conflict-scene.md) trên nhánh thử riêng. Đoạn mở bằng nghịch lý phải tháo nhà dù đảo vẫn là nơi tàu trú, lùi sang 1854 để theo chuyện tiền cứu trợ trở thành tiền trả nợ, trở về 1859 với một nhượng bộ, chuyển đến phản đối ở Kampen và giải pháp một khu vườn ở Brunnepe. Đây là một **đoạn liên tục**, không đóng giả kịch bản cả tập, và không dùng 1942 như lời giải sớm.
 
 Tự đọc trên bản chữ: chuỗi quyết định về tiền, nhà và đất tạo được các bước đảo chiều dễ theo hơn danh mục ngày tháng; nhưng đoạn giữa vẫn có những câu giải thích thay vì khiến người nghe tự cảm thấy căng thẳng, và phần cuối chưa kiểm được nhịp nối sang toàn bộ lịch sử đảo. Đây là nhận xét của người biên tập đã tham gia viết, **không phải review độc lập**, chưa nghe đọc hoặc đo retention. Giữ V38 làm bản thử để chủ kênh phản hồi; **V26 vẫn là nền tạm ghi trong episode.md**, chưa bản nào được chủ kênh chọn.
+
+
+## R25 — 24/09/2026 — sửa tầng kiến trúc thay vì câu chữ
+
+### Nguyên văn phản hồi mới của chủ kênh
+
+> không tôi không thấy đó là điểm đáng học, tôi thấy rằng độ dài cùng như nhau nhưng khả năng cung cấp thông tin của the sumerian tốt hơn vượt trội dù là 1 bản tóm tắt 200-300 chữ. Và quan trọng là dù là bản tóm tắt nhưng các sự kiện của the sumerians cũng có liên kết với nhau một cách mạch lạc còn Schokland thì lại rất nông, nó cố tình kịch tính hóa với đoạn "Cuộc rời đi có những va chạm: tiền bồi thường phải gánh cả nợ cũ lẫn nhà mới, có người chần chừ hoặc đòi thêm tiền tháo dỡ, còn chính quyền Kampen không dành chỗ cho họ trong cổng thành. Một số gia đình đưa vật liệu qua nước, dựng lại nhà ở Brunnepe và tiếp tục sống.   " nhưng nghe rất miễn cưỡng và câu "đưa vật liệu qua nước" cực kỳ không tự nhiên với tư cách là một người nghe
+
+> chỉ với câu Con người dẫn nước vào ruộng, lập nên các đô thị, rồi tạo ra chữ viết để tổ chức một xã hội ngày càng lớn. tôi thấy nó còn mạnh hơn toàn bộ cả cái phần tóm tắt mà bạn đã viết. Tôi cảm thấy vấn đề đã rất nặng nề từ story architect thì không có gì bất ngờ khi output dựng trên nó đều yếu
+
+### Chẩn đoán biên tập
+
+[Story map v05](working/2026-09-23-story-map-v05.md) trả lời “điều gì xảy đến với căn nhà hộ Jan từ đảo sang Brunnepe?” trong một đoạn 1858–1859. Nó không trả lời tại sao đất canh tác thành đảo, xã hội đã đổi sinh kế/giữ đất như thế nào, vì sao cư dân đi nhưng cảng ở lại, hoặc vì sao vùng nước trở lại thành đất vào năm 1942. Một bản tóm tắt toàn tập dựng trên map ấy buộc ghép giai thoại/ma sát bồi thường để giả làm nhịp tăng tiến. R24 đã tự đọc V38 và tưởng chuỗi giấy tờ tạo đảo chiều; phản hồi của chủ kênh bác nhận định trải nghiệm đó. Cụm “đưa vật liệu qua nước” là dấu hiệu câu chữ đang che khoảng trống trong quan hệ lịch sử, không phải một hình ảnh có ích cho tai nghe. Giữ tài liệu cũ làm mốc thử; không giao tuyến Jan và 21 nhà làm trục toàn tập nữa.
+
+### Quyết định trong vòng này
+
+Tạo [story map v06 cho toàn tập](working/2026-09-24-story-map-v06-full-arc.md) và một synopsis một đoạn 260 từ. Trục mới là đất/biển/sinh kế biến đổi: tháo nước canh tác → than bùn co lún trong điều kiện biển xói mòn → đổi nơi ở và sinh kế → đê yếu, lụt và nợ thuyền, xưởng dệt không giải nghèo → di dời 1859 → giữ cảng năm 1862 → kế hoạch quy mô toàn vùng sau lũ 1916/thiếu lương thực và polder khô năm 1942. Bến cảng là manh mối mở, các vụ/nhân vật chỉ được dùng khi đổi nghĩa của quá trình này. Chứng cứ, mức tiếp cận và ranh giới suy diễn được ghi ngay trong v06. Quyết định giữ cảng năm 1862 không chứng minh nhà nước có thể giữ nguyên cộng đồng năm 1859; công trình của thế kỷ XX không được kể là giải pháp đặt ra để đền bù cho cuộc di dời.
+
+Đây là **đề xuất sửa upstream** và kiểm thử sức nén/nhân quả của bản tóm tắt, chưa là bản lời kể mạnh, chưa có review độc lập hoặc phê duyệt. Trước handoff Writer cần tìm sâu hơn lời chứng/đời sống của cư dân, kiểm hồ sơ tranh luận về cảng và quyết định trị thủy, chọn một đoạn thực sự có chất liệu để viết, rồi so trải nghiệm lời kể với bản nền. V26 vẫn chỉ là nền tạm cho đoạn cũ; V38 không được nâng. Không sửa DNA hay workflow từ phản hồi này.
