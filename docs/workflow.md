@@ -3,6 +3,8 @@
 Ngày khởi tạo: 2026-09-11. Cập nhật: 2026-09-22.
 Trạng thái: thiết kế ban đầu theo yêu cầu chủ kênh; chưa được kiểm nghiệm bằng một tập hoàn chỉnh.
 
+**Nhánh experiment/story-investigation-redesign:** áp dụng [thử nghiệm kiến trúc điều tra lịch sử](story-investigation-experiment.md) từ chọn ứng viên, nghiên cứu, dựng tập, bàn giao Writer đến review. Các quy tắc bảo vệ nguồn và bản nền dưới đây tiếp tục áp dụng. Những đoạn mô tả đường đi cũ là lịch sử đối chứng khi mâu thuẫn với thí nghiệm mới.
+
 ## Kiến trúc: tài liệu ổn định, hồ sơ tập, phiên bản bản thảo
 
 Ba lớp có vòng đời khác nhau:
@@ -41,6 +43,7 @@ Trong episode.md, viết ngắn gọn:
 - Sự biến đổi nào trong đời sống con người làm đề tài có hậu quả thực sự?
 - Câu hỏi nào người nghe sẽ muốn theo tới cuối?
 - Có human story mạnh, idea/system trajectory mạnh, hay cả hai?
+- Sau khi giải sự lạ ở mở đầu, ai/nhóm nào vẫn có điều muốn đạt hay giữ; sức ép, quyết định và hệ quả nào có chứng cứ để người nghe đi tiếp?
 - Sau khi bỏ facts thú vị và tầm quan trọng lịch sử, còn tension hoặc trajectory nào đủ sức giữ câu chuyện?
 - Có con người, tài liệu, biến cố, dấu tích, mô hình hoặc bằng chứng nào để đi vào câu chuyện?
 - Điều gì còn chưa biết, có thể khiến hướng kể phải thay đổi?
@@ -75,9 +78,9 @@ Tập trung vào bước ngoặt, lựa chọn, tension và đời sống cụ t
 
 ## 3. Biên tập mạch truyện
 
-Trong episode.md, dựng một bản kể ngắn bằng văn xuôi về câu chuyện từ đầu tới cuối, với độ dài đủ để nhìn thấy chuyển động. Đây là cách kiểm tra quan hệ giữa các phần, không phải tóm toàn bộ mọi ý thành một giới hạn từ cố định.
+Trong episode.md, dựng một bản kể ngắn bằng văn xuôi về câu chuyện từ đầu tới cuối, với độ dài đủ để thấy **tình thế, nỗ lực, lựa chọn, trở lực, hệ quả và việc câu hỏi của người nghe thay đổi**. Thử đọc không có tiêu đề hay câu suy tưởng: sự kiện sau có lý do phát sinh từ phần trước không? Đây là kiểm tra nội dung và trải nghiệm được hứa, không phải hạn mức từ hoặc lời dẫn mẫu.
 
-Khi nhiệm vụ chỉ là viết thử một đoạn, xác định mạch và căn cứ cho đoạn đó cùng vị trí dự kiến trong tập; ghi các phần chưa rõ là điều còn mở, không cần hoàn tất mạch toàn tập trước khi viết thử.
+Khi chỉ viết thử một đoạn, định vị nó là chương của bản kể toàn tập; ghi rõ tuyến toàn tập nào chưa đủ nguồn. Có thể thử chương đã đủ chất liệu mà không chờ cả tập hoàn hảo, nhưng không đặt nhãn “bản hoàn chỉnh” bằng cách ghép chương ấy với một cú nhảy thời gian ở kết.
 
 ### Chọn thứ đang thực sự mang trajectory
 
@@ -93,7 +96,7 @@ Một system arc chỉ hợp lệ khi nó vẫn trả lời được: con ngư�
 
 ### Phân biệt explanation với narrative carrier
 
-Một video có thể có hook, POV, danger, reveal hoặc nhiều scene mà vẫn chủ yếu là phương tiện truyền đạt information. Trước khi viết, xác định câu hỏi giữ người nghe là gì:
+Một video có thể có hook, POV, danger, reveal hoặc nhiều scene mà vẫn chủ yếu là phương tiện truyền đạt information. Trên nhánh thử, Architect phải kiểm song song câu hỏi khám phá của khán giả với người/chủ thể đang hành động: nếu câu hỏi “vì sao” chỉ được trả bằng danh sách nguyên nhân mà không có biến cố và hậu quả đối với ai, đó vẫn là một tuyến giải thích. Một cú đảo chiều về địa hình chỉ thành chặng lớn khi công việc, lựa chọn và hệ quả lịch sử của nó cũng được kể. Trước khi viết, xác định câu hỏi giữ người nghe là gì:
 
 - Họ đang chờ một câu trả lời về cơ chế/sự kiện?
 - Hay họ đang theo một trajectory có stakes/meaning và muốn biết nó sẽ biến đổi ra sao?
@@ -167,7 +170,7 @@ Khi phản hồi là các câu/địa danh/nhân vật **đứng cạnh nhau nh�
 
 Sửa trong phạm vi đủ giải quyết nguyên nhân. Không mặc định viết lại toàn bộ; cũng không giữ cấu trúc hỏng chỉ để sửa ít. Nếu phải thay lớn, nêu vì sao sửa cục bộ không đủ. Không tự áp hạn mức từ hoặc nhồi mọi yêu cầu vào phần đang sửa. Thiếu chất liệu thì nghiên cứu phần thiếu trong phạm vi được giao hoặc ghi giới hạn, không bịa để tăng sức kể.
 
-Nếu **cùng một trải nghiệm yếu** xuất hiện trong ít nhất hai bản đã khóa dù writer nhận handoff tách biệt, dừng việc gửi tiếp cùng kiểu brief/route để chỉ thay câu chữ. Editor dẫn các đoạn lặp, rồi xác định thiếu hụt nằm ở chất liệu có thể kể, cách Curator chọn và chuyển nguồn, progression của story map hay prose. Sửa đúng tầng: tìm thêm chứng cứ, rút/chọn lại route hoặc đổi architecture khi cần; giữ bản trước làm đối chứng và cho reviewer đọc bản thử mới trước ý đồ sửa. Không biến một dấu hiệu trong một tập thành luật áp cho toàn kênh, và không coi việc rút ngắn packet tự nó là cải thiện chất kể.
+Nếu **cùng một trải nghiệm yếu** xuất hiện trong ít nhất hai bản đã khóa dù writer nhận handoff tách biệt, dừng việc gửi tiếp cùng kiểu brief/route để chỉ thay câu chữ. Với lỗi ở quy mô tập (chương hấp dẫn nhưng 1942 chỉ là coda, hoặc chuỗi câu hỏi không dẫn tới hành động), quay lại bản kể toàn tập và Story Architect trước khi tạo thêm route. Editor dẫn các đoạn lặp, rồi xác định thiếu hụt nằm ở chất liệu có thể kể, cách Curator chọn và chuyển nguồn, progression của story map hay prose. Sửa đúng tầng: tìm thêm chứng cứ, rút/chọn lại route hoặc đổi architecture khi cần; giữ bản trước làm đối chứng và cho reviewer đọc bản thử mới trước ý đồ sửa. Không biến một dấu hiệu trong một tập thành luật áp cho toàn kênh, và không coi việc rút ngắn packet tự nó là cải thiện chất kể.
 
 Nếu bản mới vẫn đi qua một danh mục sự kiện dù packet đã gọn, editor và Curator phải kiểm xem route có **một đường thay đổi có thể theo dõi** và một chuỗi hành động có nguồn để ở lại đủ lâu hay chỉ đổi bảng kê thành các mục ngắn hơn. Phân biệt fact cần nói trong lời dẫn với fact chỉ giữ để kiểm chứng; lời kể vẫn phải giữ những hạn định thiết yếu để không sai người, sai thời điểm hoặc sai mức chắc chắn. Với văn kiện/chính sách, route nêu rõ văn kiện nào tạo nghĩa vụ nào và hạn cho việc gì, không gộp các mốc chỉ vì chúng cùng thuộc một quyết định.
 

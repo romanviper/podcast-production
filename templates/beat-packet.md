@@ -46,4 +46,4 @@ Scope:
 
 Sau khi packet đủ evidence, Curator tạo `writer-route.md` riêng bằng template tương ứng.
 
-Writer route chỉ lấy những field cần cho prose: start state, observable change, evidence/material, minimum fact, confidence/limit và do-not-imply. Không copy Story function, thematic reasoning, quality diagnosis hoặc symbolic interpretation sang route.
+Trên nhánh thử, writer route lấy câu hỏi cụ thể của chương, người/tình thế/áp lực và hành động có nguồn, sự đổi trạng thái, evidence/material, điều phải hiểu trước bước tiếp, confidence/limit và do-not-imply. Không copy luận điểm triết học, chỉ thị cảm xúc, quality diagnosis hoặc symbolic interpretation. Nếu packet chỉ đủ cho một chương của tập, không chuyển một câu khái quát về chặng thiếu như thể phần đó đã được giải.

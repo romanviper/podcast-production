@@ -1,0 +1,61 @@
+# Schokland — bản đồ điều tra lịch sử toàn tập v01
+
+Ngày 24/09/2026. Trạng thái: **giả thuyết kiến trúc toàn tập đang điều tra; chưa phải route viết và chưa được chủ kênh chọn.** Bản này thay câu hỏi/đường triển khai cho phép thử trên experiment/story-investigation-redesign. Story map v02/v05 cũ, R23 và V35 là đối chứng; không sửa chúng. Mốc thời gian và giới hạn nguồn đọc cùng phần Nguồn ở cuối.
+
+## Lời hứa và tình thế
+
+Cảnh mở: một dấu cảng và đường bờ của đảo cũ trong vùng đồng bằng Noordoostpolder. Hình dạng cảnh quan hiện tại là thật, nhưng một số cấu phần của cảng đã được phục dựng; không quay/chú thích chúng như nguyên trạng năm 1859. Người nghe được hứa sẽ biết nơi đây từng được làm thành nơi sống ra sao, vì sao cư dân phải đi năm 1859, và vì sao một công trình khác đã biến vùng nước xung quanh thành đất năm 1942. Câu hỏi dần thay đổi từ “biển đã đi đâu?” thành “khi điều kiện sống đổi, ai còn có khả năng ở lại, ai quyết định tiếp tục duy trì nơi ấy và cho mục đích gì?”.
+
+Bản kể trừu tượng của tập: Con người khai thác đất than bùn và phải đối phó với tình trạng lún, xói mòn khiến dải đất cuối cùng trở thành đảo. Nhiều đời tiếp tục giữ các gò, đê, bến cảng và sinh kế; biển là áp lực thực nhưng không tự giải thích thời điểm kết thúc cư trú. Vào những năm 1850, nghề cá suy, nguồn hỗ trợ và các giải pháp tạo việc làm bị thử thách; một khu ở được dời trong nội bộ đảo, trong lúc vẫn có người tiếp tục sửa nơi ở và công việc. Chính quyền đưa việc di dời toàn đảo thành luật cuối năm 1858 và thời hạn năm 1859. Những gia đình rời nơi ở nhưng không biến mất: một nhóm tới Brunnepe, tái dùng nhà/vật liệu và tạo khu sống mới. Schokland vẫn có vai trò hàng hải sau khi phần lớn cư dân đi. Nhiều thập kỷ sau, một dự án quốc gia với mục tiêu an toàn nước và đất canh tác khép Zuiderzee, vấp phản đối của nghề cá, rồi làm Noordoostpolder khô năm 1942. Một vùng đất mới và sinh kế mới xuất hiện; vài nghề gắn với nước bị thay thế. Dấu cảng trên cạn giờ ghi cùng lúc công sức giữ nơi ở, quyết định phải rời nó và khả năng cải tạo cảnh quan ở một quy mô khác. Công việc quản lý nước tại đây không dừng ở năm 1942.
+
+Đây là synopsis nghiên cứu, không phải lời kết chắc chắn rằng “mọi phương án ở lại đều bất khả thi” hoặc “cộng đồng cũ tan biến”. **Đường 1859 có chất liệu người/hành động; đường 1918–1942 hiện mới có chứng cứ vĩ mô và một số xung đột vùng, chưa đủ cảnh/người để giao Writer viết toàn tập.**
+
+## Ba câu hỏi và ba lời hứa phải giữ
+
+1. **Dấu cảng giữa đất:** giải đáp sớm rằng Schokland từng là đảo trong Zuiderzee, nước quanh nó thành đất của Noordoostpolder năm 1942. Không giữ bí mật địa lý qua nhiều phần để đổi lấy suspense rỗng.
+2. **Vì sao một nơi từng được giữ qua nhiều đời lại phải rời năm 1859?** Điều tra từ dấu tích sử dụng đất, việc làm và cư dân, tới các phương án từng thử, cách chính quyền đi đến quyết định, phản ứng khác nhau của người trong cuộc. Biển là sức ép có thật, không phải “đáp án sai” chỉ để tạo twist.
+3. **Điều gì cho phép một quy mô khác biến vùng nước thành đất, và đổi đời sống nào?** Không gọi dự án thế kỷ XX là chương cuối cùng của cùng một chiến dịch do cộng đồng 1859 khởi xướng. Cần nguồn cho quá trình và người hưởng lợi/chịu hệ quả trước khi dùng 1942 làm cao trào.
+
+## Trật tự phát hiện, không dựng cú lật giả
+
+Cảng trên cạn mở cửa; trả sớm đáp án địa lý. Đi vào đảo lúc còn người sống rồi cho thấy bão và xói mòn, để biển trở thành một phần câu trả lời có thật. Sự tồn tại bền bỉ và những công việc duy trì nơi ở làm câu hỏi “vì sao chính 1859?” có trọng lượng. Chỉ sau khi đã hiểu các phương án và quyết định di dời, chuyển sang thế kỷ XX: đây là một mục tiêu/công trình/quy mô xã hội khác, không phải cùng hộ dân bỗng đạt được chiến thắng. Mỗi bước phải dựa vào sự kiện làm đổi câu hỏi; không chèn câu hỏi chỉ để trì hoãn một sự thật đã rõ.
+
+## Chuyển động dự kiến
+
+| Chặng | Người nghe theo điều gì và tình thế đổi ra sao | Chất liệu có, hạn chế và tác vụ còn thiếu |
+| --- | --- | --- |
+| 1. Cảng trên cạn | Thấy một bờ đảo cũ trong cánh đồng; trả nhanh câu hỏi địa hình và mở câu hỏi về đời sống từng cần nước ấy. Giá trị cảm nhận: tò mò có đối tượng thật. | UNESCO xác nhận cảnh quan và cảnh báo cảng hiện có phần phục dựng [S1]. Kiểm góc quay/bản đồ để tránh ngụ ý công trình nguyên vẹn. |
+| 2. Nơi ở được tạo và duy trì | Lùi về thay đổi đất than bùn, xói mòn và đảo hóa; tới gò cư trú, đê, bến và các nghề. Người nghe hiểu vì sao nơi này đáng giữ và vì sao giữ nó đòi hỏi công sức. | ICOMOS cho quan hệ tháo nước–đất lún–xói mòn và các gò/đê; nhiều tác nhân tự nhiên và xã hội, không quy hết vào một lỗi của cư dân [S2]. Cần chọn 1–2 dấu tích/đợt hành động có nguồn để phần này không thành bài địa lý. |
+| 3. Những phương án trước quyết định | Khi nghề cá sa sút, dân xin nguồn sửa thuyền/lưới; hoạt động dệt và việc gia cố cơ sở vẫn được bàn và làm; một khu dân cư phía nam rời đi trước. Người nghe chờ xem cộng đồng còn giữ được điều gì, chứ chưa bị nói trước rằng tất cả đã vô vọng. | Bài của Klappe–Veer dẫn thư, báo cáo của thị trưởng và dự toán 1849–1857 [S3]. Đây là tổng thuật có trích nguồn, chưa đối chiếu từng hồ sơ gốc. Các việc thuộc người và năm khác nhau; không ghép thành hành trình của hộ Jan hoặc một “cuộc kháng cự” tập thể. |
+| 4. Năm 1858–1859, quyền quyết định đổi tay | Dấu bão và cảng còn hoạt động qua một ký sự năm 1858 có thể đặt cạnh quá trình ra quyết định. Luật tháng 12/1858 hỗ trợ di dời và bồi thường; thông báo 1/3/1859 đưa ra thời hạn tháo và đưa tài sản đi. Kịch tính nằm ở câu hỏi vì sao quyết định này được chọn, người dân còn lựa chọn thực chất nào và việc ra đi được thực hiện ra sao. | Zeehuisen chỉ là nhân chứng khách thăm [S4]. Bia chép văn bản luật/thông báo; bài tổng thuật ghi có một số người do dự/đòi bồi thường [S5]. Chưa xem toàn bộ tranh luận nghị viện, thư cư dân và hồ sơ cấp phát; chưa dùng “nhà nước chỉ muốn tiết kiệm” hay “mọi người bị cưỡng bức cùng cách” làm kết luận. |
+| 5. Hậu quả hiện diện ở con người | Theo một hoặc vài hồ sơ hộ tới nơi đến; nhà và đất mới ở Brunnepe là hành động tiếp tục sống sau quyết định. Schokland vẫn còn vai trò hàng hải. Hình ảnh nhà tháo/chở là hệ quả của điểm ngoặt, không phải toàn bộ cuộc đấu tranh. | Hồ sơ nghiên cứu Klappe về hộ Jan và 21 lô; một số nhà tái dùng vật liệu, tên Jan trong chứng thư [S6]. Không có nhật ký hay tâm tư Jan; không gán chi tiết nhà chung cho nhà ông. ICOMOS ghi đảo vẫn là đê chắn và nơi tàu trú sau di dời [S2]. Thành phố Kampen có phản ứng miễn cưỡng theo bài lịch sử địa phương; cần kiểm thư gốc trước khi xây tuyến đối đầu riêng [S6]. |
+| 6. Một quyết định khác ở quy mô khác | Nhiều thập kỷ sau, các dự án ngăn nước và khai hoang được bàn, gặp phản đối từ ngành đánh cá; luật 1918, đê lớn khép 1932, vùng quanh Schokland khô 1942. Kết quả tạo đất/công việc thật và đổi điều kiện sống của nghề cũ. Câu hỏi về khả năng cư trú quay lại với chủ thể, mục tiêu và cái giá khác. | Rijkswaterstaat ghi phản đối của nghề cá, trận lụt 1916, luật 1918, công trình đê và polder [S7]; Stadsarchief Kampen ghi nghề cá trong vùng bị thay thế bằng việc mới [S8]. Có thêm đầu mối về ngư dân Vollenhove treo cờ rủ năm 1932 và lao động xây dựng polder trong thời chiến [S9], nhưng Vollenhove là cộng đồng riêng; chưa có chứng cứ đưa họ thành hậu duệ của hộ Jan hoặc người Schokland. Còn thiếu một chuỗi hành động quanh Schokland và những người thực sự gánh đoạn này. **Chưa khóa cấu trúc cảnh hoặc payoff của chặng này.** |
+| 7. Trở lại cùng vị trí | Cảng cũ nằm trong đất đã có lớp nghĩa của những lần thay đổi điều kiện sống; di sản còn được bảo vệ bằng quản lý nước. Điểm cuối mở về nỗ lực tiếp tục, không tuyên bố “biển thua” hoặc “cộng đồng mất hẳn”. | UNESCO ghi việc điều tiết nước nhằm hạn chế lún và giữ khảo cổ [S1]. Chỉ đưa lớp này vào kết nếu thân bài đã xây đủ quan hệ giữa thành tựu và công việc bảo vệ nó; không biến thành thông điệp đạo đức ở phút cuối. |
+
+## Vị trí của những vật dẫn và tuyến người
+
+- Dấu cảng/cảnh quan Schokland là điểm trở lại xuyên tập; căn nhà Jan là bằng chứng ở chặng 5, không phải protagonist của giai đoạn 1918–1942.
+- Zeehuisen cho một ngày nhìn từ ngoài đảo. Không gán ông động cơ hoặc cho ông đại diện tiếng nói người dân.
+- Thị trưởng Gillot, ngư dân có thư và cơ quan cứu trợ mang những quyết định/hành động trong hồ sơ riêng. Nghiên cứu mới có thể chọn tuyến người đương thời tốt hơn. Không ghép sáu ngư dân trong thư với Jan Bien vì trùng họ.
+- Legebeke mua/chia đất ở Brunnepe, không biến ông thành nhân vật cứu toàn bộ đảo.
+- Kỹ sư, người làm công, ngư dân phản đối và cư dân polder thế kỷ XX hiện là **tuyến cần tuyển từ tư liệu**, chưa phải những nhân vật đã được chọn. Phản đối của nghề cá vùng Zuiderzee chưa chứng minh một hậu duệ Schokland cụ thể tham gia.
+
+## Kiểm tra trước khi Curator giao phần nào cho Writer
+
+**Đoạn 1850–1859:** chọn một câu hỏi có người trong cuộc, một cách xoay xở được ghi, một áp lực/giới hạn rõ và một điểm ngoặt có hậu quả. Ghi rõ nguồn gốc từng trích đoạn. Nếu chỉ có “biển nguy hiểm, nghèo, phải đi”, nghiên cứu tiếp thay vì gọi đó là drama.
+
+**Đoạn 1918–1942:** tìm ít nhất một đường sự kiện có người/thiết chế thật, ý định/việc làm được chứng minh, trở lực và kết quả; một đường khác cho sinh kế bị đổi, với giới hạn đại diện. Tìm cách nối nó vào nơi và câu hỏi của Schokland mà không khẳng định dự án nhằm trả đất cho người đi năm 1859. Nếu không giải được, đây vẫn là map toàn tập chưa đủ nguồn; không viết một đoạn engineering montage rồi gắn năm 1942 thành lời giải.
+
+**Bản tóm tắt:** đọc không dựa vào tiêu đề cảnh. Nếu người đọc chỉ nhớ “đảo → lệnh → nhà qua nước → đất mới”, map chưa đạt. Nếu cắt 1942 mà phần còn lại vẫn hoàn chỉnh, phải giải chặng 6 chứ không kéo dài lời kết. Nếu tăng kịch tính đòi bịa lời nói, biểu tình, cảnh thị trưởng dạo đảo hoang hoặc kết quả thương lượng, giữ chúng là câu hỏi nghiên cứu, không làm cảnh.
+
+## Nguồn đã xem và mức dùng
+
+- [S1 — UNESCO, Schokland and Surroundings](https://whc.unesco.org/en/list/739/), phần Description, Integrity, Authenticity và Management: địa hình lịch sử, năm 1859/1942, các cấu phần phục dựng, đệm thủy văn. Tổng thuật di sản, không có động cơ từng hộ.
+- [S2 — ICOMOS, Advisory Body Evaluation](https://whc.unesco.org/document/154154), phần History tr. PDF 2 và đầu Description: đất than bùn, thay đổi sinh kế, gò/đê, di dời, vai trò đảo sau 1859. Nguồn đánh giá di sản, không phải văn kiện quyết định 1858.
+- [S3 — Klappe–Veer, De ontruiming van Schokland, phần 1](https://schokkervereniging.nl/schokker-erf/artikelen-uit-het-schokker-erf/185-de-ontruiming-van-schokland-1), đoạn 1849–1858: khảo cứu thứ cấp có trích/diễn giải thư, báo cáo; chưa đối chiếu hồ sơ lưu trữ gốc trong lượt này.
+- [S4 — Zeehuisen, ký sự chuyến đi 2/9/1858](https://www.schokkervereniging.nl/schokker-erf/artikelen-uit-het-schokker-erf/88-een-bezoek-op-het-eiland-schokland-op-2-september-1858): bản đăng lại ký sự cũ, không phải lời trực tiếp của Jan hoặc toàn cư dân.
+- [S5 — Flevoland Erfgoed, plaquette ontruiming 1859](https://www.flevolanderfgoed.nl/home/herinneringsmonumenten/noordoostpolder-4/schokland-2/plaquette-ontruiming-1859.html): bài tổng thuật kèm bản chép luật/thông báo; bản thông báo gốc tại lưu trữ Kampen chưa trực tiếp xem.
+- [S6 — Klappe, De Schokkers in Kampen](https://www.schokkervereniging.nl/schokker-erf/artikelen-uit-het-schokker-erf/102-de-schokkers-in-kampen-1859): nghiên cứu địa phương dẫn chứng thư/sổ; chưa xem chứng thư gốc; phân biệt cả khu Brunnepe với hộ Jan.
+- [S7 — Rijkswaterstaat, 100 jaar Zuiderzeewerken](https://www.rijkswaterstaat.nl/water/waterbeheer/bescherming-tegen-het-water/100-jaar-zuiderzeewet): tổng quan cơ quan thực hiện về phản đối nghề cá, lý do chính sách, tiến trình kỹ thuật; chưa có tuyến trải nghiệm cá nhân ở Noordoostpolder.
+- [S8 — Stadsarchief Kampen, Schokland](https://www.stadsarchiefkampen.nl/meer-weten-over/schokland): tổng thuật lưu trữ về mốc công trình và chuyển dịch việc làm vùng Kampen; không chứng minh hậu duệ Jan trực tiếp mất nghề.
+- [S9 — Canon van Nederland, Nieuwe buren, nieuwe uitdagingen](https://www.canonvannederland.nl/nl/overijssel/land-van-vollenhove/land-van-vollenhove/nieuwe-buren): bài lịch sử địa phương về Vollenhove, 1932 và công việc ở Noordoostpolder; không phải lời người Schokland hoặc hồ sơ của một gia đình Brunnepe.

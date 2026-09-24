@@ -95,13 +95,13 @@ Chỉ với ứng viên còn sống.
 
 Câu hỏi duy nhất:
 
-> Lịch sử có đủ người, sự kiện, vật chứng, nguồn và trải nghiệm đời sống để gánh câu chuyện này mà không phải bịa hoặc biến nó thành essay không?
+> Sau khi điều lạ ban đầu được giải, người trong lịch sử còn cố đạt hoặc giữ điều gì, điều gì gây sức ép, và nguồn có cho thấy nỗ lực, quyết định cùng hệ quả đủ để gánh phạm vi tập đã hứa không?
 
-Đây mới là lúc kiểm tra sâu nguồn, nhân vật, điểm nhìn, mốc thời gian và material có thể dựng thành trải nghiệm.
+Đây là lúc kiểm tra nguồn, nhân vật, điểm nhìn, mốc thời gian và material. Phân biệt sức tò mò với động cơ kịch tính: một chuỗi câu hỏi “vì sao” có thể dẫn tới bài giải thích nhưng không chứng minh có người/hệ thống đang trải qua một chuỗi lựa chọn và đổi trạng thái. Một vật thể chuyển chỗ không tự tạo kịch tính nếu mọi điều quan trọng đã được quyết định trước. Thử tóm toàn bộ hành trình trong vài câu không dùng tính từ hoặc câu triết lý; nếu chỉ còn một sự kiện chính và một coda cách nhiều thập kỷ, hạ phạm vi đề tài hoặc tìm tiếp mối nối lịch sử thật. Không bịa đối kháng để cứu ứng viên.
 
 ## Lượt F — Nghiên cứu sâu và dựng mạch
 
-Chỉ sau khi các cổng trên đều đủ hứa hẹn mới đầu tư research sâu, dựng causal model, trajectory, outline và viết thử.
+Chỉ sau khi các cổng trên đủ hứa hẹn mới đầu tư nghiên cứu sâu. Trên nhánh thử, Story Architect viết bản kể trừu tượng **toàn tập** và kiểm cả đường khám phá lẫn đường hành động của người trong cuộc theo [thử nghiệm điều tra lịch sử](story-investigation-experiment.md), rồi mới chọn chương để viết thử. Phần chưa có nguồn được ghi là chặn mạch, không giao Writer biến nó thành cảnh hoặc đoạn tổng kết.
 
 ## Quy tắc bàn giao giữa các lượt
 

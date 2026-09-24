@@ -1,58 +1,48 @@
-# Writer-Facing Route
+# Writer-Facing Route — bản thử điều tra lịch sử
 
-Scope:
+Scope (chương/đoạn, không tự gọi là toàn tập):
 Route revision / date:
-Source limits reconciled at (source note / version):
+Map nội bộ và nguồn đã đối chiếu (path + ref):
+Mức chín của phạm vi: chương đủ nguồn / toàn tập đủ nguồn để thử:
 
-> Chỉ artifact này được chuyển cho Narrative Writer. Không đính kèm full story map hoặc internal beat packet.
-> Curator phải tích hợp mọi đính chính vào chính route này rồi mới bàn giao. Nếu một route cũ còn thông tin sai, không gửi nó kèm errata rời và yêu cầu Writer tự sửa.
+> Đây là đầu vào cho Narrative Writer; không đính kèm full story map, review cũ hoặc bảng chẩn đoán. Curator hợp nhất đính chính trước khi gửi. Nếu phần việc là một chương của tập chưa giải xong, nêu rõ nơi dừng và điều chưa được phép kết luận.
 
-## Route
+## Câu hỏi cụ thể người nghe đang theo
 
-### Beat 1 — [neutral name]
-**Start state:**  
-**Observable change / end state:**  
+Một câu hỏi có thể được trả lời bằng sự kiện trong phần này, không phải thông điệp triết học hoặc câu narrator bắt buộc nói:
 
-**Evidence available**
-- Fact/material:
-  - Source:
-  - Confidence/limit:
+## Tình thế và thứ làm nó thay đổi
 
-Chỉ chuyển các fact/material cần cho thay đổi có thể quan sát trong beat này hoặc để writer không nói quá nguồn. Giữ phần chứng cứ nền và các lựa chọn chưa dùng trong beat packet nội bộ; không chép trọn bảng nghiên cứu vào route.
+- Người/nhóm hoặc quá trình đang theo:
+- Họ ở đâu, đang có gì cần giữ/đạt, đã làm gì có nguồn?
+- Áp lực hoặc lựa chọn nào hiện diện ở mốc này? Phân biệt động cơ được ghi với điều ta suy ra.
+- Sự kiện/hành động/điều kiện nào khiến tình thế đổi?
+- Sau phần này người nghe có thể biết gì mới và câu hỏi cụ thể nào còn mở?
+- Phần trước/sau nối bằng việc gì có căn cứ? Nếu là đối chiếu giữa thời đại, nêu đúng là đối chiếu.
 
-Nếu route ngắn hơn mà vẫn thành một fact/đoạn, nêu rõ carrier (người/nhóm/vật thể/hệ thống), trạng thái đầu → hành động hoặc sức ép có nguồn → trạng thái sau. Chọn một chuỗi liên tục có chứng cứ để Writer có thể dành thời gian cho nó; ghi chi tiết nào chỉ là giới hạn kiểm nguồn và không cần xuất hiện trong lời dẫn. Với luật/thông báo, tách ngày, chủ thể ban hành, nghĩa vụ và hạn của từng văn kiện.
+## Các bước có thể kể
 
-Trước khi gửi một scene có nguồn cho Writer, ghi một câu nội bộ: scene này làm trạng thái của carrier hoặc câu hỏi giữ người nghe đổi thế nào? Nếu không trả lời được mà chỉ thấy scene “rất điện ảnh”, để nó ở packet nghiên cứu. Nếu một bài thứ cấp tự bất nhất ở con số/tên, route ghi rõ chỗ chưa giải được và không đưa phát biểu đó vào narration.
+### Bước 1 — [tên trung tính]
 
-Khi route đưa tên người, chức danh, địa danh hoặc ý định, ghi **quan hệ được nguồn xác nhận** với hành động kế tiếp; đừng để danh xưng tự ngụ ý nguyên nhân. Tách điều nhân vật đã làm, động cơ họ tự nêu, suy luận của người nghiên cứu và lý do lời kể hiện nay dùng tư liệu ấy. Nếu động cơ không được ghi, nêu giới hạn đó trong route và để Writer có quyền hoãn/lược danh xưng chưa phục vụ chặng kể. Không biến lời tác giả hứa với độc giả ở đầu một ký sự thành mục đích cá nhân chắc chắn của chuyến đi được ký thuật.
+**Trạng thái đầu, hành động/sức ép, hệ quả nhìn thấy được:**
 
-**Concrete material writer may choose from**
-- People:
-- Places:
-- Objects:
-- Actions:
-- Spatial relations:
-- Material transformations:
-- Consequences:
+**Material được chọn**
+- Người, nơi, vật, văn bản, hành động, quan hệ không gian:
+- Nguồn + vị trí + mức tiếp cận:
+- Phần nào là bối cảnh kiểm nguồn, không cần đưa lên lời dẫn:
 
-**Minimum fact needed before next beat**
-- 
+**Điều phải hiểu trước bước sau:**
 
-**Do not imply**
-- 
+**Giới hạn không được ngụ ý:**
 
-**Writer freedom**
-- Chọn chi tiết nào được dwell hoặc lược thuật.
-- Câu văn, nhịp, ordering bên trong beat và literary synthesis trong giới hạn nguồn.
-- Không bắt buộc dùng mọi object/material được liệt kê.
+Chỉ thêm bước khi có sự đổi trạng thái thật; tránh một fact một đoạn. Với văn kiện, tách ngày, chủ thể ban hành, điều kiện, nghĩa vụ và hạn. Nếu nguồn mâu thuẫn ở sự kiện chặn mạch, trả Curator/Architect, không tự hòa giải trong văn.
+
+## Quyền tự do của Writer
+
+Chọn điểm vào trong phạm vi, câu văn, nhịp, độ ở lại, thứ tự chi tiết bên trong bước, mức giải thích cần thiết và suy tưởng văn chương trong giới hạn nguồn. Có thể bỏ material không cần thiết. Không tự bịa đối thoại, nội tâm, động cơ hay hành động để tạo đối kháng; không dùng lời diễn nghĩa thay cho bước ngoặt chưa xảy ra.
+
+Nếu route chỉ là các sự kiện đứng cạnh nhau hoặc không thể nối một chương vào lời hứa của tập bằng quan hệ có chứng cứ, trả lại Editor/Architect với chỗ đứt cụ thể. Không bắt Writer hoàn thiện ý nghĩa toàn tập từ một tệp handoff cục bộ.
 
 ## Firewall
 
-Không đưa vào route:
-- story function;
-- why-listener-continues reasoning;
-- thematic meaning;
-- symbolic interpretation;
-- editorial labels như “causal bridge”, “continuity/rupture”;
-- forbidden-prose examples;
-- chẩn đoán cognitive mode hoặc lịch sử thất bại của writer.
+Giữ ở nội bộ: luận điểm/phần dư, lý do biên tập chọn cảnh, nhãn biểu tượng, cảm xúc phải đạt, lịch sử thất bại của writer, review, câu mẫu. **Không che** câu hỏi người nghe đang theo, điều người trong cuộc cần, hành động có nguồn, kết quả và quan hệ tối thiểu để Writer kể được một chuỗi thay đổi.

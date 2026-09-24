@@ -12,7 +12,7 @@ Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận
 
 1. [DNA của kênh](docs/channel-dna.md): định hướng đã thống nhất với chủ kênh.
 2. [Tìm ứng viên theo từng lượt nhỏ](docs/candidate-discovery.md): dùng khi tìm đề tài; mỗi lượt chỉ chịu một trách nhiệm, bắt đầu từ giá trị chú ý.
-3. [Workflow biên tập v0.1](docs/workflow.md): cách triển khai và sửa bản thảo; cần kiểm nghiệm bằng tập thật.
+3. [Workflow biên tập v0.1](docs/workflow.md): cách triển khai và sửa bản thảo; cần kiểm nghiệm bằng tập thật. Trên nhánh thử mới, đọc thêm [kiến trúc điều tra lịch sử](docs/story-investigation-experiment.md) để thấy hợp đồng từ ứng viên đến review.
 4. [Nghiên cứu thị trường và lãnh thổ biên tập](docs/market-research.md): cách đánh giá nhu cầu, cạnh tranh ở cấp góc nhìn và khoảng trống trước khi đầu tư sâu vào một tập.
 5. [Các quyết định và điều còn mở](docs/decisions.md): tránh biến giả định thành yêu cầu.
 6. [Hướng dẫn cho trợ lý](AGENTS.md): phạm vi làm việc, nguồn và bàn giao.
@@ -30,7 +30,7 @@ Chúng ta muốn khán giả quay lại vì điều họ hiểu và cảm nhận
 | `episodes/<id>-<slug>/revisions.md` | Phản hồi nguyên văn, mốc cần giữ và kết quả sửa |
 | `episodes/<id>-<slug>/production.md` | Chỉ tạo khi cần: âm thanh, hình ảnh, quyền sử dụng và bản phát hành |
 
-Đang phát triển [tập Schokland](episodes/schokland/episode.md). Bản mới nhất là **[V13 — mở đầu nối vào cuộc di dời và dựng xóm](episodes/schokland/drafts/vi-v13-opening-and-relocation.md)**, viết từ nền V05 sau [review R10](episodes/schokland/working/2026-09-22-editorial-decision-audit.md). V13 là thử nghiệm tích hợp để review, chưa được chủ kênh chọn; V05/V06 vẫn là mốc phẩm chất cần giữ. [Lịch sử sửa](episodes/schokland/revisions.md) ghi nguyên văn yêu cầu, quyết định viết và đối chiếu R11. Quy tắc vòng feedback đã được làm rõ trong AGENTS.md và workflow mục 5.
+Đang thử kiến trúc toàn tập cho [Schokland](episodes/schokland/episode.md): [story map điều tra lịch sử v01](episodes/schokland/working/2026-09-24-story-investigation-map-v01.md) giữ đường khám phá từ cảng trên cạn qua quyết định di dời đến công trình khai hoang. Map đang điều tra, chưa được chủ kênh chọn và chưa đủ nguồn để giao Writer viết toàn tập; chặng 1918–1942 cần tìm người, hành động và hệ quả thật. [V35](episodes/schokland/drafts/vi-v35-complete-owner-read.md) là bản lời kể mới nhất trong lịch sử nhánh gốc, vẫn chỉ là thử nghiệm tập trung vào tuyến 1859; V05/V06 giữ làm mốc phẩm chất. [Lịch sử sửa](episodes/schokland/revisions.md) và [kiến trúc tách vai trước đó](docs/story-architecture-split.md) là đối chứng, không bị viết lại.
 
 Hồ sơ chọn đề tài trước đó: [lượt chọn ngày 17/09/2026](candidates/2026-09-17/README.md). Hai hướng v03 đã được rút khỏi ưu tiên; các bản cũ được lưu để đối chiếu. Công việc Schokland có [review premise](research/schokland-review-2026-09-19/review.md), [nghiên cứu cách biên tập podcast](research/history-podcast-editorial-2026-09-21/report.md) và [kế hoạch kịch bản tiếng Việt](research/schokland-vietnamese-script-plan-2026-09-21.md).
 
@@ -44,7 +44,7 @@ Mọi lượt nhận trước định hướng của chủ kênh trong DNA. A t�
 
 Bắt đầu một tập bằng cách chép [episode.md](templates/episode.md) sau khi ứng viên đã qua đủ các lượt cần thiết và bổ sung chất liệu thật. Dùng [market-research.md](docs/market-research.md) khi đến lượt khảo sát thị trường; dùng [research.md](templates/research.md) khi nghiên cứu; dùng [revisions.md](templates/revisions.md) khi có phản hồi hoặc vòng sửa.
 
-Với Schokland, ưu tiên hiện tại là kịch bản tiếng Việt để chủ kênh review. Bản tiếng Anh, thu âm và mức độ hình ảnh được xử lý sau; thời lượng, lịch phát hành và ngân sách chưa được chốt. Theo dõi phạm vi hiện hành trong hồ sơ tập.
+Trên nhánh thử, Schokland đang ở bước kiểm nghiệm mạch toàn tập; có thể viết thử chương có đủ nguồn bằng tiếng Việt, nhưng không giao “kịch bản hoàn chỉnh” khi đường 1918–1942 còn thiếu. Bản tiếng Anh, thu âm và mức độ hình ảnh được xử lý sau; thời lượng, lịch phát hành và ngân sách chưa được chốt. Theo dõi phạm vi hiện hành trong hồ sơ tập.
 
 ## Nguyên tắc vận hành
 

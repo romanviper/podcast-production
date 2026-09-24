@@ -11,8 +11,11 @@ Method: đọc văn bản / đọc thành tiếng / nghe bản đọc (nêu chí
 
 Không xem lời tự chấm, review cũ, story map, mục tiêu sửa của editor hoặc bản nền trước khi hoàn thành và khóa phần này. Nếu đã biết chúng, ghi rõ đây là đọc lại có ngữ cảnh, không gọi là đọc lạnh độc lập. Chỉ ghi điều hiện ra trong lời kể, dẫn vị trí.
 
+- Sau mở đầu tôi tin tập hứa trả lời điều gì? Lời hứa ấy có được phát triển tiếp trong phạm vi đã đọc không?
 - Tôi hiểu được người/nơi/tình thế nào và lúc nào?
+- Ở cuối mỗi chặng, câu hỏi hoặc mong đợi cụ thể của tôi là gì? Nó nảy từ hành động/hệ quả hay chỉ từ lời hỏi của narrator?
 - Chỗ nào muốn nghe tiếp, chỗ nào mất phương hướng hoặc đà kể? Vì sao trong văn bản?
+- Ai thực sự hành động hoặc quyết định; điều gì thay đổi đối với họ? Có phần nào chỉ mô tả kết quả đã biết?
 - Hình ảnh/hành động nào được triển khai, chỗ nào chỉ nêu rồi bỏ?
 - Có câu nào giải thích lại điều chi tiết vừa cho thấy?
 - Điều gì vẫn chưa rõ sau khi đọc liên tục?
@@ -38,7 +41,9 @@ Owner feedback verbatim (link to internal record; not reconstructed from writer 
 
 Open story map and source limits now; writer notes last. Không dùng story function như rubric áp nguyên văn lên narration.
 
+- Đây là chương hay toàn tập? Lời hứa đầu có được thực hiện trong phạm vi tương ứng không; chặng quan trọng nào chỉ xuất hiện như coda?
 - Progression hoặc causal prerequisite nào bị đứt/đổi? Dẫn vị trí.
+- Xung đột và những khả năng có thật có đi qua biến cố hay chỉ qua câu tổng kết? Nếu nguồn thiếu, trả Architect/Researcher; không giao Writer tạo drama.
 - Có fact nào vượt nguồn, nhập nhằng thời điểm hoặc trộn chứng cứ hai hộ? Dẫn nguồn và mức tiếp cận.
 - Các lời giải thích trong notes có đúng với bản đã khóa không? Không dùng notes để chấm trải nghiệm.
 
@@ -49,4 +54,4 @@ Open story map and source limits now; writer notes last. Không dùng story func
 - Bản đề xuất làm nền tiếp theo: giữ base / dùng candidate / chưa rõ. Lý do:
 - Mức kết luận: tự đọc có ngữ cảnh / lượt đọc lạnh bởi người khác / nghe thử có ghi nhận. Không suy ra phản ứng khán giả hoặc retention từ văn bản.
 - Owner đã chọn/chấp nhận gì, nếu có (dẫn nguyên văn); nếu chưa có ghi “chưa có”:
-- Nếu thử sửa tiếp: một nguyên nhân và phạm vi đủ hẹp; không viết sẵn lời bình cho Writer.
+- Nếu thử sửa tiếp: một nguyên nhân và phạm vi đủ hẹp; phân loại lỗi thuộc lựa chọn/phạm vi tập, story map, nguồn, route hay prose. Lỗi toàn tập quay lại Architect; không viết sẵn lời bình cho Writer.

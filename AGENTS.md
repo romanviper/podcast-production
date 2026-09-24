@@ -2,6 +2,8 @@
 
 ## Đọc và xác định phạm vi
 
+Trên nhánh experiment/story-investigation-redesign, khi nhiệm vụ liên quan chọn câu chuyện, nghiên cứu Schokland, story architecture, route, viết hoặc review, đọc [thử nghiệm kiến trúc](docs/story-investigation-experiment.md) cùng tài liệu đúng vai. Chỉ dùng [map Schokland v01](episodes/schokland/working/2026-09-24-story-investigation-map-v01.md) ở vai Architect/Editor/Curator/Reviewer; Writer chỉ nhận route đã lọc. Map hiện **đang điều tra**, không giao viết cả tập cho đến khi tuyến 1918–1942 có người/hành động/hệ quả đủ nguồn. Không tự nâng chương 1859 thành bản hoàn chỉnh bằng cách thêm coda 1942. DNA và giới hạn nguồn vẫn có hiệu lực; bản thảo cũ làm đối chứng.
+
 Đọc `docs/channel-dna.md`, rồi `episode.md` của tập đang làm và những nguồn/bản nháp được nó trỏ tới. Đọc `docs/workflow.md` khi nhiệm vụ liên quan quy trình hoặc vòng sửa. Khi nhiệm vụ là tìm hoặc sàng lọc ứng viên, đọc `docs/candidate-discovery.md`. Không nạp mọi bản nháp cũ, mọi nhận xét và mọi tài liệu vào nhiệm vụ viết.
 
 **Ngoại lệ khi nhận vai Narrative Writer / Revision Writer trong `experiment/story-architecture-split`:** chỉ mở các file được liệt kê trong handoff dành cho Writer theo `docs/story-architecture-split.md`. Hướng dẫn chung trong file này vẫn áp dụng, nhưng không tự mở `episode.md`, `revisions.md`, full story map, beat packet, review, notes writer hoặc toàn bộ `docs/workflow.md` để gom thêm ngữ cảnh. Nếu packet thiếu hoặc route còn sai, báo editor/Curator bổ sung rồi mới viết. Editor chịu trách nhiệm chuyển các giới hạn cần thiết từ DNA/workflow vào handoff mà không làm rò reasoning nội bộ.

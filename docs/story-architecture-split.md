@@ -1,5 +1,7 @@
 # Kiến trúc thử nghiệm — tách Story Architecture khỏi Narrative Writing
 
+**Cập nhật 24/09/2026 trên nhánh experiment/story-investigation-redesign:** [thiết kế thử từ đầu đến cuối](story-investigation-experiment.md) điều chỉnh quyền sở hữu và đầu vào Writer dưới đây. Phần lịch sử R13–R23 trong file này giữ làm đối chứng; nếu trái với hợp đồng mới, dùng tài liệu thử nghiệm. Đặc biệt, “đoạn toàn tuyến” từ cảng đến Brunnepe không tự tương đương tập hoàn chỉnh từ 1859 tới 1942.
+
 Ngày tạo: 22/09/2026  
 Nhánh thử nghiệm: `experiment/story-architecture-split`  
 Base: `episode/schokland-v05-review`
@@ -13,7 +15,7 @@ Các vòng Schokland cho thấy hai năng lực đang cạnh tranh khi bị giao
 
 Giả thuyết của nhánh này: **không cố prompt một writer cân bằng hai việc. Tách quyền sở hữu.**
 
-Story Architect chịu trách nhiệm giải bài toán trí tuệ và dramatic progression. Narrative Writer không được giải lại bài toán đó trong prose; nhiệm vụ của writer là làm các beat xảy ra bằng con người, vật thể, không gian, hành động và hệ quả.
+Story Architect chịu trách nhiệm giải bài toán trí tuệ và dramatic progression **ở đúng quy mô đã hứa với khán giả**. Trên nhánh mới, Architect kiểm cả câu hỏi điều tra lẫn nỗ lực/quyết định/hệ quả của người trong cuộc, viết synopsis toàn tập trước map chương. Narrative Writer không giải lại lỗ hổng ở tầng ấy trong prose; Writer làm các chuyển động đã có nguồn trở thành trải nghiệm nghe.
 
 **Full story map là artifact nội bộ. Writer không được đọc trực tiếp story map.** Beat & Evidence Curator phải tạo một writer-facing route đã lọc để ngăn editorial reasoning prime prose trở lại mode essay/explainer.
 
@@ -54,8 +56,9 @@ Không phải mọi tập đều cần đủ năm agent. Bắt buộc ở experi
 
 Story Architect quyết định:
 
-- câu chuyện đang theo trajectory nào;
-- điều gì khiến người nghe muốn đi tiếp;
+- lời hứa toàn tập được nói rõ bằng một synopsis có tình thế, nỗ lực, bước ngoặt và kết quả nào;
+- câu chuyện đang theo trajectory nào và chương đang được giao nằm ở đâu trong toàn tập;
+- người trong cuộc làm gì dưới sức ép nào, cùng điều gì khiến người nghe muốn đi tiếp;
 - thứ tự reveal;
 - causal dependency nào phải hiểu trước khi beat sau có nghĩa;
 - mỗi beat thay đổi tình thế hoặc cách hiểu ra sao;
@@ -83,7 +86,7 @@ Curator không thay story map và không viết paragraph mẫu.
 - `beat-packet.md`: artifact nội bộ cho Curator/Reviewer, có thể giữ reasoning, confidence và evidence mapping.
 - `writer-route.md`: artifact đã lọc dành riêng cho Narrative Writer.
 
-Writer route chỉ giữ start state, observable change/end state, evidence/material được phép dùng, minimum fact cần biết, confidence/limits và do-not-imply boundaries. Không chuyển story function, thematic meaning, why-listener-continues reasoning, symbolic interpretation hoặc các câu mẫu “đừng viết thế này”.
+Writer route của nhánh thử giữ câu hỏi cụ thể người nghe theo ở chương này, người/tình thế/áp lực, hành động hoặc quyết định có nguồn, thay đổi quan sát được, quan hệ tối thiểu giữa các bước, evidence/material, confidence/limits và do-not-imply. Không chuyển luận điểm triết học, chỉ thị cảm xúc, biểu tượng, review cũ hoặc lời mẫu. Có thông tin để kể một chuỗi thay đổi khác với nhận một bảng facts thiếu lý do.
 
 ### 3. Narrative Writer — sở hữu trải nghiệm nghe
 
@@ -137,9 +140,9 @@ Review đầy đủ, giả thuyết nguyên nhân, full history, lời tự đá
 
 Nguyên tắc chính không phải “đưa reasoning cho writer rồi cấm paraphrase”, mà là **information firewall**: writer không thấy reasoning đó ngay từ đầu.
 
-Story function, thematic interpretation, symbolic labels, causal-design rationale và các câu mẫu “đừng nói X” ở lại trong artifact nội bộ. Curator chỉ chuyển evidence và state change đủ để writer làm beat **xảy ra**.
+Thematic interpretation, symbolic labels, editorial rationale và các câu mẫu “đừng nói X” ở lại trong artifact nội bộ. Curator chuyển câu hỏi vận hành cụ thể, sức ép/người/hành động có nguồn, mối nối lịch sử cần để theo được chuyện, cùng giới hạn; không đưa chỉ trạng thái và các đồ vật rồi mong Writer tự sáng tác xung đột.
 
-Ví dụ: thay vì gửi “Establish that Schokland was still a functioning community shortly before evacuation”, writer route chỉ nên cung cấp material có thể kể như cảng còn hoạt động, lối đi đang được dùng, trường học, nhu cầu sửa thuyền/lưới, cùng giới hạn nguồn.
+Ví dụ: với Schokland, route của chương 1850–1859 có thể hỏi các gia đình còn cách nào để ở lại, rồi chọn thư xin sửa thuyền/lưới, hoạt động tạo việc làm, dấu bão, quyết định di dời và việc sang nơi khác theo đúng niên đại/nguồn. Không biến từng mẩu đó thành trải nghiệm của cùng một hộ, không bắt Writer nói ra luận điểm “giới hạn của xã hội”.
 
 ### Compress explanation, not experience
 
@@ -176,7 +179,7 @@ Mỗi agent mặc định mở context sạch.
 
 Story Architect có thể đọc DNA, episode state, research, owner feedback và quality benchmarks.
 
-Narrative Writer **không đọc** full story map, internal beat packet, toàn bộ revision history, workflow diagnostics hoặc thất bại của các writer trước. Nó nhận writer-facing route + style/quality anchors đã lọc + source extracts thật sự cần thiết.
+Narrative Writer **không đọc** full story map, internal beat packet, toàn bộ revision history, workflow diagnostics hoặc thất bại của các writer trước. Nó nhận writer-facing route có câu hỏi chương, tình thế/sức ép/điểm đổi, nguồn đã chọn + style/quality anchors cần thiết. Không giao Writer bản toàn tập chưa giải hoặc buộc nó nối 1859–1942 bằng câu chữ.
 
 Narrative Reviewer không đọc self-evaluation của writer trước lần đọc đầu.
 
@@ -218,7 +221,8 @@ Không cần lập bộ hồ sơ mới cho từng câu. Một brief nội bộ, 
 
 Không dùng điểm tổng. Sau một vòng, kiểm riêng:
 
-- Story map có giải được vấn đề và progression trước khi writer viết không?
+- Story map có bản kể trừu tượng của đúng phạm vi tập và tách phần còn thiếu nguồn trước khi writer viết không?
+- Chương đã viết có làm lời hứa toàn tập tiến lên hay chỉ kể xong một truyện nhỏ rồi nhảy tới mốc cuối?
 - Writer có thể viết prose giàu hình ảnh mà không tự biến thành essay/explainer không?
 - Khi bỏ câu diễn nghĩa, experience có được mở rộng thay vì chỉ bị nén không?
 - Reviewer có chẩn đoán được lỗi mà không sinh thêm một mega-rubric không?

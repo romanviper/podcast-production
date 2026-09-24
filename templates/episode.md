@@ -50,6 +50,8 @@ Không coi ít kết quả tìm kiếm là bằng chứng có cơ hội. Không 
 
 ## Bản kể ngắn về mạch truyện
 
+Trên nhánh thử điều tra lịch sử, viết synopsis **toàn tập** thành một đoạn văn có tình thế ban đầu, điều người trong cuộc cố làm, sức ép, hành động/quyết định, bước ngoặt, hậu quả, chuyển chủ thể nếu cần và kết quả cuối. Bên cạnh đó ghi câu hỏi khán giả ở mở, câu hỏi lớn hơn sau khi hook được trả lời, và biến cố nào khiến người nghe có cơ sở đổi cách hiểu/cảm nhận. Nếu chưa biết phần sau, đánh dấu chặn mạch; không gọi một chương cộng đoạn kết là toàn tập. Xem [thiết kế thử](../docs/story-investigation-experiment.md) và [mẫu story map](story-map.md).
+
 Viết văn xuôi đủ để thấy sự chuyển động và quan hệ giữa các phần. Chưa biết thì ghi chưa biết; không dùng kết luận trừu tượng để che chỗ thiếu diễn biến.
 
 Nếu mạch là human-centered, làm rõ điều con người muốn, lựa chọn, áp lực và hậu quả. Nếu mạch là idea/system-centered, làm rõ bài toán/lời hứa, các nỗ lực, bước tiến, biến chứng hoặc reversal, và giới hạn/ý nghĩa còn lại. Không bắt mọi tập theo cùng một cấu trúc.
