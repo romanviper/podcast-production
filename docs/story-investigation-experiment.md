@@ -36,7 +36,7 @@ Tại hồ sơ tập, viết một đoạn văn xuôi đủ dài để thấy đ
 
 ## Bản đồ truyện và cổng chứng cứ
 
-Story map nội bộ gồm hai mức, trong cùng một file: (1) lời hứa và bản kể ngắn **toàn tập**, (2) các chặng với câu hỏi hiện tại, bằng chứng trả lời, câu hỏi mới, hành động/sức ép, tình thế đổi, điều người nghe có cơ sở để cảm, nguồn và độ chắc. Chỉ tách một map chương nếu map toàn tập đã chỉ ra vị trí và phần còn mở của chương đó. Không dùng con số beat làm bằng chứng kịch tính.
+Story map phải đọc được như một câu chuyện trước khi dùng như hồ sơ biên tập. Mở bằng 3–5 đoạn văn xuôi theo tình thế, hành động và hệ quả của **toàn tập**, rồi vài bước ngắn theo thứ tự nghe. Tách liên kết và mức chắc của nguồn xuống cuối hoặc sang hồ sơ nghiên cứu; chỉ giữ trong thân câu chuyện giới hạn nào thực sự đổi ý nghĩa sự việc. Một người chưa biết đề tài phải có thể kể lại chuyện gì xảy ra, vì sao bước sau xuất hiện và ai chịu hậu quả. Nếu chỉ làm được bằng một bảng nhiều cột hoặc một danh sách biến cố, tiếp tục giải câu chuyện. Chỉ tách map chương khi đã rõ vị trí của nó trong toàn tập.
 
 Ba trạng thái bàn giao:
 - **Đang điều tra:** có tiềm năng nhưng thiếu người, biến cố hoặc quan hệ nhân quả ở chặng quyết định. Viết thử một đoạn đã đủ nguồn được, gọi đúng là phép thử chương; chưa giao viết toàn tập.
@@ -47,7 +47,7 @@ Ba trạng thái bàn giao:
 
 ## Bàn giao cho Writer
 
-Giữ full story map và diễn giải triết học ở nội bộ. Route của Writer lại phải có **một câu hỏi cụ thể mà người nghe đang theo trong chương**, tình thế của người trong cuộc, hành động hoặc quyết định có nguồn, quan hệ nhân quả cần hiểu và trạng thái sau chặng ấy. Chỉ đưa các trích đoạn, vật thể, địa điểm đủ dùng cùng giới hạn nguồn. Không đưa khẩu hiệu ý nghĩa, “cảm xúc cần viết ra”, điểm số review, lịch sử thất bại, bảng nguồn dài hoặc câu mẫu cho Writer chép lại.
+Khi phạm vi được kiểm nguồn và quyết định viết thử, Editor đưa Writer một **bản kể ngắn, dễ hiểu của toàn tập** để biết phần đang viết dẫn tới đâu, rồi route cho đúng chương: một câu hỏi cụ thể, người trong cuộc, hành động, sức ép và tình thế sau bước ngoặt. Chọn vài trích đoạn, vật thể, địa điểm và giới hạn nguồn thực sự cần. Không gửi nguyên sổ kiểm chứng, bảng nhiều cột, khẩu hiệu ý nghĩa, nhãn cảm xúc, điểm review hay câu mẫu cho Writer chép lại. Nếu người đọc không thể thuật lại câu chuyện từ bản kể ngắn mà không mở bảng giải thích, trả về Architect sửa trước khi viết.
 
 Writer có quyền trả route nếu nó chỉ là chuỗi facts, nếu cảnh đẹp không làm bài toán đổi trạng thái, hoặc nếu chặng kết nối 1859 với 1942 bằng một câu suy luận chưa chứng minh. Editor/Architect xử lý ở đúng tầng; không yêu cầu Writer “làm nó điện ảnh hơn” để lấp chỗ thiếu.
 
