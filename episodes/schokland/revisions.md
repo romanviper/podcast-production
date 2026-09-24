@@ -495,3 +495,20 @@ Tự đọc trên bản chữ: chuỗi quyết định về tiền, nhà và đ�
 Tạo [story map v06 cho toàn tập](working/2026-09-24-story-map-v06-full-arc.md) và một synopsis một đoạn 260 từ. Trục mới là đất/biển/sinh kế biến đổi: tháo nước canh tác → than bùn co lún trong điều kiện biển xói mòn → đổi nơi ở và sinh kế → đê yếu, lụt và nợ thuyền, xưởng dệt không giải nghèo → di dời 1859 → giữ cảng năm 1862 → kế hoạch quy mô toàn vùng sau lũ 1916/thiếu lương thực và polder khô năm 1942. Bến cảng là manh mối mở, các vụ/nhân vật chỉ được dùng khi đổi nghĩa của quá trình này. Chứng cứ, mức tiếp cận và ranh giới suy diễn được ghi ngay trong v06. Quyết định giữ cảng năm 1862 không chứng minh nhà nước có thể giữ nguyên cộng đồng năm 1859; công trình của thế kỷ XX không được kể là giải pháp đặt ra để đền bù cho cuộc di dời.
 
 Đây là **đề xuất sửa upstream** và kiểm thử sức nén/nhân quả của bản tóm tắt, chưa là bản lời kể mạnh, chưa có review độc lập hoặc phê duyệt. Trước handoff Writer cần tìm sâu hơn lời chứng/đời sống của cư dân, kiểm hồ sơ tranh luận về cảng và quyết định trị thủy, chọn một đoạn thực sự có chất liệu để viết, rồi so trải nghiệm lời kể với bản nền. V26 vẫn chỉ là nền tạm cho đoạn cũ; V38 không được nâng. Không sửa DNA hay workflow từ phản hồi này.
+
+
+## R26 — 24/09/2026 — kiểm lại lời hứa và phạm vi tập
+
+### Nguyên văn phản hồi mới của chủ kênh
+
+> bản tóm tắt của the sumerian dù là bản tóm tắt nhưng vẫn cho tôi thấy một bức tranh lớn từ lúc đế chế hình thành cho tới lúc nó tàn lụi và đáp ứng đúng lời hứa của kênh về lịch sử sụp đổ của 1 nền văn minh. Nhưng với bản tóm tắt của schoklands tôi không thấy bất kỳ bức tranh lớn nào ở đây, kèm với việc điểm chính của kịch bản chỉ là "Vùng đất trở lại, nhưng cộng đồng từng sống ở đó đã đi từ lâu." học theo FoC nhưng nó không tới đâu và đây hoàn toàn không phải luận điểm cốt lõi của cả kịch bản, câu đó với FoC thì đầy đủ vì nội dung của họ tập trung 100% vào việc kể về sự hình thành của Sumerians nên khi họ nói người sumer đã mất, di sản vẫn còn dừng lại ở mức độ man mác buồn vừa phải. Còn lịch sử Schoklands không dài như vậy, việc vùng đất có người sống trở lại nhưng cộng đồng từng sống đã biến mất cũng không phải luận điểm chính của video.
+
+### Chẩn đoán của biên tập viên
+
+R25 đã sửa chuỗi nhân quả nhưng **chưa sửa đơn vị câu chuyện**: đối tượng vẫn là Schokland, các mốc từ khoảng năm 1000 tới 1942 chỉ dẫn đến một nghịch lý địa hình và nỗi buồn về một cộng đồng vắng mặt. Đó không phải lịch sử hình thành, phát triển, va chạm rồi biến đổi của một thế giới sống rộng như tác phẩm tham chiếu. Dùng câu “đất trở lại nhưng người xưa không còn” làm luận điểm là bê một dư vị của *Fall of Civilizations* vào một đề tài chưa có cấu trúc tương ứng. Đó là lỗi chọn phạm vi/lời hứa, không sửa bằng thêm biến cố hay bằng câu chữ lâm ly.
+
+### Quyết định thử
+
+[Ứng viên R26](working/2026-09-24-r26-zuiderzee-scope-hypothesis.md) thử mở rộng chủ thể sang toàn vùng Zuiderzee: hồ và đất than bùn → biển mặn, nghề đánh cá và các cộng đồng bờ biển → tranh cãi ngăn biển và quyết định 1918 → đê, hồ nước ngọt, đất mới và đời sống đổi khác → kế hoạch vùng đất Markerwaard bị dừng năm 2003 dù đê dự kiến đã khép. Schokland là một bằng chứng có người và hậu quả cụ thể trong chặng giữa, không phải nạn nhân tượng trưng cho mọi thành tựu sau này. Đề xuất chốt bằng một công trình đổi công năng khi giá trị con người đặt vào mặt nước thay đổi, không bằng một câu đạo lý về điều đã mất.
+
+Các nguồn đã mở được ghi kèm ứng viên: ICOMOS/UNESCO cho Schokland; Canon van Nederland cho việc Almere thành Zuiderzee; Zuiderzeemuseum cho đời sống nghề biển; Rijkswaterstaat cho 1918, phản đối của ngư dân, chuỗi công trình và việc dừng Markerwaard; RCE cho quy hoạch cộng đồng trên vùng đất mới. Đây vẫn là các bản tổng thuật; chưa đọc đủ tiếng nói đương thời và hậu quả cụ thể để giao viết toàn tập. Giữ v06 như lịch sử một giả thuyết không đạt yêu cầu bức tranh lớn, không thay đoạn nền tạm V26 bằng bản tóm tắt R26 và không sửa DNA của kênh. **Thay đổi phạm vi sang Zuiderzee chưa được chủ kênh chọn.**
